@@ -1,0 +1,24 @@
+package curiosity.college.ccbean;
+
+public class CollegeMapper {
+	
+	private String id;
+	private String name;
+	private String code;
+	/*type may should be college or university*/
+	private String type;
+	private String approvedTo;
+	private String registrationDate;
+	private String registrationNo;
+	private String founderName;
+	private String longitude;
+	private String latitude;
+	private String isActive;
+	private String isDelete;
+	private String tag;
+	private String version;
+	private String createdAt;
+	private String createdBy;
+	private String updatedAt;
+	private String updatedBy;
+}

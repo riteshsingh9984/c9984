@@ -1,0 +1,5 @@
+#Tomcat publish data
+#Sat May 07 11:32:34 IST 2016
+org.eclipse.jst.j2ee.server\:dbcore=WEB-INF/lib/dbcore-0.0.1-SNAPSHOT.jar
+org.eclipse.jst.j2ee.server\:ccutility=WEB-INF/lib/ccutility-0.0.1-SNAPSHOT.jar
+org.eclipse.jst.j2ee.server\:ccbean=WEB-INF/lib/ccbean-0.0.1-SNAPSHOT.jar
