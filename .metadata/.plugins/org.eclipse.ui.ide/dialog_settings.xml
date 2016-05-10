@@ -5,8 +5,8 @@
 		<item value="false" key="WizardProjectsImportPage.STORE_COPY_PROJECT_ID"/>
 		<item value="false" key="WizardProjectsImportPage.STORE_NESTED_PROJECTS"/>
 		<list key="WizardProjectsImportPage.STORE_DIRECTORIES">
-			<item value="/media/shiv/68F0AC0BF0ABDD96/WorkStation-Zone/Ubuntu/Curiosity/Task"/>
 			<item value="/media/shiv/68F0AC0BF0ABDD96/WorkStation-Zone/Ubuntu/Curiosity"/>
+			<item value="/media/shiv/68F0AC0BF0ABDD96/WorkStation-Zone/Ubuntu/Curiosity/Task"/>
 		</list>
 		<list key="WizardProjectsImportPage.STORE_ARCHIVES">
 			<item value=""/>
@@ -15,5 +15,12 @@
 	<section name="ResourceNavigator">
 		<item value="Aggregate for window 1462343567669" key="ResourceWorkingSetFilter.STORE_WORKING_SET"/>
 		<item value="1" key="ResourceViewer.STORE_SORT_TYPE"/>
+	</section>
+	<section name="CleanDialogSettings">
+		<item value="563" key="DIALOG_WIDTH"/>
+		<item value="153" key="DIALOG_Y_ORIGIN"/>
+		<item value="402" key="DIALOG_X_ORIGIN"/>
+		<item value="386" key="DIALOG_HEIGHT"/>
+		<item value="true" key="TOGGLE_SELECTED"/>
 	</section>
 </section>

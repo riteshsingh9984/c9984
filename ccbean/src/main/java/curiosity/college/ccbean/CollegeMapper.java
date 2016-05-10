@@ -15,6 +15,7 @@ public class CollegeMapper {
 	private String founderName;
 	private String longitude;
 	private String latitude;
+	private String address;
 	private String isActive;
 	private String isDelete;
 	private String tag;
@@ -264,6 +265,18 @@ public class CollegeMapper {
 	 */
 	public void setImageBase64(String imageBase64) {
 		this.imageBase64 = imageBase64;
+	}
+	/**
+	 * @return the address
+	 */
+	public String getAddress() {
+		return address;
+	}
+	/**
+	 * @param address the address to set
+	 */
+	public void setAddress(String address) {
+		this.address = address;
 	}
 	
 }

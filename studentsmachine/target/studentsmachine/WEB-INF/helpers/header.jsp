@@ -2,7 +2,7 @@
     <!-- Top row, always visible -->
     <div class="mdl-layout__header-row">
       <!-- Title -->
-      <span class="mdl-layout-title">WorkBench</span>
+      <span class="mdl-layout-title">Student Machine</span>
       <div class="mdl-layout-spacer"></div>
       <div class="mdl-textfield mdl-js-textfield mdl-textfield--expandable
                   mdl-textfield--floating-label mdl-textfield--align-right">
@@ -31,7 +31,7 @@
     </div> -->
   </header>
   <div class="mdl-layout__drawer" style="background-color:pink;">
-    <span class="mdl-layout-title">WorkBench</span>
+    <span class="mdl-layout-title">Student Machine</span>
     <nav class="mdl-navigation">
       <a class="mdl-navigation__link" href="">DashBoard</a>
       <a class="mdl-navigation__link" href="">Project</a>

@@ -1,0 +1,14 @@
+package com.v_1_0_0.controllers;
+
+import org.springframework.stereotype.Controller;
+
+/**
+ * This is the GoogleMap Controller
+ * 
+ * @author RITESH SINGH
+ * @version 1.0.0, 3 May 2016
+ */
+@Controller
+public class GoogleMapController {
+
+}

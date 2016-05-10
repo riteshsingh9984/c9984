@@ -18,3 +18,6 @@
 1462522704245	Delete resource 'studentsmachine/src/main/webapp/WEB-INF/pages/v_1_0_0/college/create.jsp'
 1462534995602	Delete resource 'ccutility/src/main/java/curiosity/college'
 1462600702712	Delete resource 'Servers'
+1462608798789	Delete resource 'Task'
+1462616469062	Delete resource 'collegemachine/src/main/java/com/v_1_0_0/controllers/GoogleMapController.java'
+1462616524898	Delete resource 'collegemachine/src/main/webapp/WEB-INF/pages/v_1_0_0/googlemap'

@@ -145,9 +145,17 @@
 			  	  	        		}
 	  	  	        			 },
 	  	  	        			{
-	  	  	        				"title" : "MongoID",
-	   	  		       	        	"targets": 1,
-	   	  		       	        	"searchable": true,
+	  	  	        				"title" : "MongoID",  
+	  	  	        			    "targets": 1,
+	  	  	        				"orderable" : true,
+	  	  	        				"searchable": true,
+		  	  	        			"mData" : null,
+			  	  	        		"mRender" : function (data, type, row) {
+				  	  	        		if (true) { 
+				  	  	        			return '<a style="color:black" href="googlemap?id='+data[1]+'">'+data[1]+'</a>';
+				  	  	        			//return '<a style="color:blue;" href="projectInfo?projectId='+data[0]+'"><span >'+data[0]+'</span></a>';
+				  	  	        		}
+			  	  	        		}
 	  	  	        			 },
 	  	  	        			{
 	  	  	        				"title" : "College Name",
@@ -201,7 +209,7 @@
 	  	  	        				"orderable" : false,
 	  	  	        			    "data": 0,
 	  	  	        			    "render": function ( data, type, full, meta ) {
-	  	  	        			      				return '<a class="mdl-shadow--16dp" style="color:blue;" href="projectView?projectId='+data+'"><span class="glyphicon glyphicon-eye-open"></span></a>';
+	  	  	        			      				return '<a class="mdl-shadow--16dp" style="color:black;" href="projectView?projectId='+data+'"><span class="glyphicon glyphicon-eye-open"></span></a>';
 	  	  	        			      				/*
 	  	  	        			      				&nbsp;&nbsp;<a href="manifest_edit?key='+data+'"><span class="glyphicon glyphicon-pencil"></span></a>&nbsp;&nbsp;
 	  	  	        			      				<a href="#" id='+data+' onclick="getData(this.id);"><span class="glyphicon glyphicon-trash"></span></a>

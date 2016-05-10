@@ -6,7 +6,6 @@
 <fullyQualifiedTypeName name="curiosity.bean_utility.UpdateInfo"/>
 <fullyQualifiedTypeName name="curiosity.college.ccbean.CollegeMapper"/>
 <fullyQualifiedTypeName name="curiosity.tool_utility.MapperBeanUtility"/>
-<fullyQualifiedTypeName name="curiosity.college.ccbean.College"/>
 <fullyQualifiedTypeName name="com.v_1_0_0.controllerutility.CollegeUtility"/>
 <fullyQualifiedTypeName name="java.io.File"/>
 <fullyQualifiedTypeName name="java.io.BufferedOutputStream"/>
@@ -16,4 +15,5 @@
 <fullyQualifiedTypeName name="com.itextpdf.text.pdf.codec.Base64"/>
 <fullyQualifiedTypeName name="org.bouncycastle.util.encoders.Base64"/>
 <fullyQualifiedTypeName name="curiosity.fileUtility.Converter"/>
+<fullyQualifiedTypeName name="curiosity.college.ccbean.College"/>
 </qualifiedTypeNameHistroy>

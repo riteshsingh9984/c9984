@@ -2318,3 +2318,1096 @@
 2016-05-07 11:26:51,127 [Worker-2] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
 2016-05-07 11:26:51,131 [Worker-2] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
 2016-05-07 11:26:51,179 [Worker-2] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /media/shiv/68F0AC0BF0ABDD96/WorkStation-Zone/Ubuntu/Curiosity/studentsmachine/src/test/resources
+2016-05-07 13:39:37,421 [Worker-1] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-05-07 13:39:37,459 [Worker-1] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2016-05-07 13:39:37,477 [Worker-1] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-05-07 13:39:37,489 [Worker-1] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /media/shiv/68F0AC0BF0ABDD96/WorkStation-Zone/Ubuntu/Curiosity/collegemachine/src/test/resources
+2016-05-07 13:39:38,693 [Worker-7] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-05-07 13:39:38,696 [Worker-7] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2016-05-07 13:39:38,699 [Worker-7] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-05-07 13:39:38,701 [Worker-7] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /media/shiv/68F0AC0BF0ABDD96/WorkStation-Zone/Ubuntu/Curiosity/studentsmachine/src/test/resources
+2016-05-07 13:40:06,849 [Worker-4] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-05-07 13:40:06,885 [Worker-4] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2016-05-07 13:40:06,890 [Worker-4] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-05-07 13:40:06,892 [Worker-4] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /media/shiv/68F0AC0BF0ABDD96/WorkStation-Zone/Ubuntu/Curiosity/collegemachine/src/test/resources
+2016-05-07 13:41:00,713 [Worker-1] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-05-07 13:41:00,714 [Worker-1] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2016-05-07 13:41:00,718 [Worker-1] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-05-07 13:41:00,719 [Worker-1] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /media/shiv/68F0AC0BF0ABDD96/WorkStation-Zone/Ubuntu/Curiosity/collegemachine/src/test/resources
+2016-05-07 13:42:29,921 [Worker-0] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-05-07 13:42:29,922 [Worker-0] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2016-05-07 13:42:29,925 [Worker-0] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-05-07 13:42:29,926 [Worker-0] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /media/shiv/68F0AC0BF0ABDD96/WorkStation-Zone/Ubuntu/Curiosity/collegemachine/src/test/resources
+2016-05-07 13:42:40,514 [Worker-0] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-05-07 13:42:40,516 [Worker-0] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2016-05-07 13:42:40,522 [Worker-0] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-05-07 13:42:40,523 [Worker-0] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /media/shiv/68F0AC0BF0ABDD96/WorkStation-Zone/Ubuntu/Curiosity/collegemachine/src/test/resources
+2016-05-07 13:43:03,859 [Worker-9] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-05-07 13:43:03,862 [Worker-9] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2016-05-07 13:43:03,867 [Worker-9] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-05-07 13:43:03,868 [Worker-9] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /media/shiv/68F0AC0BF0ABDD96/WorkStation-Zone/Ubuntu/Curiosity/collegemachine/src/test/resources
+2016-05-07 13:48:33,007 [Worker-10] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-05-07 13:48:33,044 [Worker-10] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2016-05-07 13:48:33,052 [Worker-10] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-05-07 13:48:33,066 [Worker-10] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /media/shiv/68F0AC0BF0ABDD96/WorkStation-Zone/Ubuntu/Curiosity/collegemachine/src/test/resources
+2016-05-07 13:49:09,586 [Worker-12] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-05-07 13:49:09,587 [Worker-12] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2016-05-07 13:49:09,590 [Worker-12] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-05-07 13:49:09,591 [Worker-12] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /media/shiv/68F0AC0BF0ABDD96/WorkStation-Zone/Ubuntu/Curiosity/collegemachine/src/test/resources
+2016-05-07 13:50:31,051 [Worker-12] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-05-07 13:50:31,054 [Worker-12] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2016-05-07 13:50:31,057 [Worker-12] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-05-07 13:50:31,058 [Worker-12] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /media/shiv/68F0AC0BF0ABDD96/WorkStation-Zone/Ubuntu/Curiosity/collegemachine/src/test/resources
+2016-05-07 13:54:36,278 [Worker-0] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-05-07 13:54:36,279 [Worker-0] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2016-05-07 13:54:36,282 [Worker-0] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-05-07 13:54:36,283 [Worker-0] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /media/shiv/68F0AC0BF0ABDD96/WorkStation-Zone/Ubuntu/Curiosity/collegemachine/src/test/resources
+2016-05-07 13:54:55,661 [Worker-9] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-05-07 13:54:55,663 [Worker-9] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2016-05-07 13:54:55,666 [Worker-9] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-05-07 13:54:55,679 [Worker-9] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /media/shiv/68F0AC0BF0ABDD96/WorkStation-Zone/Ubuntu/Curiosity/collegemachine/src/test/resources
+2016-05-07 13:57:01,802 [Worker-13] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-05-07 13:57:01,803 [Worker-13] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2016-05-07 13:57:01,806 [Worker-13] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-05-07 13:57:01,807 [Worker-13] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /media/shiv/68F0AC0BF0ABDD96/WorkStation-Zone/Ubuntu/Curiosity/collegemachine/src/test/resources
+2016-05-07 13:59:14,472 [Worker-13] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using NULL lifecycle mapping for MavenProject: IRONMAN:WorkBench:0.0.1-SNAPSHOT @ /media/shiv/68F0AC0BF0ABDD96/WorkStation-Zone/Ubuntu/Curiosity/WorkBench/pom.xml.
+2016-05-07 13:59:19,423 [Worker-9] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using NULL lifecycle mapping for MavenProject: IRONMAN:WorkBench:0.0.1-SNAPSHOT @ /media/shiv/68F0AC0BF0ABDD96/WorkStation-Zone/Ubuntu/Curiosity/WorkBench/pom.xml.
+2016-05-07 13:59:23,861 [Worker-7] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using NULL lifecycle mapping for MavenProject: IRONMAN:WorkBench:0.0.1-SNAPSHOT @ /media/shiv/68F0AC0BF0ABDD96/WorkStation-Zone/Ubuntu/Curiosity/WorkBench/pom.xml.
+2016-05-07 14:01:40,320 [Worker-10] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-05-07 14:01:40,322 [Worker-10] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2016-05-07 14:01:40,324 [Worker-10] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-05-07 14:01:40,325 [Worker-10] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /media/shiv/68F0AC0BF0ABDD96/WorkStation-Zone/Ubuntu/Curiosity/collegemachine/src/test/resources
+2016-05-07 14:02:11,619 [Worker-9] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-05-07 14:02:11,621 [Worker-9] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2016-05-07 14:02:11,623 [Worker-9] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-05-07 14:02:11,624 [Worker-9] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /media/shiv/68F0AC0BF0ABDD96/WorkStation-Zone/Ubuntu/Curiosity/collegemachine/src/test/resources
+2016-05-07 14:06:25,697 [Worker-13] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-05-07 14:06:25,699 [Worker-13] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2016-05-07 14:06:25,751 [Worker-13] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-05-07 14:06:25,755 [Worker-13] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /media/shiv/68F0AC0BF0ABDD96/WorkStation-Zone/Ubuntu/Curiosity/collegemachine/src/test/resources
+2016-05-07 14:08:23,981 [Worker-0] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-05-07 14:08:23,983 [Worker-0] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2016-05-07 14:08:23,986 [Worker-0] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-05-07 14:08:23,988 [Worker-0] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /media/shiv/68F0AC0BF0ABDD96/WorkStation-Zone/Ubuntu/Curiosity/collegemachine/src/test/resources
+2016-05-07 14:10:14,569 [Worker-9] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-05-07 14:10:14,571 [Worker-9] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2016-05-07 14:10:14,574 [Worker-9] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-05-07 14:10:14,575 [Worker-9] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /media/shiv/68F0AC0BF0ABDD96/WorkStation-Zone/Ubuntu/Curiosity/collegemachine/src/test/resources
+2016-05-07 14:10:54,264 [Worker-9] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-05-07 14:10:54,266 [Worker-9] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2016-05-07 14:10:54,268 [Worker-9] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-05-07 14:10:54,269 [Worker-9] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /media/shiv/68F0AC0BF0ABDD96/WorkStation-Zone/Ubuntu/Curiosity/collegemachine/src/test/resources
+2016-05-07 14:11:01,140 [Worker-8] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-05-07 14:11:01,142 [Worker-8] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2016-05-07 14:11:01,144 [Worker-8] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-05-07 14:11:01,146 [Worker-8] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /media/shiv/68F0AC0BF0ABDD96/WorkStation-Zone/Ubuntu/Curiosity/collegemachine/src/test/resources
+2016-05-07 14:12:30,775 [Worker-3] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-05-07 14:12:30,777 [Worker-3] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2016-05-07 14:12:30,779 [Worker-3] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-05-07 14:12:30,781 [Worker-3] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /media/shiv/68F0AC0BF0ABDD96/WorkStation-Zone/Ubuntu/Curiosity/collegemachine/src/test/resources
+2016-05-07 14:13:06,044 [Worker-8] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-05-07 14:13:06,046 [Worker-8] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2016-05-07 14:13:06,050 [Worker-8] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-05-07 14:13:06,052 [Worker-8] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /media/shiv/68F0AC0BF0ABDD96/WorkStation-Zone/Ubuntu/Curiosity/collegemachine/src/test/resources
+2016-05-07 14:13:09,083 [Worker-10] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-05-07 14:13:09,085 [Worker-10] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2016-05-07 14:13:09,087 [Worker-10] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-05-07 14:13:09,088 [Worker-10] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /media/shiv/68F0AC0BF0ABDD96/WorkStation-Zone/Ubuntu/Curiosity/collegemachine/src/test/resources
+2016-05-07 14:13:43,626 [Worker-8] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-05-07 14:13:43,628 [Worker-8] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2016-05-07 14:13:43,631 [Worker-8] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-05-07 14:13:43,632 [Worker-8] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /media/shiv/68F0AC0BF0ABDD96/WorkStation-Zone/Ubuntu/Curiosity/collegemachine/src/test/resources
+2016-05-07 14:14:13,448 [Worker-14] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-05-07 14:14:13,450 [Worker-14] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2016-05-07 14:14:13,453 [Worker-14] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-05-07 14:14:13,454 [Worker-14] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /media/shiv/68F0AC0BF0ABDD96/WorkStation-Zone/Ubuntu/Curiosity/collegemachine/src/test/resources
+2016-05-07 14:14:41,360 [Worker-8] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-05-07 14:14:41,361 [Worker-8] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2016-05-07 14:14:41,365 [Worker-8] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-05-07 14:14:41,366 [Worker-8] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /media/shiv/68F0AC0BF0ABDD96/WorkStation-Zone/Ubuntu/Curiosity/collegemachine/src/test/resources
+2016-05-07 14:15:08,020 [Worker-3] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-05-07 14:15:08,023 [Worker-3] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2016-05-07 14:15:08,026 [Worker-3] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-05-07 14:15:08,028 [Worker-3] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /media/shiv/68F0AC0BF0ABDD96/WorkStation-Zone/Ubuntu/Curiosity/collegemachine/src/test/resources
+2016-05-07 14:15:23,680 [Worker-9] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-05-07 14:15:23,682 [Worker-9] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2016-05-07 14:15:23,685 [Worker-9] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-05-07 14:15:23,686 [Worker-9] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /media/shiv/68F0AC0BF0ABDD96/WorkStation-Zone/Ubuntu/Curiosity/collegemachine/src/test/resources
+2016-05-07 14:17:22,611 [Worker-8] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-05-07 14:17:22,612 [Worker-8] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /media/shiv/68F0AC0BF0ABDD96/WorkStation-Zone/Ubuntu/Curiosity/ccbean/src/main/resources
+2016-05-07 14:17:22,615 [Worker-8] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-05-07 14:17:22,615 [Worker-8] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /media/shiv/68F0AC0BF0ABDD96/WorkStation-Zone/Ubuntu/Curiosity/ccbean/src/test/resources
+2016-05-07 14:17:41,246 [Worker-10] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-05-07 14:17:41,247 [Worker-10] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /media/shiv/68F0AC0BF0ABDD96/WorkStation-Zone/Ubuntu/Curiosity/ccbean/src/main/resources
+2016-05-07 14:17:41,250 [Worker-10] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-05-07 14:17:41,251 [Worker-10] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /media/shiv/68F0AC0BF0ABDD96/WorkStation-Zone/Ubuntu/Curiosity/ccbean/src/test/resources
+2016-05-07 14:17:49,716 [Worker-9] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-05-07 14:17:49,717 [Worker-9] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /media/shiv/68F0AC0BF0ABDD96/WorkStation-Zone/Ubuntu/Curiosity/ccbean/src/main/resources
+2016-05-07 14:17:49,719 [Worker-9] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-05-07 14:17:49,719 [Worker-9] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /media/shiv/68F0AC0BF0ABDD96/WorkStation-Zone/Ubuntu/Curiosity/ccbean/src/test/resources
+2016-05-07 14:18:45,500 [Worker-10] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-05-07 14:18:45,501 [Worker-10] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /media/shiv/68F0AC0BF0ABDD96/WorkStation-Zone/Ubuntu/Curiosity/ccbean/src/main/resources
+2016-05-07 14:18:45,503 [Worker-10] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-05-07 14:18:45,504 [Worker-10] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /media/shiv/68F0AC0BF0ABDD96/WorkStation-Zone/Ubuntu/Curiosity/ccbean/src/test/resources
+2016-05-07 14:19:00,719 [Worker-14] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-05-07 14:19:00,720 [Worker-14] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /media/shiv/68F0AC0BF0ABDD96/WorkStation-Zone/Ubuntu/Curiosity/ccbean/src/main/resources
+2016-05-07 14:19:00,723 [Worker-14] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-05-07 14:19:00,724 [Worker-14] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /media/shiv/68F0AC0BF0ABDD96/WorkStation-Zone/Ubuntu/Curiosity/ccbean/src/test/resources
+2016-05-07 14:19:53,652 [Worker-10] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-05-07 14:19:53,654 [Worker-10] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2016-05-07 14:19:53,658 [Worker-10] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-05-07 14:19:53,659 [Worker-10] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /media/shiv/68F0AC0BF0ABDD96/WorkStation-Zone/Ubuntu/Curiosity/collegemachine/src/test/resources
+2016-05-07 14:20:35,643 [Worker-14] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-05-07 14:20:35,644 [Worker-14] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2016-05-07 14:20:35,647 [Worker-14] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-05-07 14:20:35,648 [Worker-14] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /media/shiv/68F0AC0BF0ABDD96/WorkStation-Zone/Ubuntu/Curiosity/collegemachine/src/test/resources
+2016-05-07 14:21:47,252 [Worker-8] INFO  o.e.m.i.launch.MavenLaunchDelegate - /media/shiv/68F0AC0BF0ABDD96/WorkStation-Zone/Ubuntu/Curiosity/collegeserver
+2016-05-07 14:21:47,253 [Worker-8] INFO  o.e.m.i.launch.MavenLaunchDelegate -  mvn  -B install
+2016-05-07 15:35:14,635 [Worker-9] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-05-07 15:35:14,826 [Worker-9] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2016-05-07 15:35:14,829 [Worker-9] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-05-07 15:35:14,831 [Worker-9] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /media/shiv/68F0AC0BF0ABDD96/WorkStation-Zone/Ubuntu/Curiosity/collegemachine/src/test/resources
+2016-05-07 15:35:44,706 [Worker-9] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-05-07 15:35:44,709 [Worker-9] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2016-05-07 15:35:44,712 [Worker-9] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-05-07 15:35:44,713 [Worker-9] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /media/shiv/68F0AC0BF0ABDD96/WorkStation-Zone/Ubuntu/Curiosity/collegemachine/src/test/resources
+2016-05-07 15:35:52,916 [Worker-14] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-05-07 15:35:52,918 [Worker-14] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2016-05-07 15:35:52,922 [Worker-14] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-05-07 15:35:52,923 [Worker-14] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /media/shiv/68F0AC0BF0ABDD96/WorkStation-Zone/Ubuntu/Curiosity/collegemachine/src/test/resources
+2016-05-07 15:36:35,156 [Worker-7] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-05-07 15:36:35,158 [Worker-7] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2016-05-07 15:36:35,161 [Worker-7] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-05-07 15:36:35,162 [Worker-7] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /media/shiv/68F0AC0BF0ABDD96/WorkStation-Zone/Ubuntu/Curiosity/collegemachine/src/test/resources
+2016-05-07 15:36:46,144 [Worker-16] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-05-07 15:36:46,185 [Worker-16] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2016-05-07 15:36:46,187 [Worker-16] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-05-07 15:36:46,189 [Worker-16] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /media/shiv/68F0AC0BF0ABDD96/WorkStation-Zone/Ubuntu/Curiosity/collegemachine/src/test/resources
+2016-05-07 15:36:58,318 [Worker-16] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-05-07 15:36:58,321 [Worker-16] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2016-05-07 15:36:58,324 [Worker-16] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-05-07 15:36:58,325 [Worker-16] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /media/shiv/68F0AC0BF0ABDD96/WorkStation-Zone/Ubuntu/Curiosity/collegemachine/src/test/resources
+2016-05-07 15:37:08,049 [Worker-3] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-05-07 15:37:08,051 [Worker-3] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2016-05-07 15:37:08,053 [Worker-3] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-05-07 15:37:08,055 [Worker-3] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /media/shiv/68F0AC0BF0ABDD96/WorkStation-Zone/Ubuntu/Curiosity/collegemachine/src/test/resources
+2016-05-07 15:37:59,658 [Worker-16] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-05-07 15:37:59,661 [Worker-16] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2016-05-07 15:37:59,669 [Worker-16] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-05-07 15:37:59,671 [Worker-16] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /media/shiv/68F0AC0BF0ABDD96/WorkStation-Zone/Ubuntu/Curiosity/collegemachine/src/test/resources
+2016-05-07 15:38:14,405 [Worker-9] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-05-07 15:38:14,407 [Worker-9] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2016-05-07 15:38:14,410 [Worker-9] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-05-07 15:38:14,412 [Worker-9] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /media/shiv/68F0AC0BF0ABDD96/WorkStation-Zone/Ubuntu/Curiosity/collegemachine/src/test/resources
+2016-05-07 15:50:59,469 [Worker-3] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-05-07 15:50:59,472 [Worker-3] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2016-05-07 15:50:59,474 [Worker-3] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-05-07 15:50:59,475 [Worker-3] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /media/shiv/68F0AC0BF0ABDD96/WorkStation-Zone/Ubuntu/Curiosity/studentsmachine/src/test/resources
+2016-05-07 15:51:09,546 [Worker-14] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-05-07 15:51:09,549 [Worker-14] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2016-05-07 15:51:09,551 [Worker-14] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-05-07 15:51:09,552 [Worker-14] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /media/shiv/68F0AC0BF0ABDD96/WorkStation-Zone/Ubuntu/Curiosity/collegemachine/src/test/resources
+2016-05-07 15:51:34,536 [Worker-3] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-05-07 15:51:34,538 [Worker-3] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2016-05-07 15:51:34,542 [Worker-3] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-05-07 15:51:34,543 [Worker-3] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /media/shiv/68F0AC0BF0ABDD96/WorkStation-Zone/Ubuntu/Curiosity/studentsmachine/src/test/resources
+2016-05-07 15:52:05,113 [Worker-13] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-05-07 15:52:05,115 [Worker-13] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2016-05-07 15:52:05,118 [Worker-13] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-05-07 15:52:05,120 [Worker-13] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /media/shiv/68F0AC0BF0ABDD96/WorkStation-Zone/Ubuntu/Curiosity/collegemachine/src/test/resources
+2016-05-07 15:52:47,372 [Worker-3] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-05-07 15:52:47,373 [Worker-3] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2016-05-07 15:52:47,375 [Worker-3] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-05-07 15:52:47,376 [Worker-3] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /media/shiv/68F0AC0BF0ABDD96/WorkStation-Zone/Ubuntu/Curiosity/studentsmachine/src/test/resources
+2016-05-07 15:53:15,729 [Worker-0] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-05-07 15:53:15,730 [Worker-0] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2016-05-07 15:53:15,732 [Worker-0] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-05-07 15:53:15,733 [Worker-0] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /media/shiv/68F0AC0BF0ABDD96/WorkStation-Zone/Ubuntu/Curiosity/studentsmachine/src/test/resources
+2016-05-07 15:53:45,066 [Worker-7] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-05-07 15:53:45,069 [Worker-7] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2016-05-07 15:53:45,074 [Worker-7] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-05-07 15:53:45,076 [Worker-7] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /media/shiv/68F0AC0BF0ABDD96/WorkStation-Zone/Ubuntu/Curiosity/studentsmachine/src/test/resources
+2016-05-07 15:54:01,745 [Worker-7] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-05-07 15:54:01,747 [Worker-7] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2016-05-07 15:54:01,751 [Worker-7] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-05-07 15:54:01,753 [Worker-7] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /media/shiv/68F0AC0BF0ABDD96/WorkStation-Zone/Ubuntu/Curiosity/studentsmachine/src/test/resources
+2016-05-07 15:54:12,540 [Worker-0] INFO  o.e.m.i.launch.MavenLaunchDelegate - /media/shiv/68F0AC0BF0ABDD96/WorkStation-Zone/Ubuntu/Curiosity/studentsmachine
+2016-05-07 15:54:12,541 [Worker-0] INFO  o.e.m.i.launch.MavenLaunchDelegate -  mvn  -B install
+2016-05-07 15:54:40,342 [Worker-13] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-05-07 15:54:40,344 [Worker-13] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2016-05-07 15:54:40,346 [Worker-13] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-05-07 15:54:40,347 [Worker-13] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /media/shiv/68F0AC0BF0ABDD96/WorkStation-Zone/Ubuntu/Curiosity/studentsmachine/src/test/resources
+2016-05-07 16:02:42,896 [Worker-0] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-05-07 16:02:42,947 [Worker-0] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2016-05-07 16:02:42,952 [Worker-0] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-05-07 16:02:42,954 [Worker-0] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /media/shiv/68F0AC0BF0ABDD96/WorkStation-Zone/Ubuntu/Curiosity/studentsmachine/src/test/resources
+2016-05-07 16:03:02,474 [Worker-9] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-05-07 16:03:02,476 [Worker-9] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2016-05-07 16:03:02,479 [Worker-9] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-05-07 16:03:02,481 [Worker-9] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /media/shiv/68F0AC0BF0ABDD96/WorkStation-Zone/Ubuntu/Curiosity/studentsmachine/src/test/resources
+2016-05-07 16:03:42,449 [Worker-13] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-05-07 16:03:42,451 [Worker-13] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2016-05-07 16:03:42,454 [Worker-13] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-05-07 16:03:42,455 [Worker-13] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /media/shiv/68F0AC0BF0ABDD96/WorkStation-Zone/Ubuntu/Curiosity/studentsmachine/src/test/resources
+2016-05-07 16:04:26,573 [Worker-3] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-05-07 16:04:26,575 [Worker-3] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2016-05-07 16:04:26,577 [Worker-3] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-05-07 16:04:26,578 [Worker-3] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /media/shiv/68F0AC0BF0ABDD96/WorkStation-Zone/Ubuntu/Curiosity/studentsmachine/src/test/resources
+2016-05-07 16:05:11,673 [Worker-3] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-05-07 16:05:11,675 [Worker-3] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2016-05-07 16:05:11,678 [Worker-3] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-05-07 16:05:11,679 [Worker-3] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /media/shiv/68F0AC0BF0ABDD96/WorkStation-Zone/Ubuntu/Curiosity/studentsmachine/src/test/resources
+2016-05-07 17:21:16,826 [Worker-3] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-05-07 17:21:16,829 [Worker-3] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2016-05-07 17:21:16,832 [Worker-3] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-05-07 17:21:16,834 [Worker-3] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /media/shiv/68F0AC0BF0ABDD96/WorkStation-Zone/Ubuntu/Curiosity/studentsmachine/src/test/resources
+2016-05-07 17:26:25,167 [Worker-3] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-05-07 17:26:25,170 [Worker-3] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2016-05-07 17:26:25,175 [Worker-3] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-05-07 17:26:25,177 [Worker-3] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /media/shiv/68F0AC0BF0ABDD96/WorkStation-Zone/Ubuntu/Curiosity/studentsmachine/src/test/resources
+2016-05-07 17:27:55,604 [Worker-17] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-05-07 17:27:55,606 [Worker-17] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2016-05-07 17:27:55,609 [Worker-17] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-05-07 17:27:55,611 [Worker-17] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /media/shiv/68F0AC0BF0ABDD96/WorkStation-Zone/Ubuntu/Curiosity/studentsmachine/src/test/resources
+2016-05-07 17:30:27,615 [Worker-0] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-05-07 17:30:27,618 [Worker-0] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2016-05-07 17:30:27,622 [Worker-0] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-05-07 17:30:27,647 [Worker-0] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /media/shiv/68F0AC0BF0ABDD96/WorkStation-Zone/Ubuntu/Curiosity/studentsmachine/src/test/resources
+2016-05-07 17:30:56,019 [Worker-17] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-05-07 17:30:56,021 [Worker-17] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2016-05-07 17:30:56,024 [Worker-17] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-05-07 17:30:56,025 [Worker-17] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /media/shiv/68F0AC0BF0ABDD96/WorkStation-Zone/Ubuntu/Curiosity/studentsmachine/src/test/resources
+2016-05-07 17:31:40,901 [Worker-3] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-05-07 17:31:40,903 [Worker-3] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2016-05-07 17:31:40,905 [Worker-3] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-05-07 17:31:40,906 [Worker-3] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /media/shiv/68F0AC0BF0ABDD96/WorkStation-Zone/Ubuntu/Curiosity/studentsmachine/src/test/resources
+2016-05-07 17:31:47,354 [Worker-18] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-05-07 17:31:47,356 [Worker-18] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2016-05-07 17:31:47,359 [Worker-18] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-05-07 17:31:47,360 [Worker-18] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /media/shiv/68F0AC0BF0ABDD96/WorkStation-Zone/Ubuntu/Curiosity/studentsmachine/src/test/resources
+2016-05-07 17:31:50,778 [Worker-3] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-05-07 17:31:50,780 [Worker-3] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2016-05-07 17:31:50,783 [Worker-3] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-05-07 17:31:50,784 [Worker-3] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /media/shiv/68F0AC0BF0ABDD96/WorkStation-Zone/Ubuntu/Curiosity/studentsmachine/src/test/resources
+2016-05-07 17:32:23,049 [Worker-0] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-05-07 17:32:23,050 [Worker-0] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2016-05-07 17:32:23,053 [Worker-0] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-05-07 17:32:23,054 [Worker-0] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /media/shiv/68F0AC0BF0ABDD96/WorkStation-Zone/Ubuntu/Curiosity/studentsmachine/src/test/resources
+2016-05-07 17:33:09,457 [Worker-3] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-05-07 17:33:09,459 [Worker-3] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2016-05-07 17:33:09,461 [Worker-3] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-05-07 17:33:09,461 [Worker-3] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /media/shiv/68F0AC0BF0ABDD96/WorkStation-Zone/Ubuntu/Curiosity/studentsmachine/src/test/resources
+2016-05-07 17:33:22,826 [Worker-18] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-05-07 17:33:22,827 [Worker-18] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2016-05-07 17:33:22,830 [Worker-18] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-05-07 17:33:22,831 [Worker-18] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /media/shiv/68F0AC0BF0ABDD96/WorkStation-Zone/Ubuntu/Curiosity/studentsmachine/src/test/resources
+2016-05-07 17:35:27,000 [Worker-9] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-05-07 17:35:27,001 [Worker-9] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2016-05-07 17:35:27,004 [Worker-9] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-05-07 17:35:27,005 [Worker-9] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /media/shiv/68F0AC0BF0ABDD96/WorkStation-Zone/Ubuntu/Curiosity/studentsmachine/src/test/resources
+2016-05-07 17:36:33,519 [Worker-0] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-05-07 17:36:33,521 [Worker-0] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2016-05-07 17:36:33,524 [Worker-0] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-05-07 17:36:33,525 [Worker-0] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /media/shiv/68F0AC0BF0ABDD96/WorkStation-Zone/Ubuntu/Curiosity/studentsmachine/src/test/resources
+2016-05-07 17:47:14,845 [Worker-9] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.maven.ide.eclipse.wtp.WarLifecycleMapping lifecycle mapping for MavenProject: curiosity.college:studentsmachine:0.0.1-SNAPSHOT @ /media/shiv/68F0AC0BF0ABDD96/WorkStation-Zone/Ubuntu/Curiosity/studentsmachine/pom.xml.
+2016-05-07 17:47:18,307 [Worker-9] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-05-07 17:47:18,308 [Worker-9] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2016-05-07 17:47:18,311 [Worker-9] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-05-07 17:47:18,312 [Worker-9] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /media/shiv/68F0AC0BF0ABDD96/WorkStation-Zone/Ubuntu/Curiosity/studentsmachine/src/test/resources
+2016-05-07 17:47:21,323 [Worker-18] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.maven.ide.eclipse.wtp.WarLifecycleMapping lifecycle mapping for MavenProject: curiosity.college:studentsmachine:0.0.1-SNAPSHOT @ /media/shiv/68F0AC0BF0ABDD96/WorkStation-Zone/Ubuntu/Curiosity/studentsmachine/pom.xml.
+2016-05-07 17:47:23,065 [Worker-18] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-05-07 17:47:23,067 [Worker-18] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2016-05-07 17:47:23,069 [Worker-18] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-05-07 17:47:23,072 [Worker-18] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /media/shiv/68F0AC0BF0ABDD96/WorkStation-Zone/Ubuntu/Curiosity/studentsmachine/src/test/resources
+2016-05-07 18:21:31,966 [Worker-18] INFO  o.e.m.i.launch.MavenLaunchDelegate - /media/shiv/68F0AC0BF0ABDD96/WorkStation-Zone/Ubuntu/Curiosity/studentsmachine
+2016-05-07 18:21:31,967 [Worker-18] INFO  o.e.m.i.launch.MavenLaunchDelegate -  mvn  -B install
+2016-05-07 18:21:56,612 [Worker-22] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.maven.ide.eclipse.wtp.WarLifecycleMapping lifecycle mapping for MavenProject: curiosity.college:studentsmachine:0.0.1-SNAPSHOT @ /media/shiv/68F0AC0BF0ABDD96/WorkStation-Zone/Ubuntu/Curiosity/studentsmachine/pom.xml.
+2016-05-07 18:21:57,875 [Worker-22] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-05-07 18:21:57,878 [Worker-22] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2016-05-07 18:21:57,881 [Worker-22] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-05-07 18:21:57,883 [Worker-22] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /media/shiv/68F0AC0BF0ABDD96/WorkStation-Zone/Ubuntu/Curiosity/studentsmachine/src/test/resources
+2016-05-07 19:13:44,009 [Worker-25] INFO  o.e.m.w.i.f.ResourceFilteringBuildParticipant - Cleaning filtered folder for studentsmachine
+2016-05-07 19:13:44,469 [Worker-3] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-05-07 19:13:44,471 [Worker-3] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2016-05-07 19:13:44,473 [Worker-3] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-05-07 19:13:44,475 [Worker-3] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /media/shiv/68F0AC0BF0ABDD96/WorkStation-Zone/Ubuntu/Curiosity/studentsmachine/src/test/resources
+2016-05-09 11:31:12,521 [Worker-3] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using NULL lifecycle mapping for MavenProject: IRONMAN:WorkBench:0.0.1-SNAPSHOT @ /media/shiv/68F0AC0BF0ABDD96/WorkStation-Zone/Ubuntu/Curiosity/WorkBench/pom.xml.
+2016-05-09 11:31:14,411 [Worker-4] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using NULL lifecycle mapping for MavenProject: curiosity.college:collegeserver:0.0.1-SNAPSHOT @ /media/shiv/68F0AC0BF0ABDD96/WorkStation-Zone/Ubuntu/Curiosity/collegeserver/pom.xml.
+2016-05-09 11:31:23,872 [Worker-4] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.maven.ide.eclipse.wtp.WarLifecycleMapping lifecycle mapping for MavenProject: curiosity.college:collegemachine:0.0.1-SNAPSHOT @ /media/shiv/68F0AC0BF0ABDD96/WorkStation-Zone/Ubuntu/Curiosity/collegemachine/pom.xml.
+2016-05-09 11:31:30,842 [Worker-4] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-05-09 11:31:30,868 [Worker-4] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2016-05-09 11:31:30,879 [Worker-4] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-05-09 11:31:30,885 [Worker-4] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /media/shiv/68F0AC0BF0ABDD96/WorkStation-Zone/Ubuntu/Curiosity/collegemachine/src/test/resources
+2016-05-09 11:31:46,789 [Worker-7] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using NULL lifecycle mapping for MavenProject: IRONMAN:WorkBench:0.0.1-SNAPSHOT @ /media/shiv/68F0AC0BF0ABDD96/WorkStation-Zone/Ubuntu/Curiosity/WorkBench/pom.xml.
+2016-05-09 11:31:48,694 [Worker-7] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: curiosity.college:ccbean:0.0.1-SNAPSHOT @ /media/shiv/68F0AC0BF0ABDD96/WorkStation-Zone/Ubuntu/Curiosity/ccbean/pom.xml.
+2016-05-09 11:31:49,025 [Worker-7] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: curiosity.college:ccutility:0.0.1-SNAPSHOT @ /media/shiv/68F0AC0BF0ABDD96/WorkStation-Zone/Ubuntu/Curiosity/ccutility/pom.xml.
+2016-05-09 11:31:49,349 [Worker-7] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.maven.ide.eclipse.wtp.WarLifecycleMapping lifecycle mapping for MavenProject: curiosity.college:collegemachine:0.0.1-SNAPSHOT @ /media/shiv/68F0AC0BF0ABDD96/WorkStation-Zone/Ubuntu/Curiosity/collegemachine/pom.xml.
+2016-05-09 11:31:49,532 [Worker-7] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using NULL lifecycle mapping for MavenProject: curiosity.college:collegeserver:0.0.1-SNAPSHOT @ /media/shiv/68F0AC0BF0ABDD96/WorkStation-Zone/Ubuntu/Curiosity/collegeserver/pom.xml.
+2016-05-09 11:31:49,832 [Worker-7] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: ironman:dbcore:0.0.1-SNAPSHOT @ /media/shiv/68F0AC0BF0ABDD96/WorkStation-Zone/Ubuntu/Curiosity/dbcore/pom.xml.
+2016-05-09 11:31:49,956 [Worker-7] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.maven.ide.eclipse.wtp.WarLifecycleMapping lifecycle mapping for MavenProject: curiosity.college:studentsmachine:0.0.1-SNAPSHOT @ /media/shiv/68F0AC0BF0ABDD96/WorkStation-Zone/Ubuntu/Curiosity/studentsmachine/pom.xml.
+2016-05-09 11:31:54,968 [Worker-3] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-05-09 11:31:54,986 [Worker-3] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /media/shiv/68F0AC0BF0ABDD96/WorkStation-Zone/Ubuntu/Curiosity/ccutility/src/main/resources
+2016-05-09 11:31:55,009 [Worker-3] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-05-09 11:31:55,010 [Worker-3] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /media/shiv/68F0AC0BF0ABDD96/WorkStation-Zone/Ubuntu/Curiosity/ccutility/src/test/resources
+2016-05-09 11:31:55,392 [Worker-3] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-05-09 11:31:55,396 [Worker-3] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /media/shiv/68F0AC0BF0ABDD96/WorkStation-Zone/Ubuntu/Curiosity/dbcore/src/main/resources
+2016-05-09 11:31:55,399 [Worker-3] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-05-09 11:31:55,400 [Worker-3] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /media/shiv/68F0AC0BF0ABDD96/WorkStation-Zone/Ubuntu/Curiosity/dbcore/src/test/resources
+2016-05-09 11:31:55,818 [Worker-3] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-05-09 11:31:55,818 [Worker-3] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /media/shiv/68F0AC0BF0ABDD96/WorkStation-Zone/Ubuntu/Curiosity/ccbean/src/main/resources
+2016-05-09 11:31:55,820 [Worker-3] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-05-09 11:31:55,821 [Worker-3] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /media/shiv/68F0AC0BF0ABDD96/WorkStation-Zone/Ubuntu/Curiosity/ccbean/src/test/resources
+2016-05-09 11:31:58,439 [Worker-3] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-05-09 11:31:58,459 [Worker-3] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2016-05-09 11:31:58,463 [Worker-3] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-05-09 11:31:58,465 [Worker-3] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /media/shiv/68F0AC0BF0ABDD96/WorkStation-Zone/Ubuntu/Curiosity/collegemachine/src/test/resources
+2016-05-09 11:32:01,620 [Worker-3] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-05-09 11:32:01,622 [Worker-3] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2016-05-09 11:32:01,626 [Worker-3] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-05-09 11:32:01,627 [Worker-3] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /media/shiv/68F0AC0BF0ABDD96/WorkStation-Zone/Ubuntu/Curiosity/studentsmachine/src/test/resources
+2016-05-09 11:32:43,316 [Worker-1] INFO  o.e.m.i.launch.MavenLaunchDelegate - /media/shiv/68F0AC0BF0ABDD96/WorkStation-Zone/Ubuntu/Curiosity/studentsmachine
+2016-05-09 11:32:43,317 [Worker-1] INFO  o.e.m.i.launch.MavenLaunchDelegate -  mvn  -B install
+2016-05-09 11:33:07,022 [Worker-11] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-05-09 11:33:07,024 [Worker-11] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2016-05-09 11:33:07,026 [Worker-11] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-05-09 11:33:07,027 [Worker-11] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /media/shiv/68F0AC0BF0ABDD96/WorkStation-Zone/Ubuntu/Curiosity/studentsmachine/src/test/resources
+2016-05-09 11:39:08,085 [Worker-12] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-05-09 11:39:08,130 [Worker-12] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2016-05-09 11:39:08,135 [Worker-12] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-05-09 11:39:08,136 [Worker-12] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /media/shiv/68F0AC0BF0ABDD96/WorkStation-Zone/Ubuntu/Curiosity/studentsmachine/src/test/resources
+2016-05-09 11:41:30,707 [Worker-9] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-05-09 11:41:30,709 [Worker-9] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2016-05-09 11:41:30,711 [Worker-9] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-05-09 11:41:30,712 [Worker-9] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /media/shiv/68F0AC0BF0ABDD96/WorkStation-Zone/Ubuntu/Curiosity/studentsmachine/src/test/resources
+2016-05-09 11:42:04,561 [Worker-1] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-05-09 11:42:04,563 [Worker-1] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2016-05-09 11:42:04,565 [Worker-1] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-05-09 11:42:04,566 [Worker-1] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /media/shiv/68F0AC0BF0ABDD96/WorkStation-Zone/Ubuntu/Curiosity/studentsmachine/src/test/resources
+2016-05-09 11:42:28,696 [Worker-8] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-05-09 11:42:28,699 [Worker-8] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2016-05-09 11:42:28,702 [Worker-8] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-05-09 11:42:28,703 [Worker-8] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /media/shiv/68F0AC0BF0ABDD96/WorkStation-Zone/Ubuntu/Curiosity/studentsmachine/src/test/resources
+2016-05-09 11:42:45,582 [Worker-8] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-05-09 11:42:45,584 [Worker-8] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2016-05-09 11:42:45,586 [Worker-8] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-05-09 11:42:45,586 [Worker-8] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /media/shiv/68F0AC0BF0ABDD96/WorkStation-Zone/Ubuntu/Curiosity/studentsmachine/src/test/resources
+2016-05-09 11:43:18,909 [Worker-6] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-05-09 11:43:18,912 [Worker-6] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2016-05-09 11:43:18,914 [Worker-6] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-05-09 11:43:18,915 [Worker-6] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /media/shiv/68F0AC0BF0ABDD96/WorkStation-Zone/Ubuntu/Curiosity/studentsmachine/src/test/resources
+2016-05-09 11:43:34,710 [Worker-6] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-05-09 11:43:34,712 [Worker-6] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2016-05-09 11:43:34,714 [Worker-6] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-05-09 11:43:34,715 [Worker-6] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /media/shiv/68F0AC0BF0ABDD96/WorkStation-Zone/Ubuntu/Curiosity/studentsmachine/src/test/resources
+2016-05-09 11:43:37,921 [Worker-1] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-05-09 11:43:37,924 [Worker-1] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2016-05-09 11:43:37,926 [Worker-1] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-05-09 11:43:37,927 [Worker-1] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /media/shiv/68F0AC0BF0ABDD96/WorkStation-Zone/Ubuntu/Curiosity/studentsmachine/src/test/resources
+2016-05-09 11:43:49,956 [Worker-12] INFO  o.e.m.i.launch.MavenLaunchDelegate - /media/shiv/68F0AC0BF0ABDD96/WorkStation-Zone/Ubuntu/Curiosity/studentsmachine
+2016-05-09 11:43:49,957 [Worker-12] INFO  o.e.m.i.launch.MavenLaunchDelegate -  mvn  -B install
+2016-05-09 11:44:11,736 [Worker-0] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-05-09 11:44:11,738 [Worker-0] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2016-05-09 11:44:11,741 [Worker-0] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-05-09 11:44:11,742 [Worker-0] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /media/shiv/68F0AC0BF0ABDD96/WorkStation-Zone/Ubuntu/Curiosity/studentsmachine/src/test/resources
+2016-05-09 11:47:40,965 [Worker-9] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-05-09 11:47:40,966 [Worker-9] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2016-05-09 11:47:40,969 [Worker-9] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-05-09 11:47:40,970 [Worker-9] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /media/shiv/68F0AC0BF0ABDD96/WorkStation-Zone/Ubuntu/Curiosity/studentsmachine/src/test/resources
+2016-05-09 11:47:59,424 [Worker-1] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-05-09 11:47:59,426 [Worker-1] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2016-05-09 11:47:59,428 [Worker-1] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-05-09 11:47:59,428 [Worker-1] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /media/shiv/68F0AC0BF0ABDD96/WorkStation-Zone/Ubuntu/Curiosity/studentsmachine/src/test/resources
+2016-05-09 11:48:30,053 [Worker-0] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-05-09 11:48:30,054 [Worker-0] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2016-05-09 11:48:30,056 [Worker-0] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-05-09 11:48:30,058 [Worker-0] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /media/shiv/68F0AC0BF0ABDD96/WorkStation-Zone/Ubuntu/Curiosity/studentsmachine/src/test/resources
+2016-05-09 11:49:16,230 [Worker-3] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-05-09 11:49:16,232 [Worker-3] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2016-05-09 11:49:16,235 [Worker-3] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-05-09 11:49:16,237 [Worker-3] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /media/shiv/68F0AC0BF0ABDD96/WorkStation-Zone/Ubuntu/Curiosity/studentsmachine/src/test/resources
+2016-05-09 11:49:26,061 [Worker-1] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-05-09 11:49:26,065 [Worker-1] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2016-05-09 11:49:26,069 [Worker-1] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-05-09 11:49:26,071 [Worker-1] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /media/shiv/68F0AC0BF0ABDD96/WorkStation-Zone/Ubuntu/Curiosity/studentsmachine/src/test/resources
+2016-05-09 11:50:33,394 [Worker-5] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-05-09 11:50:33,394 [Worker-5] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /media/shiv/68F0AC0BF0ABDD96/WorkStation-Zone/Ubuntu/Curiosity/ccbean/src/main/resources
+2016-05-09 11:50:33,396 [Worker-5] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-05-09 11:50:33,397 [Worker-5] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /media/shiv/68F0AC0BF0ABDD96/WorkStation-Zone/Ubuntu/Curiosity/ccbean/src/test/resources
+2016-05-09 11:50:47,493 [Worker-8] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-05-09 11:50:47,494 [Worker-8] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /media/shiv/68F0AC0BF0ABDD96/WorkStation-Zone/Ubuntu/Curiosity/ccbean/src/main/resources
+2016-05-09 11:50:47,496 [Worker-8] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-05-09 11:50:47,497 [Worker-8] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /media/shiv/68F0AC0BF0ABDD96/WorkStation-Zone/Ubuntu/Curiosity/ccbean/src/test/resources
+2016-05-09 11:51:07,650 [Worker-6] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-05-09 11:51:07,652 [Worker-6] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2016-05-09 11:51:07,654 [Worker-6] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-05-09 11:51:07,656 [Worker-6] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /media/shiv/68F0AC0BF0ABDD96/WorkStation-Zone/Ubuntu/Curiosity/studentsmachine/src/test/resources
+2016-05-09 11:51:15,791 [Worker-9] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-05-09 11:51:15,795 [Worker-9] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2016-05-09 11:51:15,798 [Worker-9] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-05-09 11:51:15,799 [Worker-9] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /media/shiv/68F0AC0BF0ABDD96/WorkStation-Zone/Ubuntu/Curiosity/studentsmachine/src/test/resources
+2016-05-09 11:51:24,562 [Worker-3] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-05-09 11:51:24,565 [Worker-3] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2016-05-09 11:51:24,567 [Worker-3] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-05-09 11:51:24,568 [Worker-3] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /media/shiv/68F0AC0BF0ABDD96/WorkStation-Zone/Ubuntu/Curiosity/studentsmachine/src/test/resources
+2016-05-09 11:52:10,476 [Worker-5] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-05-09 11:52:10,479 [Worker-5] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2016-05-09 11:52:10,481 [Worker-5] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-05-09 11:52:10,482 [Worker-5] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /media/shiv/68F0AC0BF0ABDD96/WorkStation-Zone/Ubuntu/Curiosity/studentsmachine/src/test/resources
+2016-05-09 11:52:59,274 [Worker-1] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-05-09 11:52:59,277 [Worker-1] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2016-05-09 11:52:59,279 [Worker-1] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-05-09 11:52:59,280 [Worker-1] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /media/shiv/68F0AC0BF0ABDD96/WorkStation-Zone/Ubuntu/Curiosity/studentsmachine/src/test/resources
+2016-05-09 11:53:29,829 [Worker-12] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-05-09 11:53:29,830 [Worker-12] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2016-05-09 11:53:29,832 [Worker-12] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-05-09 11:53:29,833 [Worker-12] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /media/shiv/68F0AC0BF0ABDD96/WorkStation-Zone/Ubuntu/Curiosity/studentsmachine/src/test/resources
+2016-05-09 11:53:39,965 [Worker-3] INFO  o.e.m.i.launch.MavenLaunchDelegate - /media/shiv/68F0AC0BF0ABDD96/WorkStation-Zone/Ubuntu/Curiosity/studentsmachine
+2016-05-09 11:53:39,965 [Worker-3] INFO  o.e.m.i.launch.MavenLaunchDelegate -  mvn  -B install
+2016-05-09 11:54:00,509 [Worker-3] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-05-09 11:54:00,511 [Worker-3] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2016-05-09 11:54:00,512 [Worker-3] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-05-09 11:54:00,513 [Worker-3] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /media/shiv/68F0AC0BF0ABDD96/WorkStation-Zone/Ubuntu/Curiosity/studentsmachine/src/test/resources
+2016-05-09 11:56:19,254 [Worker-6] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-05-09 11:56:19,256 [Worker-6] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2016-05-09 11:56:19,258 [Worker-6] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-05-09 11:56:19,259 [Worker-6] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /media/shiv/68F0AC0BF0ABDD96/WorkStation-Zone/Ubuntu/Curiosity/studentsmachine/src/test/resources
+2016-05-09 11:56:57,776 [Worker-12] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-05-09 11:56:57,777 [Worker-12] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2016-05-09 11:56:57,780 [Worker-12] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-05-09 11:56:57,783 [Worker-12] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /media/shiv/68F0AC0BF0ABDD96/WorkStation-Zone/Ubuntu/Curiosity/studentsmachine/src/test/resources
+2016-05-09 11:58:24,771 [Worker-5] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-05-09 11:58:24,773 [Worker-5] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2016-05-09 11:58:24,775 [Worker-5] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-05-09 11:58:24,776 [Worker-5] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /media/shiv/68F0AC0BF0ABDD96/WorkStation-Zone/Ubuntu/Curiosity/studentsmachine/src/test/resources
+2016-05-09 11:58:48,843 [Worker-5] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-05-09 11:58:48,845 [Worker-5] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2016-05-09 11:58:48,847 [Worker-5] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-05-09 11:58:48,848 [Worker-5] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /media/shiv/68F0AC0BF0ABDD96/WorkStation-Zone/Ubuntu/Curiosity/studentsmachine/src/test/resources
+2016-05-09 11:59:11,678 [Worker-6] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-05-09 11:59:11,680 [Worker-6] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2016-05-09 11:59:11,683 [Worker-6] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-05-09 11:59:11,684 [Worker-6] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /media/shiv/68F0AC0BF0ABDD96/WorkStation-Zone/Ubuntu/Curiosity/studentsmachine/src/test/resources
+2016-05-09 11:59:25,216 [Worker-3] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-05-09 11:59:25,218 [Worker-3] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2016-05-09 11:59:25,220 [Worker-3] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-05-09 11:59:25,221 [Worker-3] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /media/shiv/68F0AC0BF0ABDD96/WorkStation-Zone/Ubuntu/Curiosity/studentsmachine/src/test/resources
+2016-05-09 11:59:39,376 [Worker-12] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-05-09 11:59:39,377 [Worker-12] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2016-05-09 11:59:39,379 [Worker-12] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-05-09 11:59:39,380 [Worker-12] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /media/shiv/68F0AC0BF0ABDD96/WorkStation-Zone/Ubuntu/Curiosity/studentsmachine/src/test/resources
+2016-05-09 12:00:49,469 [Worker-5] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-05-09 12:00:49,471 [Worker-5] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2016-05-09 12:00:49,473 [Worker-5] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-05-09 12:00:49,474 [Worker-5] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /media/shiv/68F0AC0BF0ABDD96/WorkStation-Zone/Ubuntu/Curiosity/studentsmachine/src/test/resources
+2016-05-09 12:01:09,008 [Worker-1] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-05-09 12:01:09,010 [Worker-1] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2016-05-09 12:01:09,012 [Worker-1] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-05-09 12:01:09,015 [Worker-1] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /media/shiv/68F0AC0BF0ABDD96/WorkStation-Zone/Ubuntu/Curiosity/studentsmachine/src/test/resources
+2016-05-09 12:01:59,557 [Worker-6] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-05-09 12:01:59,559 [Worker-6] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2016-05-09 12:01:59,562 [Worker-6] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-05-09 12:01:59,563 [Worker-6] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /media/shiv/68F0AC0BF0ABDD96/WorkStation-Zone/Ubuntu/Curiosity/studentsmachine/src/test/resources
+2016-05-09 12:02:43,752 [Worker-5] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-05-09 12:02:43,754 [Worker-5] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2016-05-09 12:02:43,756 [Worker-5] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-05-09 12:02:43,757 [Worker-5] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /media/shiv/68F0AC0BF0ABDD96/WorkStation-Zone/Ubuntu/Curiosity/studentsmachine/src/test/resources
+2016-05-09 12:03:02,452 [Worker-12] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-05-09 12:03:02,454 [Worker-12] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2016-05-09 12:03:02,457 [Worker-12] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-05-09 12:03:02,460 [Worker-12] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /media/shiv/68F0AC0BF0ABDD96/WorkStation-Zone/Ubuntu/Curiosity/studentsmachine/src/test/resources
+2016-05-09 12:07:21,448 [Worker-5] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-05-09 12:07:21,449 [Worker-5] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2016-05-09 12:07:21,452 [Worker-5] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-05-09 12:07:21,453 [Worker-5] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /media/shiv/68F0AC0BF0ABDD96/WorkStation-Zone/Ubuntu/Curiosity/studentsmachine/src/test/resources
+2016-05-09 12:08:04,192 [Worker-9] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-05-09 12:08:04,194 [Worker-9] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2016-05-09 12:08:04,196 [Worker-9] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-05-09 12:08:04,197 [Worker-9] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /media/shiv/68F0AC0BF0ABDD96/WorkStation-Zone/Ubuntu/Curiosity/studentsmachine/src/test/resources
+2016-05-09 12:08:20,543 [Worker-5] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-05-09 12:08:20,545 [Worker-5] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2016-05-09 12:08:20,547 [Worker-5] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-05-09 12:08:20,548 [Worker-5] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /media/shiv/68F0AC0BF0ABDD96/WorkStation-Zone/Ubuntu/Curiosity/studentsmachine/src/test/resources
+2016-05-09 12:09:14,776 [Worker-6] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-05-09 12:09:14,777 [Worker-6] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2016-05-09 12:09:14,780 [Worker-6] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-05-09 12:09:14,781 [Worker-6] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /media/shiv/68F0AC0BF0ABDD96/WorkStation-Zone/Ubuntu/Curiosity/studentsmachine/src/test/resources
+2016-05-09 12:09:47,009 [Worker-12] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-05-09 12:09:47,011 [Worker-12] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2016-05-09 12:09:47,013 [Worker-12] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-05-09 12:09:47,014 [Worker-12] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /media/shiv/68F0AC0BF0ABDD96/WorkStation-Zone/Ubuntu/Curiosity/studentsmachine/src/test/resources
+2016-05-09 12:10:09,074 [Worker-0] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-05-09 12:10:09,076 [Worker-0] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2016-05-09 12:10:09,078 [Worker-0] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-05-09 12:10:09,079 [Worker-0] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /media/shiv/68F0AC0BF0ABDD96/WorkStation-Zone/Ubuntu/Curiosity/studentsmachine/src/test/resources
+2016-05-09 12:10:33,703 [Worker-3] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-05-09 12:10:33,705 [Worker-3] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2016-05-09 12:10:33,707 [Worker-3] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-05-09 12:10:33,708 [Worker-3] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /media/shiv/68F0AC0BF0ABDD96/WorkStation-Zone/Ubuntu/Curiosity/studentsmachine/src/test/resources
+2016-05-09 12:10:43,755 [Worker-1] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-05-09 12:10:43,756 [Worker-1] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2016-05-09 12:10:43,758 [Worker-1] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-05-09 12:10:43,759 [Worker-1] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /media/shiv/68F0AC0BF0ABDD96/WorkStation-Zone/Ubuntu/Curiosity/studentsmachine/src/test/resources
+2016-05-09 12:11:11,335 [Worker-0] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-05-09 12:11:11,336 [Worker-0] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2016-05-09 12:11:11,339 [Worker-0] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-05-09 12:11:11,340 [Worker-0] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /media/shiv/68F0AC0BF0ABDD96/WorkStation-Zone/Ubuntu/Curiosity/studentsmachine/src/test/resources
+2016-05-09 12:11:31,858 [Worker-12] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-05-09 12:11:31,860 [Worker-12] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2016-05-09 12:11:31,862 [Worker-12] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-05-09 12:11:31,864 [Worker-12] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /media/shiv/68F0AC0BF0ABDD96/WorkStation-Zone/Ubuntu/Curiosity/studentsmachine/src/test/resources
+2016-05-09 12:11:41,041 [Worker-1] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-05-09 12:11:41,042 [Worker-1] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2016-05-09 12:11:41,045 [Worker-1] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-05-09 12:11:41,046 [Worker-1] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /media/shiv/68F0AC0BF0ABDD96/WorkStation-Zone/Ubuntu/Curiosity/studentsmachine/src/test/resources
+2016-05-09 12:13:00,489 [Worker-3] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-05-09 12:13:00,490 [Worker-3] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2016-05-09 12:13:00,492 [Worker-3] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-05-09 12:13:00,493 [Worker-3] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /media/shiv/68F0AC0BF0ABDD96/WorkStation-Zone/Ubuntu/Curiosity/studentsmachine/src/test/resources
+2016-05-09 12:13:29,592 [Worker-5] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-05-09 12:13:29,593 [Worker-5] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2016-05-09 12:13:29,596 [Worker-5] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-05-09 12:13:29,597 [Worker-5] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /media/shiv/68F0AC0BF0ABDD96/WorkStation-Zone/Ubuntu/Curiosity/studentsmachine/src/test/resources
+2016-05-09 12:13:57,771 [Worker-1] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-05-09 12:13:57,773 [Worker-1] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2016-05-09 12:13:57,775 [Worker-1] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-05-09 12:13:57,776 [Worker-1] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /media/shiv/68F0AC0BF0ABDD96/WorkStation-Zone/Ubuntu/Curiosity/studentsmachine/src/test/resources
+2016-05-09 12:14:17,220 [Worker-3] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-05-09 12:14:17,222 [Worker-3] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2016-05-09 12:14:17,224 [Worker-3] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-05-09 12:14:17,225 [Worker-3] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /media/shiv/68F0AC0BF0ABDD96/WorkStation-Zone/Ubuntu/Curiosity/studentsmachine/src/test/resources
+2016-05-09 12:16:08,377 [Worker-0] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-05-09 12:16:08,379 [Worker-0] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2016-05-09 12:16:08,381 [Worker-0] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-05-09 12:16:08,382 [Worker-0] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /media/shiv/68F0AC0BF0ABDD96/WorkStation-Zone/Ubuntu/Curiosity/studentsmachine/src/test/resources
+2016-05-09 12:16:12,078 [Worker-3] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-05-09 12:16:12,080 [Worker-3] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2016-05-09 12:16:12,082 [Worker-3] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-05-09 12:16:12,083 [Worker-3] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /media/shiv/68F0AC0BF0ABDD96/WorkStation-Zone/Ubuntu/Curiosity/studentsmachine/src/test/resources
+2016-05-09 12:20:38,842 [Worker-0] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-05-09 12:20:38,844 [Worker-0] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2016-05-09 12:20:38,847 [Worker-0] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-05-09 12:20:38,848 [Worker-0] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /media/shiv/68F0AC0BF0ABDD96/WorkStation-Zone/Ubuntu/Curiosity/studentsmachine/src/test/resources
+2016-05-09 12:21:24,510 [Worker-3] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-05-09 12:21:24,512 [Worker-3] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2016-05-09 12:21:24,513 [Worker-3] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-05-09 12:21:24,514 [Worker-3] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /media/shiv/68F0AC0BF0ABDD96/WorkStation-Zone/Ubuntu/Curiosity/studentsmachine/src/test/resources
+2016-05-09 12:22:33,533 [Worker-0] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-05-09 12:22:33,534 [Worker-0] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2016-05-09 12:22:33,537 [Worker-0] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-05-09 12:22:33,537 [Worker-0] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /media/shiv/68F0AC0BF0ABDD96/WorkStation-Zone/Ubuntu/Curiosity/studentsmachine/src/test/resources
+2016-05-09 12:22:43,261 [Worker-0] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-05-09 12:22:43,263 [Worker-0] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2016-05-09 12:22:43,265 [Worker-0] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-05-09 12:22:43,266 [Worker-0] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /media/shiv/68F0AC0BF0ABDD96/WorkStation-Zone/Ubuntu/Curiosity/studentsmachine/src/test/resources
+2016-05-09 12:23:27,381 [Worker-9] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-05-09 12:23:27,383 [Worker-9] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2016-05-09 12:23:27,386 [Worker-9] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-05-09 12:23:27,387 [Worker-9] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /media/shiv/68F0AC0BF0ABDD96/WorkStation-Zone/Ubuntu/Curiosity/studentsmachine/src/test/resources
+2016-05-09 12:23:34,524 [Worker-3] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-05-09 12:23:34,526 [Worker-3] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2016-05-09 12:23:34,528 [Worker-3] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-05-09 12:23:34,530 [Worker-3] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /media/shiv/68F0AC0BF0ABDD96/WorkStation-Zone/Ubuntu/Curiosity/studentsmachine/src/test/resources
+2016-05-09 12:23:47,057 [Worker-9] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-05-09 12:23:47,060 [Worker-9] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2016-05-09 12:23:47,063 [Worker-9] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-05-09 12:23:47,064 [Worker-9] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /media/shiv/68F0AC0BF0ABDD96/WorkStation-Zone/Ubuntu/Curiosity/studentsmachine/src/test/resources
+2016-05-09 12:24:36,948 [Worker-0] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-05-09 12:24:36,955 [Worker-0] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2016-05-09 12:24:36,957 [Worker-0] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-05-09 12:24:36,958 [Worker-0] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /media/shiv/68F0AC0BF0ABDD96/WorkStation-Zone/Ubuntu/Curiosity/studentsmachine/src/test/resources
+2016-05-09 12:25:14,740 [Worker-9] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-05-09 12:25:14,745 [Worker-9] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2016-05-09 12:25:14,748 [Worker-9] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-05-09 12:25:14,749 [Worker-9] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /media/shiv/68F0AC0BF0ABDD96/WorkStation-Zone/Ubuntu/Curiosity/studentsmachine/src/test/resources
+2016-05-09 12:26:27,423 [Worker-3] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-05-09 12:26:27,424 [Worker-3] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2016-05-09 12:26:27,426 [Worker-3] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-05-09 12:26:27,427 [Worker-3] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /media/shiv/68F0AC0BF0ABDD96/WorkStation-Zone/Ubuntu/Curiosity/studentsmachine/src/test/resources
+2016-05-09 12:27:36,389 [Worker-0] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-05-09 12:27:36,390 [Worker-0] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2016-05-09 12:27:36,393 [Worker-0] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-05-09 12:27:36,394 [Worker-0] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /media/shiv/68F0AC0BF0ABDD96/WorkStation-Zone/Ubuntu/Curiosity/studentsmachine/src/test/resources
+2016-05-09 12:27:51,899 [Worker-9] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-05-09 12:27:51,901 [Worker-9] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2016-05-09 12:27:51,903 [Worker-9] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-05-09 12:27:51,904 [Worker-9] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /media/shiv/68F0AC0BF0ABDD96/WorkStation-Zone/Ubuntu/Curiosity/studentsmachine/src/test/resources
+2016-05-09 12:29:20,426 [Worker-6] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-05-09 12:29:20,428 [Worker-6] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2016-05-09 12:29:20,431 [Worker-6] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-05-09 12:29:20,432 [Worker-6] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /media/shiv/68F0AC0BF0ABDD96/WorkStation-Zone/Ubuntu/Curiosity/studentsmachine/src/test/resources
+2016-05-09 12:29:30,115 [Worker-0] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-05-09 12:29:30,116 [Worker-0] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2016-05-09 12:29:30,119 [Worker-0] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-05-09 12:29:30,120 [Worker-0] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /media/shiv/68F0AC0BF0ABDD96/WorkStation-Zone/Ubuntu/Curiosity/studentsmachine/src/test/resources
+2016-05-09 12:30:31,770 [Worker-0] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-05-09 12:30:31,772 [Worker-0] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2016-05-09 12:30:31,774 [Worker-0] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-05-09 12:30:31,775 [Worker-0] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /media/shiv/68F0AC0BF0ABDD96/WorkStation-Zone/Ubuntu/Curiosity/studentsmachine/src/test/resources
+2016-05-09 12:31:14,773 [Worker-0] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-05-09 12:31:14,775 [Worker-0] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2016-05-09 12:31:14,776 [Worker-0] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-05-09 12:31:14,777 [Worker-0] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /media/shiv/68F0AC0BF0ABDD96/WorkStation-Zone/Ubuntu/Curiosity/studentsmachine/src/test/resources
+2016-05-09 12:32:29,261 [Worker-3] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-05-09 12:32:29,263 [Worker-3] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2016-05-09 12:32:29,265 [Worker-3] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-05-09 12:32:29,266 [Worker-3] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /media/shiv/68F0AC0BF0ABDD96/WorkStation-Zone/Ubuntu/Curiosity/studentsmachine/src/test/resources
+2016-05-09 12:32:49,169 [Worker-0] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-05-09 12:32:49,170 [Worker-0] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2016-05-09 12:32:49,173 [Worker-0] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-05-09 12:32:49,175 [Worker-0] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /media/shiv/68F0AC0BF0ABDD96/WorkStation-Zone/Ubuntu/Curiosity/studentsmachine/src/test/resources
+2016-05-09 12:33:02,211 [Worker-1] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-05-09 12:33:02,213 [Worker-1] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2016-05-09 12:33:02,216 [Worker-1] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-05-09 12:33:02,217 [Worker-1] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /media/shiv/68F0AC0BF0ABDD96/WorkStation-Zone/Ubuntu/Curiosity/studentsmachine/src/test/resources
+2016-05-09 12:33:49,264 [Worker-1] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-05-09 12:33:49,265 [Worker-1] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2016-05-09 12:33:49,267 [Worker-1] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-05-09 12:33:49,268 [Worker-1] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /media/shiv/68F0AC0BF0ABDD96/WorkStation-Zone/Ubuntu/Curiosity/studentsmachine/src/test/resources
+2016-05-09 12:34:12,575 [Worker-3] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-05-09 12:34:12,576 [Worker-3] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2016-05-09 12:34:12,579 [Worker-3] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-05-09 12:34:12,580 [Worker-3] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /media/shiv/68F0AC0BF0ABDD96/WorkStation-Zone/Ubuntu/Curiosity/studentsmachine/src/test/resources
+2016-05-09 12:35:19,333 [Worker-0] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-05-09 12:35:19,335 [Worker-0] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2016-05-09 12:35:19,336 [Worker-0] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-05-09 12:35:19,338 [Worker-0] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /media/shiv/68F0AC0BF0ABDD96/WorkStation-Zone/Ubuntu/Curiosity/studentsmachine/src/test/resources
+2016-05-09 12:35:49,403 [Worker-9] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-05-09 12:35:49,405 [Worker-9] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2016-05-09 12:35:49,408 [Worker-9] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-05-09 12:35:49,409 [Worker-9] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /media/shiv/68F0AC0BF0ABDD96/WorkStation-Zone/Ubuntu/Curiosity/studentsmachine/src/test/resources
+2016-05-09 12:37:18,066 [Worker-3] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-05-09 12:37:18,067 [Worker-3] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2016-05-09 12:37:18,069 [Worker-3] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-05-09 12:37:18,070 [Worker-3] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /media/shiv/68F0AC0BF0ABDD96/WorkStation-Zone/Ubuntu/Curiosity/studentsmachine/src/test/resources
+2016-05-09 12:37:42,914 [Worker-1] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-05-09 12:37:42,916 [Worker-1] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2016-05-09 12:37:42,920 [Worker-1] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-05-09 12:37:42,921 [Worker-1] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /media/shiv/68F0AC0BF0ABDD96/WorkStation-Zone/Ubuntu/Curiosity/studentsmachine/src/test/resources
+2016-05-09 12:37:57,633 [Worker-3] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-05-09 12:37:57,636 [Worker-3] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2016-05-09 12:37:57,638 [Worker-3] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-05-09 12:37:57,640 [Worker-3] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /media/shiv/68F0AC0BF0ABDD96/WorkStation-Zone/Ubuntu/Curiosity/studentsmachine/src/test/resources
+2016-05-09 12:38:16,574 [Worker-6] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-05-09 12:38:16,576 [Worker-6] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2016-05-09 12:38:16,579 [Worker-6] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-05-09 12:38:16,580 [Worker-6] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /media/shiv/68F0AC0BF0ABDD96/WorkStation-Zone/Ubuntu/Curiosity/studentsmachine/src/test/resources
+2016-05-09 12:39:14,711 [Worker-9] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-05-09 12:39:14,713 [Worker-9] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2016-05-09 12:39:14,714 [Worker-9] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-05-09 12:39:14,715 [Worker-9] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /media/shiv/68F0AC0BF0ABDD96/WorkStation-Zone/Ubuntu/Curiosity/studentsmachine/src/test/resources
+2016-05-09 12:39:33,354 [Worker-6] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-05-09 12:39:33,356 [Worker-6] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2016-05-09 12:39:33,359 [Worker-6] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-05-09 12:39:33,360 [Worker-6] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /media/shiv/68F0AC0BF0ABDD96/WorkStation-Zone/Ubuntu/Curiosity/studentsmachine/src/test/resources
+2016-05-09 12:41:08,838 [Worker-0] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-05-09 12:41:08,840 [Worker-0] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2016-05-09 12:41:08,841 [Worker-0] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-05-09 12:41:08,843 [Worker-0] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /media/shiv/68F0AC0BF0ABDD96/WorkStation-Zone/Ubuntu/Curiosity/studentsmachine/src/test/resources
+2016-05-09 12:41:33,998 [Worker-3] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-05-09 12:41:33,999 [Worker-3] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2016-05-09 12:41:34,002 [Worker-3] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-05-09 12:41:34,004 [Worker-3] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /media/shiv/68F0AC0BF0ABDD96/WorkStation-Zone/Ubuntu/Curiosity/studentsmachine/src/test/resources
+2016-05-09 12:42:57,728 [Worker-5] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-05-09 12:42:57,729 [Worker-5] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2016-05-09 12:42:57,732 [Worker-5] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-05-09 12:42:57,733 [Worker-5] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /media/shiv/68F0AC0BF0ABDD96/WorkStation-Zone/Ubuntu/Curiosity/studentsmachine/src/test/resources
+2016-05-09 12:43:24,801 [Worker-0] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-05-09 12:43:24,803 [Worker-0] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2016-05-09 12:43:24,805 [Worker-0] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-05-09 12:43:24,806 [Worker-0] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /media/shiv/68F0AC0BF0ABDD96/WorkStation-Zone/Ubuntu/Curiosity/studentsmachine/src/test/resources
+2016-05-09 12:44:24,022 [Worker-9] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-05-09 12:44:24,024 [Worker-9] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2016-05-09 12:44:24,026 [Worker-9] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-05-09 12:44:24,027 [Worker-9] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /media/shiv/68F0AC0BF0ABDD96/WorkStation-Zone/Ubuntu/Curiosity/studentsmachine/src/test/resources
+2016-05-09 12:45:11,463 [Worker-0] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-05-09 12:45:11,466 [Worker-0] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2016-05-09 12:45:11,469 [Worker-0] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-05-09 12:45:11,470 [Worker-0] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /media/shiv/68F0AC0BF0ABDD96/WorkStation-Zone/Ubuntu/Curiosity/studentsmachine/src/test/resources
+2016-05-09 12:45:43,737 [Worker-0] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-05-09 12:45:43,739 [Worker-0] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2016-05-09 12:45:43,741 [Worker-0] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-05-09 12:45:43,742 [Worker-0] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /media/shiv/68F0AC0BF0ABDD96/WorkStation-Zone/Ubuntu/Curiosity/studentsmachine/src/test/resources
+2016-05-09 12:47:08,386 [Worker-1] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-05-09 12:47:08,387 [Worker-1] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2016-05-09 12:47:08,389 [Worker-1] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-05-09 12:47:08,390 [Worker-1] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /media/shiv/68F0AC0BF0ABDD96/WorkStation-Zone/Ubuntu/Curiosity/studentsmachine/src/test/resources
+2016-05-09 12:47:30,305 [Worker-6] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-05-09 12:47:30,307 [Worker-6] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2016-05-09 12:47:30,308 [Worker-6] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-05-09 12:47:30,309 [Worker-6] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /media/shiv/68F0AC0BF0ABDD96/WorkStation-Zone/Ubuntu/Curiosity/studentsmachine/src/test/resources
+2016-05-09 12:48:04,169 [Worker-0] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-05-09 12:48:04,173 [Worker-0] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2016-05-09 12:48:04,182 [Worker-0] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-05-09 12:48:04,185 [Worker-0] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /media/shiv/68F0AC0BF0ABDD96/WorkStation-Zone/Ubuntu/Curiosity/studentsmachine/src/test/resources
+2016-05-09 12:48:09,664 [Worker-5] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-05-09 12:48:09,666 [Worker-5] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2016-05-09 12:48:09,667 [Worker-5] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-05-09 12:48:09,668 [Worker-5] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /media/shiv/68F0AC0BF0ABDD96/WorkStation-Zone/Ubuntu/Curiosity/studentsmachine/src/test/resources
+2016-05-09 12:48:53,474 [Worker-9] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-05-09 12:48:53,476 [Worker-9] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2016-05-09 12:48:53,478 [Worker-9] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-05-09 12:48:53,479 [Worker-9] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /media/shiv/68F0AC0BF0ABDD96/WorkStation-Zone/Ubuntu/Curiosity/studentsmachine/src/test/resources
+2016-05-09 12:49:26,672 [Worker-0] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-05-09 12:49:26,674 [Worker-0] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2016-05-09 12:49:26,676 [Worker-0] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-05-09 12:49:26,677 [Worker-0] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /media/shiv/68F0AC0BF0ABDD96/WorkStation-Zone/Ubuntu/Curiosity/studentsmachine/src/test/resources
+2016-05-09 12:50:00,770 [Worker-3] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-05-09 12:50:00,773 [Worker-3] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2016-05-09 12:50:00,783 [Worker-3] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-05-09 12:50:00,784 [Worker-3] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /media/shiv/68F0AC0BF0ABDD96/WorkStation-Zone/Ubuntu/Curiosity/studentsmachine/src/test/resources
+2016-05-09 12:50:09,414 [Worker-9] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-05-09 12:50:09,416 [Worker-9] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2016-05-09 12:50:09,418 [Worker-9] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-05-09 12:50:09,419 [Worker-9] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /media/shiv/68F0AC0BF0ABDD96/WorkStation-Zone/Ubuntu/Curiosity/studentsmachine/src/test/resources
+2016-05-09 12:51:03,166 [Worker-5] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-05-09 12:51:03,168 [Worker-5] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2016-05-09 12:51:03,170 [Worker-5] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-05-09 12:51:03,171 [Worker-5] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /media/shiv/68F0AC0BF0ABDD96/WorkStation-Zone/Ubuntu/Curiosity/studentsmachine/src/test/resources
+2016-05-09 12:51:13,244 [Worker-6] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-05-09 12:51:13,246 [Worker-6] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2016-05-09 12:51:13,248 [Worker-6] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-05-09 12:51:13,249 [Worker-6] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /media/shiv/68F0AC0BF0ABDD96/WorkStation-Zone/Ubuntu/Curiosity/studentsmachine/src/test/resources
+2016-05-09 12:51:58,005 [Worker-0] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-05-09 12:51:58,007 [Worker-0] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2016-05-09 12:51:58,010 [Worker-0] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-05-09 12:51:58,011 [Worker-0] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /media/shiv/68F0AC0BF0ABDD96/WorkStation-Zone/Ubuntu/Curiosity/studentsmachine/src/test/resources
+2016-05-09 12:52:25,994 [Worker-3] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-05-09 12:52:25,995 [Worker-3] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2016-05-09 12:52:25,997 [Worker-3] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-05-09 12:52:25,998 [Worker-3] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /media/shiv/68F0AC0BF0ABDD96/WorkStation-Zone/Ubuntu/Curiosity/studentsmachine/src/test/resources
+2016-05-09 12:52:34,730 [Worker-9] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-05-09 12:52:34,732 [Worker-9] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2016-05-09 12:52:34,734 [Worker-9] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-05-09 12:52:34,735 [Worker-9] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /media/shiv/68F0AC0BF0ABDD96/WorkStation-Zone/Ubuntu/Curiosity/studentsmachine/src/test/resources
+2016-05-09 12:52:54,747 [Worker-0] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-05-09 12:52:54,749 [Worker-0] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2016-05-09 12:52:54,751 [Worker-0] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-05-09 12:52:54,752 [Worker-0] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /media/shiv/68F0AC0BF0ABDD96/WorkStation-Zone/Ubuntu/Curiosity/studentsmachine/src/test/resources
+2016-05-09 12:53:05,272 [Worker-6] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-05-09 12:53:05,273 [Worker-6] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2016-05-09 12:53:05,275 [Worker-6] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-05-09 12:53:05,276 [Worker-6] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /media/shiv/68F0AC0BF0ABDD96/WorkStation-Zone/Ubuntu/Curiosity/studentsmachine/src/test/resources
+2016-05-09 12:53:38,863 [Worker-5] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-05-09 12:53:38,871 [Worker-5] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2016-05-09 12:53:38,873 [Worker-5] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-05-09 12:53:38,874 [Worker-5] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /media/shiv/68F0AC0BF0ABDD96/WorkStation-Zone/Ubuntu/Curiosity/studentsmachine/src/test/resources
+2016-05-09 12:54:19,768 [Worker-5] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-05-09 12:54:19,770 [Worker-5] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2016-05-09 12:54:19,773 [Worker-5] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-05-09 12:54:19,774 [Worker-5] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /media/shiv/68F0AC0BF0ABDD96/WorkStation-Zone/Ubuntu/Curiosity/studentsmachine/src/test/resources
+2016-05-09 12:54:33,354 [Worker-13] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-05-09 12:54:33,356 [Worker-13] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2016-05-09 12:54:33,360 [Worker-13] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-05-09 12:54:33,362 [Worker-13] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /media/shiv/68F0AC0BF0ABDD96/WorkStation-Zone/Ubuntu/Curiosity/studentsmachine/src/test/resources
+2016-05-09 13:02:30,088 [Worker-1] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-05-09 13:02:30,091 [Worker-1] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2016-05-09 13:02:30,093 [Worker-1] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-05-09 13:02:30,099 [Worker-1] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /media/shiv/68F0AC0BF0ABDD96/WorkStation-Zone/Ubuntu/Curiosity/studentsmachine/src/test/resources
+2016-05-09 13:04:05,555 [Worker-9] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-05-09 13:04:05,557 [Worker-9] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2016-05-09 13:04:05,559 [Worker-9] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-05-09 13:04:05,560 [Worker-9] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /media/shiv/68F0AC0BF0ABDD96/WorkStation-Zone/Ubuntu/Curiosity/studentsmachine/src/test/resources
+2016-05-09 13:04:34,321 [Worker-9] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-05-09 13:04:34,323 [Worker-9] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2016-05-09 13:04:34,325 [Worker-9] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-05-09 13:04:34,325 [Worker-9] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /media/shiv/68F0AC0BF0ABDD96/WorkStation-Zone/Ubuntu/Curiosity/studentsmachine/src/test/resources
+2016-05-09 13:05:05,526 [Worker-1] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-05-09 13:05:05,528 [Worker-1] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2016-05-09 13:05:05,531 [Worker-1] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-05-09 13:05:05,532 [Worker-1] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /media/shiv/68F0AC0BF0ABDD96/WorkStation-Zone/Ubuntu/Curiosity/studentsmachine/src/test/resources
+2016-05-09 13:05:44,276 [Worker-9] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-05-09 13:05:44,278 [Worker-9] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2016-05-09 13:05:44,299 [Worker-9] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-05-09 13:05:44,300 [Worker-9] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /media/shiv/68F0AC0BF0ABDD96/WorkStation-Zone/Ubuntu/Curiosity/studentsmachine/src/test/resources
+2016-05-09 13:05:56,505 [Worker-13] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-05-09 13:05:56,507 [Worker-13] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2016-05-09 13:05:56,509 [Worker-13] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-05-09 13:05:56,510 [Worker-13] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /media/shiv/68F0AC0BF0ABDD96/WorkStation-Zone/Ubuntu/Curiosity/studentsmachine/src/test/resources
+2016-05-09 13:06:18,172 [Worker-1] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-05-09 13:06:18,174 [Worker-1] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2016-05-09 13:06:18,176 [Worker-1] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-05-09 13:06:18,177 [Worker-1] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /media/shiv/68F0AC0BF0ABDD96/WorkStation-Zone/Ubuntu/Curiosity/studentsmachine/src/test/resources
+2016-05-09 13:06:35,937 [Worker-0] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-05-09 13:06:35,938 [Worker-0] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2016-05-09 13:06:35,941 [Worker-0] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-05-09 13:06:35,942 [Worker-0] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /media/shiv/68F0AC0BF0ABDD96/WorkStation-Zone/Ubuntu/Curiosity/studentsmachine/src/test/resources
+2016-05-09 13:06:51,523 [Worker-3] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-05-09 13:06:51,525 [Worker-3] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2016-05-09 13:06:51,527 [Worker-3] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-05-09 13:06:51,528 [Worker-3] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /media/shiv/68F0AC0BF0ABDD96/WorkStation-Zone/Ubuntu/Curiosity/studentsmachine/src/test/resources
+2016-05-09 13:06:59,308 [Worker-5] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-05-09 13:06:59,309 [Worker-5] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2016-05-09 13:06:59,312 [Worker-5] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-05-09 13:06:59,315 [Worker-5] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /media/shiv/68F0AC0BF0ABDD96/WorkStation-Zone/Ubuntu/Curiosity/studentsmachine/src/test/resources
+2016-05-09 13:11:47,708 [Worker-0] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-05-09 13:11:47,710 [Worker-0] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2016-05-09 13:11:47,712 [Worker-0] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-05-09 13:11:47,713 [Worker-0] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /media/shiv/68F0AC0BF0ABDD96/WorkStation-Zone/Ubuntu/Curiosity/studentsmachine/src/test/resources
+2016-05-09 13:12:53,764 [Worker-5] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-05-09 13:12:53,765 [Worker-5] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2016-05-09 13:12:53,768 [Worker-5] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-05-09 13:12:53,769 [Worker-5] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /media/shiv/68F0AC0BF0ABDD96/WorkStation-Zone/Ubuntu/Curiosity/studentsmachine/src/test/resources
+2016-05-09 13:13:27,593 [Worker-3] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-05-09 13:13:27,597 [Worker-3] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2016-05-09 13:13:27,599 [Worker-3] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-05-09 13:13:27,601 [Worker-3] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /media/shiv/68F0AC0BF0ABDD96/WorkStation-Zone/Ubuntu/Curiosity/studentsmachine/src/test/resources
+2016-05-09 13:14:30,105 [Worker-9] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-05-09 13:14:30,107 [Worker-9] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2016-05-09 13:14:30,109 [Worker-9] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-05-09 13:14:30,110 [Worker-9] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /media/shiv/68F0AC0BF0ABDD96/WorkStation-Zone/Ubuntu/Curiosity/studentsmachine/src/test/resources
+2016-05-09 13:17:07,357 [Worker-6] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-05-09 13:17:07,359 [Worker-6] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2016-05-09 13:17:07,360 [Worker-6] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-05-09 13:17:07,361 [Worker-6] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /media/shiv/68F0AC0BF0ABDD96/WorkStation-Zone/Ubuntu/Curiosity/studentsmachine/src/test/resources
+2016-05-09 13:17:49,697 [Worker-6] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-05-09 13:17:49,699 [Worker-6] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2016-05-09 13:17:49,701 [Worker-6] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-05-09 13:17:49,702 [Worker-6] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /media/shiv/68F0AC0BF0ABDD96/WorkStation-Zone/Ubuntu/Curiosity/studentsmachine/src/test/resources
+2016-05-09 13:18:30,435 [Worker-1] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-05-09 13:18:30,437 [Worker-1] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2016-05-09 13:18:30,439 [Worker-1] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-05-09 13:18:30,440 [Worker-1] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /media/shiv/68F0AC0BF0ABDD96/WorkStation-Zone/Ubuntu/Curiosity/studentsmachine/src/test/resources
+2016-05-09 13:18:38,822 [Worker-13] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-05-09 13:18:38,824 [Worker-13] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2016-05-09 13:18:38,826 [Worker-13] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-05-09 13:18:38,827 [Worker-13] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /media/shiv/68F0AC0BF0ABDD96/WorkStation-Zone/Ubuntu/Curiosity/studentsmachine/src/test/resources
+2016-05-09 13:20:57,331 [Worker-13] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-05-09 13:20:57,333 [Worker-13] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2016-05-09 13:20:57,335 [Worker-13] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-05-09 13:20:57,336 [Worker-13] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /media/shiv/68F0AC0BF0ABDD96/WorkStation-Zone/Ubuntu/Curiosity/studentsmachine/src/test/resources
+2016-05-09 13:21:34,805 [Worker-13] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-05-09 13:21:34,807 [Worker-13] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2016-05-09 13:21:34,810 [Worker-13] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-05-09 13:21:34,811 [Worker-13] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /media/shiv/68F0AC0BF0ABDD96/WorkStation-Zone/Ubuntu/Curiosity/studentsmachine/src/test/resources
+2016-05-09 13:21:41,983 [Worker-3] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-05-09 13:21:41,985 [Worker-3] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2016-05-09 13:21:41,987 [Worker-3] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-05-09 13:21:41,988 [Worker-3] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /media/shiv/68F0AC0BF0ABDD96/WorkStation-Zone/Ubuntu/Curiosity/studentsmachine/src/test/resources
+2016-05-09 13:21:50,949 [Worker-1] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-05-09 13:21:50,950 [Worker-1] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2016-05-09 13:21:50,953 [Worker-1] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-05-09 13:21:50,954 [Worker-1] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /media/shiv/68F0AC0BF0ABDD96/WorkStation-Zone/Ubuntu/Curiosity/studentsmachine/src/test/resources
+2016-05-09 13:22:41,614 [Worker-9] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-05-09 13:22:41,615 [Worker-9] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2016-05-09 13:22:41,618 [Worker-9] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-05-09 13:22:41,619 [Worker-9] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /media/shiv/68F0AC0BF0ABDD96/WorkStation-Zone/Ubuntu/Curiosity/studentsmachine/src/test/resources
+2016-05-09 13:22:57,182 [Worker-0] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-05-09 13:22:57,184 [Worker-0] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2016-05-09 13:22:57,186 [Worker-0] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-05-09 13:22:57,189 [Worker-0] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /media/shiv/68F0AC0BF0ABDD96/WorkStation-Zone/Ubuntu/Curiosity/studentsmachine/src/test/resources
+2016-05-09 13:24:01,526 [Worker-1] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-05-09 13:24:01,527 [Worker-1] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2016-05-09 13:24:01,529 [Worker-1] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-05-09 13:24:01,530 [Worker-1] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /media/shiv/68F0AC0BF0ABDD96/WorkStation-Zone/Ubuntu/Curiosity/studentsmachine/src/test/resources
+2016-05-09 13:24:19,752 [Worker-6] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-05-09 13:24:19,754 [Worker-6] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2016-05-09 13:24:19,756 [Worker-6] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-05-09 13:24:19,758 [Worker-6] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /media/shiv/68F0AC0BF0ABDD96/WorkStation-Zone/Ubuntu/Curiosity/studentsmachine/src/test/resources
+2016-05-09 13:24:21,784 [Worker-13] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-05-09 13:24:21,786 [Worker-13] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2016-05-09 13:24:21,788 [Worker-13] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-05-09 13:24:21,789 [Worker-13] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /media/shiv/68F0AC0BF0ABDD96/WorkStation-Zone/Ubuntu/Curiosity/studentsmachine/src/test/resources
+2016-05-09 13:24:30,750 [Worker-3] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-05-09 13:24:30,751 [Worker-3] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2016-05-09 13:24:30,754 [Worker-3] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-05-09 13:24:30,756 [Worker-3] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /media/shiv/68F0AC0BF0ABDD96/WorkStation-Zone/Ubuntu/Curiosity/studentsmachine/src/test/resources
+2016-05-09 13:24:58,690 [Worker-13] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-05-09 13:24:58,692 [Worker-13] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2016-05-09 13:24:58,694 [Worker-13] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-05-09 13:24:58,695 [Worker-13] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /media/shiv/68F0AC0BF0ABDD96/WorkStation-Zone/Ubuntu/Curiosity/studentsmachine/src/test/resources
+2016-05-09 13:25:53,367 [Worker-0] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-05-09 13:25:53,369 [Worker-0] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2016-05-09 13:25:53,374 [Worker-0] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-05-09 13:25:53,375 [Worker-0] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /media/shiv/68F0AC0BF0ABDD96/WorkStation-Zone/Ubuntu/Curiosity/studentsmachine/src/test/resources
+2016-05-09 13:26:05,946 [Worker-6] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-05-09 13:26:05,948 [Worker-6] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2016-05-09 13:26:05,950 [Worker-6] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-05-09 13:26:05,952 [Worker-6] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /media/shiv/68F0AC0BF0ABDD96/WorkStation-Zone/Ubuntu/Curiosity/studentsmachine/src/test/resources
+2016-05-09 13:27:21,847 [Worker-5] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-05-09 13:27:21,849 [Worker-5] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2016-05-09 13:27:21,851 [Worker-5] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-05-09 13:27:21,852 [Worker-5] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /media/shiv/68F0AC0BF0ABDD96/WorkStation-Zone/Ubuntu/Curiosity/studentsmachine/src/test/resources
+2016-05-09 13:30:12,268 [Worker-9] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-05-09 13:30:12,270 [Worker-9] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2016-05-09 13:30:12,272 [Worker-9] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-05-09 13:30:12,273 [Worker-9] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /media/shiv/68F0AC0BF0ABDD96/WorkStation-Zone/Ubuntu/Curiosity/studentsmachine/src/test/resources
+2016-05-09 13:30:17,571 [Worker-6] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-05-09 13:30:17,572 [Worker-6] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2016-05-09 13:30:17,574 [Worker-6] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-05-09 13:30:17,575 [Worker-6] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /media/shiv/68F0AC0BF0ABDD96/WorkStation-Zone/Ubuntu/Curiosity/studentsmachine/src/test/resources
+2016-05-09 13:30:42,503 [Worker-1] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-05-09 13:30:42,505 [Worker-1] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2016-05-09 13:30:42,507 [Worker-1] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-05-09 13:30:42,509 [Worker-1] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /media/shiv/68F0AC0BF0ABDD96/WorkStation-Zone/Ubuntu/Curiosity/studentsmachine/src/test/resources
+2016-05-09 13:30:53,297 [Worker-6] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-05-09 13:30:53,298 [Worker-6] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2016-05-09 13:30:53,300 [Worker-6] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-05-09 13:30:53,301 [Worker-6] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /media/shiv/68F0AC0BF0ABDD96/WorkStation-Zone/Ubuntu/Curiosity/studentsmachine/src/test/resources
+2016-05-09 13:31:02,449 [Worker-0] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-05-09 13:31:02,451 [Worker-0] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2016-05-09 13:31:02,454 [Worker-0] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-05-09 13:31:02,455 [Worker-0] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /media/shiv/68F0AC0BF0ABDD96/WorkStation-Zone/Ubuntu/Curiosity/studentsmachine/src/test/resources
+2016-05-09 13:31:51,543 [Worker-6] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-05-09 13:31:51,545 [Worker-6] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2016-05-09 13:31:51,547 [Worker-6] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-05-09 13:31:51,549 [Worker-6] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /media/shiv/68F0AC0BF0ABDD96/WorkStation-Zone/Ubuntu/Curiosity/studentsmachine/src/test/resources
+2016-05-09 13:33:01,826 [Worker-1] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-05-09 13:33:01,828 [Worker-1] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2016-05-09 13:33:01,830 [Worker-1] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-05-09 13:33:01,831 [Worker-1] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /media/shiv/68F0AC0BF0ABDD96/WorkStation-Zone/Ubuntu/Curiosity/studentsmachine/src/test/resources
+2016-05-09 13:34:29,827 [Worker-0] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-05-09 13:34:29,829 [Worker-0] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2016-05-09 13:34:29,830 [Worker-0] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-05-09 13:34:29,832 [Worker-0] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /media/shiv/68F0AC0BF0ABDD96/WorkStation-Zone/Ubuntu/Curiosity/studentsmachine/src/test/resources
+2016-05-09 13:34:40,014 [Worker-0] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-05-09 13:34:40,016 [Worker-0] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2016-05-09 13:34:40,018 [Worker-0] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-05-09 13:34:40,019 [Worker-0] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /media/shiv/68F0AC0BF0ABDD96/WorkStation-Zone/Ubuntu/Curiosity/studentsmachine/src/test/resources
+2016-05-09 13:35:24,299 [Worker-9] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-05-09 13:35:24,301 [Worker-9] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2016-05-09 13:35:24,303 [Worker-9] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-05-09 13:35:24,304 [Worker-9] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /media/shiv/68F0AC0BF0ABDD96/WorkStation-Zone/Ubuntu/Curiosity/studentsmachine/src/test/resources
+2016-05-09 13:35:35,941 [Worker-1] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-05-09 13:35:35,943 [Worker-1] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2016-05-09 13:35:35,945 [Worker-1] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-05-09 13:35:35,946 [Worker-1] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /media/shiv/68F0AC0BF0ABDD96/WorkStation-Zone/Ubuntu/Curiosity/studentsmachine/src/test/resources
+2016-05-09 13:35:46,820 [Worker-9] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-05-09 13:35:46,822 [Worker-9] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2016-05-09 13:35:46,824 [Worker-9] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-05-09 13:35:46,825 [Worker-9] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /media/shiv/68F0AC0BF0ABDD96/WorkStation-Zone/Ubuntu/Curiosity/studentsmachine/src/test/resources
+2016-05-09 13:35:59,812 [Worker-0] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-05-09 13:35:59,814 [Worker-0] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2016-05-09 13:35:59,816 [Worker-0] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-05-09 13:35:59,818 [Worker-0] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /media/shiv/68F0AC0BF0ABDD96/WorkStation-Zone/Ubuntu/Curiosity/studentsmachine/src/test/resources
+2016-05-09 13:36:35,231 [Worker-13] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-05-09 13:36:35,232 [Worker-13] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2016-05-09 13:36:35,234 [Worker-13] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-05-09 13:36:35,236 [Worker-13] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /media/shiv/68F0AC0BF0ABDD96/WorkStation-Zone/Ubuntu/Curiosity/studentsmachine/src/test/resources
+2016-05-09 13:36:41,064 [Worker-0] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-05-09 13:36:41,065 [Worker-0] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2016-05-09 13:36:41,067 [Worker-0] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-05-09 13:36:41,068 [Worker-0] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /media/shiv/68F0AC0BF0ABDD96/WorkStation-Zone/Ubuntu/Curiosity/studentsmachine/src/test/resources
+2016-05-09 13:37:22,987 [Worker-6] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-05-09 13:37:22,989 [Worker-6] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2016-05-09 13:37:22,991 [Worker-6] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-05-09 13:37:22,992 [Worker-6] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /media/shiv/68F0AC0BF0ABDD96/WorkStation-Zone/Ubuntu/Curiosity/studentsmachine/src/test/resources
+2016-05-09 13:37:50,676 [Worker-9] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-05-09 13:37:50,678 [Worker-9] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2016-05-09 13:37:50,680 [Worker-9] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-05-09 13:37:50,681 [Worker-9] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /media/shiv/68F0AC0BF0ABDD96/WorkStation-Zone/Ubuntu/Curiosity/studentsmachine/src/test/resources
+2016-05-09 13:38:19,034 [Worker-3] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-05-09 13:38:19,035 [Worker-3] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2016-05-09 13:38:19,037 [Worker-3] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-05-09 13:38:19,038 [Worker-3] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /media/shiv/68F0AC0BF0ABDD96/WorkStation-Zone/Ubuntu/Curiosity/studentsmachine/src/test/resources
+2016-05-09 13:38:21,251 [Worker-6] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-05-09 13:38:21,253 [Worker-6] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2016-05-09 13:38:21,254 [Worker-6] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-05-09 13:38:21,255 [Worker-6] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /media/shiv/68F0AC0BF0ABDD96/WorkStation-Zone/Ubuntu/Curiosity/studentsmachine/src/test/resources
+2016-05-09 13:38:46,670 [Worker-3] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-05-09 13:38:46,672 [Worker-3] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2016-05-09 13:38:46,674 [Worker-3] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-05-09 13:38:46,675 [Worker-3] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /media/shiv/68F0AC0BF0ABDD96/WorkStation-Zone/Ubuntu/Curiosity/studentsmachine/src/test/resources
+2016-05-09 13:39:06,932 [Worker-1] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-05-09 13:39:06,935 [Worker-1] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2016-05-09 13:39:06,937 [Worker-1] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-05-09 13:39:06,938 [Worker-1] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /media/shiv/68F0AC0BF0ABDD96/WorkStation-Zone/Ubuntu/Curiosity/studentsmachine/src/test/resources
+2016-05-09 13:40:44,083 [Worker-1] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-05-09 13:40:44,084 [Worker-1] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2016-05-09 13:40:44,086 [Worker-1] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-05-09 13:40:44,087 [Worker-1] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /media/shiv/68F0AC0BF0ABDD96/WorkStation-Zone/Ubuntu/Curiosity/studentsmachine/src/test/resources
+2016-05-09 13:42:26,099 [Worker-0] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-05-09 13:42:26,101 [Worker-0] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2016-05-09 13:42:26,104 [Worker-0] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-05-09 13:42:26,105 [Worker-0] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /media/shiv/68F0AC0BF0ABDD96/WorkStation-Zone/Ubuntu/Curiosity/studentsmachine/src/test/resources
+2016-05-09 13:42:51,336 [Worker-3] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-05-09 13:42:51,339 [Worker-3] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2016-05-09 13:42:51,340 [Worker-3] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-05-09 13:42:51,341 [Worker-3] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /media/shiv/68F0AC0BF0ABDD96/WorkStation-Zone/Ubuntu/Curiosity/studentsmachine/src/test/resources
+2016-05-09 13:43:15,177 [Worker-8] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-05-09 13:43:15,178 [Worker-8] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2016-05-09 13:43:15,181 [Worker-8] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-05-09 13:43:15,182 [Worker-8] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /media/shiv/68F0AC0BF0ABDD96/WorkStation-Zone/Ubuntu/Curiosity/studentsmachine/src/test/resources
+2016-05-09 13:43:28,883 [Worker-0] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-05-09 13:43:28,885 [Worker-0] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2016-05-09 13:43:28,887 [Worker-0] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-05-09 13:43:28,887 [Worker-0] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /media/shiv/68F0AC0BF0ABDD96/WorkStation-Zone/Ubuntu/Curiosity/studentsmachine/src/test/resources
+2016-05-09 13:43:53,498 [Worker-1] INFO  o.e.m.i.launch.MavenLaunchDelegate - /media/shiv/68F0AC0BF0ABDD96/WorkStation-Zone/Ubuntu/Curiosity/studentsmachine
+2016-05-09 13:43:53,499 [Worker-1] INFO  o.e.m.i.launch.MavenLaunchDelegate -  mvn  -B install
+2016-05-09 13:44:18,290 [Worker-3] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-05-09 13:44:18,292 [Worker-3] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2016-05-09 13:44:18,294 [Worker-3] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-05-09 13:44:18,295 [Worker-3] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /media/shiv/68F0AC0BF0ABDD96/WorkStation-Zone/Ubuntu/Curiosity/studentsmachine/src/test/resources
+2016-05-09 13:50:02,157 [Worker-6] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-05-09 13:50:02,159 [Worker-6] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2016-05-09 13:50:02,162 [Worker-6] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-05-09 13:50:02,163 [Worker-6] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /media/shiv/68F0AC0BF0ABDD96/WorkStation-Zone/Ubuntu/Curiosity/studentsmachine/src/test/resources
+2016-05-09 13:51:47,900 [Worker-14] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-05-09 13:51:47,901 [Worker-14] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2016-05-09 13:51:47,904 [Worker-14] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-05-09 13:51:47,906 [Worker-14] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /media/shiv/68F0AC0BF0ABDD96/WorkStation-Zone/Ubuntu/Curiosity/studentsmachine/src/test/resources
+2016-05-09 13:52:22,063 [Worker-8] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-05-09 13:52:22,064 [Worker-8] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2016-05-09 13:52:22,066 [Worker-8] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-05-09 13:52:22,068 [Worker-8] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /media/shiv/68F0AC0BF0ABDD96/WorkStation-Zone/Ubuntu/Curiosity/studentsmachine/src/test/resources
+2016-05-09 13:53:00,920 [Worker-8] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-05-09 13:53:00,922 [Worker-8] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2016-05-09 13:53:00,924 [Worker-8] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-05-09 13:53:00,925 [Worker-8] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /media/shiv/68F0AC0BF0ABDD96/WorkStation-Zone/Ubuntu/Curiosity/studentsmachine/src/test/resources
+2016-05-09 13:53:59,394 [Worker-8] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-05-09 13:53:59,396 [Worker-8] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2016-05-09 13:53:59,398 [Worker-8] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-05-09 13:53:59,399 [Worker-8] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /media/shiv/68F0AC0BF0ABDD96/WorkStation-Zone/Ubuntu/Curiosity/studentsmachine/src/test/resources
+2016-05-09 13:54:58,001 [Worker-13] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-05-09 13:54:58,003 [Worker-13] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2016-05-09 13:54:58,005 [Worker-13] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-05-09 13:54:58,006 [Worker-13] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /media/shiv/68F0AC0BF0ABDD96/WorkStation-Zone/Ubuntu/Curiosity/studentsmachine/src/test/resources
+2016-05-09 13:55:56,775 [Worker-6] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-05-09 13:55:56,777 [Worker-6] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2016-05-09 13:55:56,780 [Worker-6] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-05-09 13:55:56,781 [Worker-6] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /media/shiv/68F0AC0BF0ABDD96/WorkStation-Zone/Ubuntu/Curiosity/studentsmachine/src/test/resources
+2016-05-09 13:56:21,188 [Worker-14] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-05-09 13:56:21,190 [Worker-14] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2016-05-09 13:56:21,192 [Worker-14] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-05-09 13:56:21,193 [Worker-14] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /media/shiv/68F0AC0BF0ABDD96/WorkStation-Zone/Ubuntu/Curiosity/studentsmachine/src/test/resources
+2016-05-09 13:57:27,273 [Worker-6] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-05-09 13:57:27,274 [Worker-6] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2016-05-09 13:57:27,276 [Worker-6] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-05-09 13:57:27,278 [Worker-6] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /media/shiv/68F0AC0BF0ABDD96/WorkStation-Zone/Ubuntu/Curiosity/studentsmachine/src/test/resources
+2016-05-09 13:59:56,387 [Worker-9] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-05-09 13:59:56,389 [Worker-9] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2016-05-09 13:59:56,391 [Worker-9] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-05-09 13:59:56,392 [Worker-9] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /media/shiv/68F0AC0BF0ABDD96/WorkStation-Zone/Ubuntu/Curiosity/studentsmachine/src/test/resources
+2016-05-09 14:00:55,170 [Worker-6] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-05-09 14:00:55,172 [Worker-6] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2016-05-09 14:00:55,174 [Worker-6] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-05-09 14:00:55,175 [Worker-6] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /media/shiv/68F0AC0BF0ABDD96/WorkStation-Zone/Ubuntu/Curiosity/studentsmachine/src/test/resources
+2016-05-09 14:00:59,385 [Worker-14] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-05-09 14:00:59,386 [Worker-14] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2016-05-09 14:00:59,389 [Worker-14] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-05-09 14:00:59,390 [Worker-14] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /media/shiv/68F0AC0BF0ABDD96/WorkStation-Zone/Ubuntu/Curiosity/studentsmachine/src/test/resources
+2016-05-09 14:01:18,701 [Worker-0] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-05-09 14:01:18,703 [Worker-0] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2016-05-09 14:01:18,705 [Worker-0] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-05-09 14:01:18,706 [Worker-0] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /media/shiv/68F0AC0BF0ABDD96/WorkStation-Zone/Ubuntu/Curiosity/studentsmachine/src/test/resources
+2016-05-09 14:02:43,739 [Worker-3] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-05-09 14:02:43,741 [Worker-3] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2016-05-09 14:02:43,743 [Worker-3] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-05-09 14:02:43,744 [Worker-3] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /media/shiv/68F0AC0BF0ABDD96/WorkStation-Zone/Ubuntu/Curiosity/studentsmachine/src/test/resources
+2016-05-09 14:03:04,802 [Worker-14] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-05-09 14:03:04,803 [Worker-14] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2016-05-09 14:03:04,806 [Worker-14] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-05-09 14:03:04,807 [Worker-14] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /media/shiv/68F0AC0BF0ABDD96/WorkStation-Zone/Ubuntu/Curiosity/studentsmachine/src/test/resources
+2016-05-09 14:03:24,368 [Worker-3] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-05-09 14:03:24,370 [Worker-3] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2016-05-09 14:03:24,373 [Worker-3] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-05-09 14:03:24,374 [Worker-3] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /media/shiv/68F0AC0BF0ABDD96/WorkStation-Zone/Ubuntu/Curiosity/studentsmachine/src/test/resources
+2016-05-09 14:04:42,841 [Worker-14] INFO  o.e.m.i.launch.MavenLaunchDelegate - /media/shiv/68F0AC0BF0ABDD96/WorkStation-Zone/Ubuntu/Curiosity/collegeserver
+2016-05-09 14:04:42,841 [Worker-14] INFO  o.e.m.i.launch.MavenLaunchDelegate -  mvn  -B install
+2016-05-09 15:41:04,018 [Worker-3] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-05-09 15:41:04,089 [Worker-3] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2016-05-09 15:41:04,092 [Worker-3] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-05-09 15:41:04,105 [Worker-3] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /media/shiv/68F0AC0BF0ABDD96/WorkStation-Zone/Ubuntu/Curiosity/studentsmachine/src/test/resources
+2016-05-09 15:41:10,504 [Worker-3] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-05-09 15:41:10,506 [Worker-3] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2016-05-09 15:41:10,508 [Worker-3] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-05-09 15:41:10,510 [Worker-3] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /media/shiv/68F0AC0BF0ABDD96/WorkStation-Zone/Ubuntu/Curiosity/studentsmachine/src/test/resources

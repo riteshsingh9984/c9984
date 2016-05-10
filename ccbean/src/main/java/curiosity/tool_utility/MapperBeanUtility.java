@@ -20,6 +20,11 @@ public class MapperBeanUtility {
 		
 		try{
 			if(mapper != null){
+				if(mapper.getAddress()!= null){
+					bean.setAddress(mapper.getAddress());
+				}else{
+					bean.setAddress("Not-Set");
+				}
 				if(mapper.getFileData()!= null){
 					bean.setImageBase64(mapper.getImageBase64());
 				}else{

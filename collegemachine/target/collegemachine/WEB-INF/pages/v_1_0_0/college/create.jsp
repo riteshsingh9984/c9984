@@ -19,6 +19,9 @@
 		<title>College Machine+</title>
 		<%-- <jsp:include page="../../../helpers/materialize-loader.jsp" /> --%>
 		<jsp:include page="../../../helpers/material-lite-loader.jsp" />
+		
+		<script src="http://maps.google.com/maps/api/js?sensor=false"></script>
+		
 	</head>
 	
 	<style>
@@ -187,8 +190,31 @@
 														    		</div>
 														    		<!-- Right Content -->
 														    		<div class="col-sm-6">
-														    		
+														    			<p id='latitudeAndLongitude' class="hidden"></p>
+																		
+																		<div class="row">
+																			<div class="col-sm-6">
+																				<div class="mdl-textfield mdl-js-textfield mdl-textfield--floating-label">
+																					<input id="longi" name="longitude" class="mdl-textfield__input" type="text" id="projectLeaderId">
+																					<label class="mdl-textfield__label" for="projectLeaderId"><smal >Logitude</smal></label>
+																				</div>
+																			</div>
+																			<div class="col-sm-6">
+																				<div class="mdl-textfield mdl-js-textfield mdl-textfield--floating-label">
+																					<input id="lati" name="latitude" class="mdl-textfield__input" type="text" id="projectLeaderId">
+																					<label class="mdl-textfield__label" for="projectLeaderId"><smal >Latitude</smal></label>
+																				</div>
+																			</div>
+																		</div>
 														    			<br/>
+														    			<div class="row">
+														    				<div class="col-sm-12">
+														    					<div class="mdl-textfield mdl-js-textfield" style="width:100%;">
+																				    <textarea id="address" name="address" class="mdl-textfield__input" type="text" rows= "10" id="content" style="background-color:#EAEDED;color:black;" ></textarea>
+																				    <label class="mdl-textfield__label" for="content"><smal >Address</smal></label>
+																				 </div>
+														    				</div>
+														    			</div>
 														    		</div>
 														    	</div>
 												        	</div>
@@ -236,6 +262,48 @@
 	</body>
 </html>
 <script>
+
+$(document).ready(function(){
+	var latitudeAndLongitude=document.getElementById("latitudeAndLongitude"),
+	location={
+	    latitude:'',
+	    longitude:''
+	};
+
+	if (navigator.geolocation){
+	  navigator.geolocation.getCurrentPosition(showPosition);
+	}
+	else{
+	  latitudeAndLongitude.innerHTML="Geolocation is not supported by this browser.";
+	}
+
+	function showPosition(position){ 
+	    location.latitude=position.coords.latitude;
+	    location.longitude=position.coords.longitude;
+	    latitudeAndLongitude.innerHTML="Latitude: " + position.coords.latitude + 
+	    "<br>Longitude: " + position.coords.longitude; 
+	    $('#longi').val(position.coords.longitude);
+	    $('#lati').val(position.coords.latitude);
+	    
+	    var geocoder = new google.maps.Geocoder();
+	    var latLng = new google.maps.LatLng(location.latitude, location.longitude);
+
+	 if (geocoder) {
+	    geocoder.geocode({ 'latLng': latLng}, function (results, status) {
+	       if (status == google.maps.GeocoderStatus.OK) {
+	         console.log(results[0].formatted_address); 
+	         $('#address').html('Address:'+results[0].formatted_address);
+	       }
+	       else {
+	        $('#address').html('Geocoding failed: '+status);
+	        console.log("Geocoding failed: " + status);
+	       }
+	    }); //geocoder.geocode()
+	  }      
+	} //showPosition
+});
+
+
 	function getImage(){
 		var d = "${ data.imageData}";
 		var imageData = base64_encode(file_get_contents(d));
