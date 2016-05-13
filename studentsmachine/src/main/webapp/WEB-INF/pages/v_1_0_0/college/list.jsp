@@ -39,7 +39,7 @@
 		<div class="demo-layout-waterfall mdl-layout mdl-js-layout">
 <!-- =============================My Page Header & Left-drawer======================================================= -->		
 		
-		<jsp:include page="../../../helpers/header.jsp" />
+		<jsp:include page="../../../helpers/header-college.jsp" />
 		
 <!-- =============================My Page Header & Left-drawer Done====================================================== -->
 		

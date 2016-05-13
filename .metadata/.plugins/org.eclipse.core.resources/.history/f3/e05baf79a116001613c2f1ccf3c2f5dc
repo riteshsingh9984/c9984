@@ -1,0 +1,9 @@
+package curiosity.bean_utility;
+
+public class Contact {
+
+	private String email;
+	private String altremail;
+	private String mobile;
+	private String altrmobile;
+}

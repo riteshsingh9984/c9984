@@ -1,0 +1,5 @@
+package curiosity.bean_utility;
+
+public class Contact {
+
+}

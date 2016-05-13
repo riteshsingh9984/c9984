@@ -68,4 +68,22 @@ public class CollegeController {
 		return new Gson().toJson(CollegeUtility.getColleges(tag));
 		//return null;
 	}
+	
+	/**
+	 * This Url use to Go-On SignUp page
+	 * 
+	 * @update RITESH SINGH at 12 May 2016
+	 * @author RITESH SINGH
+	 * @since version 1.0.0, 12 May 2016
+	 * 
+	 * @return ModelAndView
+	 * @throws UnknownHostException 
+	 */
+	@RequestMapping(value = { "/signUp" }, method = RequestMethod.GET)
+	public ModelAndView signUpPage() throws UnknownHostException {
+		
+		Map<String,Object> data = new HashMap<String,Object>();
+		data.put("tag", "all");
+		return new ModelAndView("v_1_0_0/student/signup", "data", data);
+	}
 }

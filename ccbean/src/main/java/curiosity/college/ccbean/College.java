@@ -11,6 +11,7 @@ import com.google.gson.Gson;
 import com.mongodb.DBObject;
 import com.mongodb.WriteResult;
 
+import curiosity.bean_utility.Contact;
 import curiosity.bean_utility.CreateInfo;
 import curiosity.bean_utility.UpdateInfo;
 import ironman.dbcore.mongodb.MongoDb;
@@ -44,6 +45,7 @@ public class College extends MongoDb {
 	private String version;
 	private CreateInfo createInfo;
 	private ArrayList<UpdateInfo> updateInfo;
+	private Contact contact;
 	private String imageBase64;
 	
 	/**
@@ -463,5 +465,17 @@ public class College extends MongoDb {
 	 */
 	public void setAddress(String address) {
 		this.address = address;
+	}
+	/**
+	 * @return the contact
+	 */
+	public Contact getContact() {
+		return contact;
+	}
+	/**
+	 * @param contact the contact to set
+	 */
+	public void setContact(Contact contact) {
+		this.contact = contact;
 	}
 }

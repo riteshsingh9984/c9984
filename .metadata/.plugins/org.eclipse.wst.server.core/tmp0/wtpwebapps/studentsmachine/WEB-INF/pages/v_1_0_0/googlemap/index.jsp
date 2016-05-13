@@ -45,7 +45,7 @@
 		<div class="demo-layout-waterfall mdl-layout mdl-js-layout">
 <!-- =============================My Page Header & Left-drawer======================================================= -->		
 		
-		<jsp:include page="../../../helpers/header.jsp" />
+		<jsp:include page="../../../helpers/header-college.jsp" />
 		
 <!-- =============================My Page Header & Left-drawer Done====================================================== -->
 		
@@ -53,7 +53,7 @@
  <!-- =============================My Page Body============================================================ -->			
 		    	<div class="page-content" >
 		    		
-	    			<div class="container" style="margin-top:2%; width:100%;"  >
+	    			<div class="container" style="margin-top:2%; width:100%;"  ><a style="color:black;" href="collegeList"><u>List</u></a> Map
 	    				<div class="row">
 	    					<div class="col-sm-12">
 <!-- =============================My Page Card============================================================ -->						      
@@ -63,7 +63,15 @@
 								  	</div> -->	
 <!-- =============================My Page Card Body============================================================ -->								  	
 								  	<div class="mdl-card__supporting-text" >
-								  		<div id="dvMap" style="width: 500px; height: 500px"></div>
+								  		
+								  		<div class="row">
+								  			<div class="col-sm-6">
+								  				<div id="dvMap" style="width: 500px; height: 500px"></div>
+								  			</div>
+								  			<div class="col-sm-6">
+								  			</div>
+								  		</div>
+								  		
 								  	</div>
 <!-- =============================My Page Card Body Done============================================================ -->
 								  	
@@ -96,6 +104,13 @@ var longicurrent;
 var laticurrent;	
 	$(document).ready(function() {
 		
+		gMap();
+		
+	    } );
+	
+	
+	function gMap(){
+		
 		var markers = new Array();
 	    var myLatLng;
 	 
@@ -107,7 +122,7 @@ var laticurrent;
 	            m.title = "Current location";
 	            m.lat = p.coords.latitude;
 	            m.lng = p.coords.longitude;
-	            m.description = "<a href='collegeList'>college list</a> your current location";
+	            m.description = "<span class='glyphicon glyphicon-user'></span> your current location : search by RITESH SINGH <br/><a href='collegeList'>college list</a>";
 	            markers.push(m);
 	            //Find specified address location.
 	            var address = '${ data.address}';
@@ -118,7 +133,7 @@ var laticurrent;
 	                    m.title = address;
 	                    /* m.lat = results[0].geometry.location.lat();
 	                    m.lng = results[0].geometry.location.lng(); */
-	                    m.description = "hiii";
+	                    m.description = "<span class='glyphicon glyphicon-education'></span> Jarvis caught your college <i class='fa fa-smile-o'></i>";
 	                    m.lat = '${ data.latitude}';
 	                    m.lng = '${ data.longitude}';
 	                    
@@ -201,64 +216,6 @@ var laticurrent;
 	        return;
 	    }
 		
-	    } );
-</script>
-
-<script type="text/javascript"> 
-/* var map;
-var marker;
-var myLatlng = new google.maps.LatLng("${ data.latitude }","${ data.longitude }");
-var geocoder = new google.maps.Geocoder();
-var infowindow = new google.maps.InfoWindow();
-function initialize(){
-var mapOptions = {
-zoom: 10,
-center: myLatlng,
-mapTypeId: google.maps.MapTypeId.ROADMAP
-};
-
-map = new google.maps.Map(document.getElementById("myMap"), mapOptions);
-
-marker = new google.maps.Marker({
-map: map,
-position: myLatlng,
-draggable: true 
-}); 
-
-geocoder.geocode({'latLng': myLatlng }, function(results, status) {
-if (status == google.maps.GeocoderStatus.OK) {
-if (results[0]) {
-$('#latitude,#longitude').show();
-$('#address').val(results[0].formatted_address);
-$('#latitude').val(marker.getPosition().lat());
-$('#longitude').val(marker.getPosition().lng());
-infowindow.setContent("<a href='collegeList'>college list</a> "+results[0].formatted_address);
-infowindow.open(map, marker);
-}
-}
-});
-
-google.maps.event.addListener(marker, 'dragend', function() {
-
-geocoder.geocode({'latLng': marker.getPosition()}, function(results, status) {
-if (status == google.maps.GeocoderStatus.OK) {
-if (results[0]) {
-$('#address').val(results[0].formatted_address);
-$('#latitude').val(marker.getPosition().lat());
-$('#longitude').val(marker.getPosition().lng());
-infowindow.setContent(results[0].formatted_address);
-infowindow.open(map, marker);
-}
-}
-});
-});
-
-}
-google.maps.event.addDomListener(window, 'load', initialize); */
-</script>
-<script>
-       window.onload = function () {
-    	
-    	   
-       }
+		
+	}
 </script>

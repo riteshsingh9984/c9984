@@ -20,4 +20,10 @@ public class HelloController {
 		
 		//return new ModelAndView("saleOrderData/rtoinitiatedlist", "title", "Spring Security Custom Login Form");
 	}
+	
+	@RequestMapping(value = { "angulerjs" }, method = RequestMethod.GET)
+	public ModelAndView welcomeAngulerPage() {
+		
+		return new ModelAndView("v_1_0_0/test/anguler");
+	}
 }

@@ -2,6 +2,8 @@ package curiosity.college.ccbean;
 
 import org.springframework.web.multipart.commons.CommonsMultipartFile;
 
+import curiosity.bean_utility.Contact;
+
 public class CollegeMapper {
 	
 	private String id;
@@ -25,6 +27,7 @@ public class CollegeMapper {
 	private String updatedAt;
 	private String updatedBy;
 	private CommonsMultipartFile fileData;
+	private Contact contact;
 	private String imageBase64;
 	/**
 	 * @return the id
@@ -277,6 +280,18 @@ public class CollegeMapper {
 	 */
 	public void setAddress(String address) {
 		this.address = address;
+	}
+	/**
+	 * @return the contact
+	 */
+	public Contact getContact() {
+		return contact;
+	}
+	/**
+	 * @param contact the contact to set
+	 */
+	public void setContact(Contact contact) {
+		this.contact = contact;
 	}
 	
 }

@@ -1,0 +1,15 @@
+/**
+ * 
+ */
+package curiosity.college.cchelperbean;
+
+import org.springframework.web.multipart.commons.CommonsMultipartFile;
+
+/**
+ * @author shiv
+ *
+ */
+public class FileUpload {
+
+	private CommonsMultipartFile fileData;
+}

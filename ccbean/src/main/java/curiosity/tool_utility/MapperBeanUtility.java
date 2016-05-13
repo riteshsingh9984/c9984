@@ -5,6 +5,7 @@ package curiosity.tool_utility;
 
 import java.util.ArrayList;
 
+import curiosity.bean_utility.Contact;
 import curiosity.bean_utility.CreateInfo;
 import curiosity.bean_utility.UpdateInfo;
 import curiosity.college.ccbean.College;
@@ -20,6 +21,46 @@ public class MapperBeanUtility {
 		
 		try{
 			if(mapper != null){
+				
+				/*Inbounding Contact*/
+				Contact contact = new Contact();
+				if(mapper.getContact()!= null){
+					if(mapper.getContact().getEmail() != null)
+						contact.setEmail(mapper.getContact().getEmail());
+					else
+						contact.setEmail("Not-Set");
+					if(mapper.getContact().getAltrEmail()!= null)
+						contact.setAltrEmail(mapper.getContact().getAltrEmail());
+					else
+						contact.setAltrEmail("Not-set");
+					if(mapper.getContact().getMobile() != null)
+						contact.setMobile(mapper.getContact().getMobile());
+					else
+						contact.setMobile("Not-Set");
+					if(mapper.getContact().getAltrMobile() != null)
+						contact.setAltrMobile(mapper.getContact().getAltrMobile());
+					else
+						contact.setAltrMobile("Not-Set");
+					if(mapper.getContact().getLandline() != null)
+						contact.setLandline(mapper.getContact().getLandline());
+					else
+						contact.setLandline("Not-Set");
+					if(mapper.getContact().getAltrMobile() != null)
+						contact.setAltrLandline(mapper.getContact().getAltrLandline());
+					else
+						contact.setAltrLandline("Not-Set");
+				}else{
+					contact.setEmail("Not-Set");
+					contact.setAltrEmail("Not-set");
+					contact.setMobile("Not-Set");
+					contact.setAltrMobile("Not-Set");
+					contact.setLandline("Not-Set");
+					contact.setAltrLandline("Not-Set");
+				}
+				
+				bean.setContact(contact);
+				/*Inbounding Contact Done*/
+				
 				if(mapper.getAddress()!= null){
 					bean.setAddress(mapper.getAddress());
 				}else{
