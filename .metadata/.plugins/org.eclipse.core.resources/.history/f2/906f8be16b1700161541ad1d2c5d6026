@@ -1,0 +1,48 @@
+{
+  "name": "tableexport",
+  "version": "3.2.0",
+  "authors": [
+    "clarketm <travis.m.clarke@gmail.com>"
+  ],
+  "description": "The simple, easy-to-implement plugin to export HTML tables to xlsx, xls, csv, and txt files",
+  "main": "dist/js/tableexport.js",
+  "keywords": [
+    "table",
+    "export",
+    "table",
+    "export",
+    "Excel",
+    "xlsx",
+    "xls",
+    "csv",
+    "txt",
+    "jquery-plugin",
+    "ecosystem:jquery"
+  ],
+  "scripts": {
+    "test": "gulp"
+  },
+  "dependencies": {
+    "Blob": "*",
+    "bootstrap": "~3.3.5",
+    "filesaver.js": "~0.2.0",
+    "jquery": "~1.11.3",
+    "xlsx": "0.8.0"
+  },
+  "devDependencies": {
+    "del": "^2.2.0",
+    "gulp": "^3.9.1",
+    "gulp-clean-css": "^2.0.7",
+    "gulp-rename": "^1.2.2",
+    "gulp-uglify": "^1.5.3"
+  },
+  "license": "MIT",
+  "homepage": "http://www.clarketravis.com",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ]
+}

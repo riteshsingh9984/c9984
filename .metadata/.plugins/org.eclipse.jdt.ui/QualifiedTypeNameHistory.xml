@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<qualifiedTypeNameHistroy>
+<fullyQualifiedTypeName name="curiosity.tool_utility.DateUtility"/>
+<fullyQualifiedTypeName name="curiosity.bean_utility.CreateInfo"/>
+<fullyQualifiedTypeName name="java.util.ArrayList"/>
+<fullyQualifiedTypeName name="curiosity.bean_utility.UpdateInfo"/>
+<fullyQualifiedTypeName name="curiosity.college.ccbean.CollegeMapper"/>
+<fullyQualifiedTypeName name="curiosity.tool_utility.MapperBeanUtility"/>
+<fullyQualifiedTypeName name="com.v_1_0_0.controllerutility.CollegeUtility"/>
+<fullyQualifiedTypeName name="java.io.File"/>
+<fullyQualifiedTypeName name="java.io.BufferedOutputStream"/>
+<fullyQualifiedTypeName name="java.io.FileOutputStream"/>
+<fullyQualifiedTypeName name="com.google.api.client.repackaged.org.apache.commons.codec.binary.Base64"/>
+<fullyQualifiedTypeName name="com.google.api.client.util.Base64"/>
+<fullyQualifiedTypeName name="com.itextpdf.text.pdf.codec.Base64"/>
+<fullyQualifiedTypeName name="org.bouncycastle.util.encoders.Base64"/>
+<fullyQualifiedTypeName name="curiosity.fileUtility.Converter"/>
+<fullyQualifiedTypeName name="curiosity.college.ccbean.College"/>
+<fullyQualifiedTypeName name="curiosity.college.cchelpermapper.FileUpload"/>
+<fullyQualifiedTypeName name="java.io.FileInputStream"/>
+<fullyQualifiedTypeName name="org.apache.poi.xssf.usermodel.XSSFWorkbook"/>
+<fullyQualifiedTypeName name="com.itextpdf.text.pdf.hyphenation.TernaryTree.Iterator"/>
+<fullyQualifiedTypeName name="com.lowagie.text.pdf.hyphenation.TernaryTree.Iterator"/>
+<fullyQualifiedTypeName name="java.util.Iterator"/>
+<fullyQualifiedTypeName name="org.apache.poi.xssf.usermodel.XSSFSheet"/>
+<fullyQualifiedTypeName name="com.lowagie.text.Row"/>
+<fullyQualifiedTypeName name="org.ektorp.ViewResult.Row"/>
+<fullyQualifiedTypeName name="org.apache.poi.ss.usermodel.Row"/>
+<fullyQualifiedTypeName name="org.apache.poi.ss.usermodel.Cell"/>
+<fullyQualifiedTypeName name="java.io.ByteArrayInputStream"/>
+<fullyQualifiedTypeName name="org.apache.poi.ss.usermodel.Workbook"/>
+<fullyQualifiedTypeName name="org.apache.poi.hssf.usermodel.HSSFWorkbook"/>
+<fullyQualifiedTypeName name="java.io.IOException"/>
+<fullyQualifiedTypeName name="curiosity.bean_utility.Contact"/>
+</qualifiedTypeNameHistroy>
