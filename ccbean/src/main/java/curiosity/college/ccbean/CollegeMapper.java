@@ -4,7 +4,7 @@ import org.springframework.web.multipart.commons.CommonsMultipartFile;
 
 import curiosity.bean_utility.Contact;
 
-public class CollegeMapper {
+public class CollegeMapper extends Utility {
 	
 	private String id;
 	private String name;
@@ -293,5 +293,4 @@ public class CollegeMapper {
 	public void setContact(Contact contact) {
 		this.contact = contact;
 	}
-	
 }

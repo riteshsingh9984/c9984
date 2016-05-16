@@ -79,7 +79,7 @@
 													                         <form:form modelAttribute="collegeCreate" action="collegeSave" class="form-horizontal" method="post" enctype="multipart/form-data">
 						
 																					<div class="form-group">
-																						<label for="name" class="cols-sm-2 control-label">Your Name</label>
+																						<!-- <label for="name" class="cols-sm-2 control-label">Your Name</label> -->
 																						<div class="cols-sm-10">
 																							<div class="input-group">
 																								<span class="input-group-addon"><i class="fa fa-user fa" aria-hidden="true"></i></span>
@@ -89,7 +89,7 @@
 																					</div>
 																					
 																					<div class="form-group" hidden>
-																						<label for="currentaddress" class="cols-sm-2 control-label">Current Address</label>
+																						<!-- <label for="currentaddress" class="cols-sm-2 control-label">Current Address</label> -->
 																						<div class="cols-sm-10">
 																							<div class="input-group">
 																								<input id="longi" name="longitude" class="mdl-textfield__input" type="text" id="projectLeaderId">
@@ -101,7 +101,7 @@
 																					
 																					<div class="form-group">
 																					
-																						<label for="name" class="cols-sm-2 control-label">Gender</label>
+																						<!-- <label for="name" class="cols-sm-2 control-label">Gender</label> -->
 																						<div class="cols-sm-10">
 																							<div class="input-group">
 																								<span class="input-group-addon"><i class="fa fa-user fa" aria-hidden="true"></i></span>
@@ -111,17 +111,17 @@
 																					</div>
 																					
 																					<div class="form-group">
-																						<label for="contactNo" class="cols-sm-2 control-label">Contact No</label>
+																						<!-- <label for="contactNo" class="cols-sm-2 control-label">Contact No</label> -->
 																						<div class="cols-sm-10">
 																							<div class="input-group">
-																								<span class="input-group-addon"><i class="fa fa-user fa" aria-hidden="true"></i></span>
+																								<span class="input-group-addon"><i class="glyphicon glyphicon-earphone" aria-hidden="true"></i></span>
 																								<input type="text" class="form-control" name="contactNo" id="contactNo"  placeholder="Enter your contactNo"/>
 																							</div>
 																						</div>
 																					</div>
 															
 																					<div class="form-group">
-																						<label for="email" class="cols-sm-2 control-label">Your Email</label>
+																						<!-- <label for="email" class="cols-sm-2 control-label">Your Email</label> -->
 																						<div class="cols-sm-10">
 																							<div class="input-group">
 																								<span class="input-group-addon"><i class="fa fa-envelope fa" aria-hidden="true"></i></span>
@@ -131,17 +131,17 @@
 																					</div>
 															
 																					<div class="form-group">
-																						<label for="username" class="cols-sm-2 control-label">Username</label>
+																						<!-- <label for="username" class="cols-sm-2 control-label">Username</label> -->
 																						<div class="cols-sm-10">
 																							<div class="input-group">
 																								<span class="input-group-addon"><i class="fa fa-users fa" aria-hidden="true"></i></span>
-																								<input type="text" class="form-control" name="username" id="username"  placeholder="Enter your Username"/>
+																								<input type="text" class="form-control" name="userName" id="username"  placeholder="Enter your Username"/>
 																							</div>
 																						</div>
 																					</div>
 															
 																					<div class="form-group">
-																						<label for="password" class="cols-sm-2 control-label">Password</label>
+																						<!-- <label for="password" class="cols-sm-2 control-label">Password</label> -->
 																						<div class="cols-sm-10">
 																							<div class="input-group">
 																								<span class="input-group-addon"><i class="fa fa-lock fa-lg" aria-hidden="true"></i></span>
@@ -151,7 +151,7 @@
 																					</div>
 															
 																					<div class="form-group">
-																						<label for="confirm" class="cols-sm-2 control-label">Confirm Password</label>
+																						<!-- <label for="confirm" class="cols-sm-2 control-label">Confirm Password</label> -->
 																						<div class="cols-sm-10">
 																							<div class="input-group">
 																								<span class="input-group-addon"><i class="fa fa-lock fa-lg" aria-hidden="true"></i></span>
@@ -170,6 +170,19 @@
 													                      </div>
 													                  </div>
 													                  <div class="col-xs-6">
+													                  	<!-- <input type="file" name="fileData"> -->
+													                  	
+													                  	<div class="fileinput fileinput-new" data-provides="fileinput">
+																			<div class="fileinput-preview thumbnail" data-trigger="fileinput" style="width: 200px; height: 150px;"></div>
+																			  <div>
+																			    <span class="btn btn-default btn-file"><span class="fileinput-new">Select image</span><span class="fileinput-exists">Change</span><input type="file" name="..."></span>
+																			    <a href="#" class="btn btn-default fileinput-exists" data-dismiss="fileinput">Remove</a>
+																			 </div>
+																		</div>
+													                  	
+													                  	
+													                  	
+													                  	
 													                  </div>
 													              </div>
 													          </div>

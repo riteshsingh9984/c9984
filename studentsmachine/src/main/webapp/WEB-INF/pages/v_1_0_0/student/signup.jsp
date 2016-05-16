@@ -47,7 +47,8 @@
 <!-- =============================My Page Header & Left-drawer Done====================================================== -->
 		
 			<main class="mdl-layout__content">
- <!-- =============================My Page Body============================================================ -->			
+ <!-- =============================My Page Body============================================================ -->	
+ 				<form:form modelAttribute="studentSignupCreate" action="studentSignupSave" class="form-horizontal" method="post" enctype="multipart/form-data">		
 		    	<div class="page-content"> 
 		    			<div class="container" style="margin-top:2%; width:100%;" >hello/
 		    				<div class="row">
@@ -76,7 +77,6 @@
 													              <div class="row">
 													                  <div class="col-xs-6">
 													                      <div class="well">
-													                         <form:form modelAttribute="collegeCreate" action="collegeSave" class="form-horizontal" method="post" enctype="multipart/form-data">
 						
 																					<div class="form-group">
 																						<!-- <label for="name" class="cols-sm-2 control-label">Your Name</label> -->
@@ -135,7 +135,7 @@
 																						<div class="cols-sm-10">
 																							<div class="input-group">
 																								<span class="input-group-addon"><i class="fa fa-users fa" aria-hidden="true"></i></span>
-																								<input type="text" class="form-control" name="username" id="username"  placeholder="Enter your Username"/>
+																								<input type="text" class="form-control" name="userName" id="username"  placeholder="Enter your Username"/>
 																							</div>
 																						</div>
 																					</div>
@@ -161,12 +161,11 @@
 																					</div>
 															
 																					<div class="form-group ">
-																						<button type="button" class="btn btn-primary btn-lg btn-block login-button">SignUp</button>
+																						<button type="submit" class="btn btn-primary btn-lg btn-block login-button">SignUp</button>
 																					</div>
 																					<div class="login-register">
 																			            <a href="index.php">Login</a>
 																			         </div>
-																				</form:form>
 													                      </div>
 													                  </div>
 													                  <div class="col-xs-6">
@@ -175,24 +174,17 @@
 													                  	<div class="fileinput fileinput-new" data-provides="fileinput">
 																			<div class="fileinput-preview thumbnail" data-trigger="fileinput" style="width: 200px; height: 150px;"></div>
 																			  <div>
-																			    <span class="btn btn-default btn-file"><span class="fileinput-new">Select image</span><span class="fileinput-exists">Change</span><input type="file" name="..."></span>
+																			    <span class="btn btn-default btn-file"><span class="fileinput-new">Select image</span><span class="fileinput-exists">Change</span><input type="file" name="fileData"></span>
 																			    <a href="#" class="btn btn-default fileinput-exists" data-dismiss="fileinput">Remove</a>
 																			 </div>
 																		</div>
-													                  	
-													                  	
-													                  	
-													                  	
+																		          	
 													                  </div>
 													              </div>
 													          </div>
 													      </div>
 													
 													  </div>
-									    				
-									    				
-									    				
-									    				
 									    				<!-- ============================================= -->
 									    				</div>
 									    			</div>			
@@ -219,6 +211,7 @@
 		    				</div>
 		    			</div>
 	    		</div>
+	    		</form:form>
 <!-- =============================My Page Body Done============================================================ -->			    	
 		  	</main>
 		</div>

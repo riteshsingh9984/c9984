@@ -42,7 +42,6 @@ import curiosity.college.ccbean.College;
 import curiosity.college.ccbean.CollegeMapper;
 import curiosity.college.cchelpermapper.FileUpload;
 import curiosity.fileUtility.Converter;
-import curiosity.tool_utility.MapperBeanUtility;
 
 /**
  * This is the College Controller
@@ -84,7 +83,7 @@ public class CollegeController {
 		Gson gson = new Gson();
 		mapper.setImageBase64(Converter.encodeImageIntoBase64(mapper.getFileData()));
 		College college = new College();
-		MapperBeanUtility.collegeInboundBean(mapper, college);
+		mapper.collegeInboundBean(mapper, college);
 		college.createCollege();
 		String path = request.getContextPath();
 		return new ModelAndView("redirect:/.."+path+"/collegeCreate");
@@ -352,7 +351,7 @@ public class CollegeController {
                   
                   /*Going To insert into mongodb*/
                   College college = new College();
-          		  MapperBeanUtility.collegeInboundBean(collegeMapper, college);
+          		  collegeMapper.collegeInboundBean(collegeMapper, college);
           		  college.setId("up"+college.getCreateInfo().getTime());
           		  college.set_id("up"+college.getCreateInfo().getTime());
           		  college.createCollege();

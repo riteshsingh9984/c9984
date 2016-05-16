@@ -259,6 +259,11 @@
     	<artifactId>ccbean</artifactId>
     	<version>0.0.1-SNAPSHOT</version>
     </dependency>
+    <dependency>
+    	<groupId>curiosity.college</groupId>
+    	<artifactId>ccutility</artifactId>
+    	<version>0.0.1-SNAPSHOT</version>
+    </dependency>
   </dependencies>
   <build>
     <finalName>studentsmachine</finalName>

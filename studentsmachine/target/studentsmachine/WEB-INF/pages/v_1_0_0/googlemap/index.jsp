@@ -38,12 +38,7 @@
 		   width: 680px;
 		}
 	</style>
-	<!-- <script src="https://maps.googleapis.com/maps/api/js?v=3.exp&sensor=false"></script> -->
-	
-	<script type="text/javascript"
-            src="http://maps.googleapis.com/maps/api/js?libraries=geometry&v=3&key=AIzaSyBfcW0KZvzDQcydwhJ7iLtsTE0haAEBbT8&sensor=false">
-    </script>
-	
+	<script src="https://maps.googleapis.com/maps/api/js?v=3.exp&sensor=false"></script>
 	    
 	<!-- body of page --><!-- #D5DBDB -->
 	<body style="background-color:#7B7D7D;"> 

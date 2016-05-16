@@ -11,6 +11,9 @@
         <dependent-module archiveName="dbcore-0.0.1-SNAPSHOT.jar" deploy-path="/WEB-INF/lib" handle="module:/resource/dbcore/dbcore">
             <dependency-type>uses</dependency-type>
         </dependent-module>
+        <dependent-module archiveName="ccutility-0.0.1-SNAPSHOT.jar" deploy-path="/WEB-INF/lib" handle="module:/resource/ccutility/ccutility">
+            <dependency-type>uses</dependency-type>
+        </dependent-module>
         <property name="context-root" value="studentsmachine"/>
         <property name="java-output-path" value="/studentsmachine/target/classes"/>
     </wb-module>
