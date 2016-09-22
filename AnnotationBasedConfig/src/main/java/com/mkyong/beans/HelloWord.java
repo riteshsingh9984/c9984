@@ -1,11 +1,13 @@
 package com.mkyong.beans;
 
 import org.springframework.beans.factory.annotation.Autowired;
+import org.springframework.context.annotation.Scope;
 import org.springframework.stereotype.Component;
 
 import com.mkyong.beans.sub.MsgInf;
 
 @Component(value = "helloword")
+@Scope("singleton")
 public class HelloWord {
 
 	private String portIp;
