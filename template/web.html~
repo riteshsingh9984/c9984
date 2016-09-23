@@ -1,0 +1,502 @@
+
+<!doctype html>
+<!-- $Id$ -->
+<html><head><link type="image/x-icon" rel="shortcut icon" tmv="true" href="https://js.zohostatic.com/people/22SEP2016/people3/images//People.ico"/>
+<meta charset="utf-8"><meta http-equiv="X-UA-Compatible" content="IE=edge"><meta name="viewport" content="width=1024"><title>Zoho People</title>
+<link rel="stylesheet" href="https://css.zohostatic.com/ichat/v163_https/css/wmsbar.css"/>
+<script src="https://js.zohostatic.com/ichat/v163_https/js/wmsbar.js"></script><script>var AcsResource={}; AcsResource.resourceobject={"hrms.feeds.newjoineepostedonwall" : "$2 has sent you a welcome aboard message.", "hrms.general.unabletoprocess" : "Sorry, Unable to process your request", "hrms.feeds.feedback.gotafeedbacklike" : "$2 has liked your feedback.", "hrms.checklist.editchecklistownertitle" : "<font style='color:#111'>$1</font> checklist triggered while editing $2.", "hrms.feeds.bdaypostedonwall" : "$2 has sent you a birthday wish.", "hrms.approval.othersleavetitle" : "$2 has raised a request for <a href='$4' onclick='$5'>$1</a>", "hrms.feeds.ntfn.reminder.triggeredowner" : "You have triggered a $1 reminder.", "hrms.feeds.ntfn.mailalert.recordapproved" : "$1 has approved a record in $2 form.", "hrms.status.hasteamorgstatus" : "$1 has posted a message to your department.", "hrms.announcement.announcementeditedothers" : "<font style='color:#111'>$1</font> has modified an announcement.", "hrms.general.rejected" : "rejected", "hrms.feeds.ntfn.mentionprimsg" : "$1 has sent you a message.", "hrms.approval.nextlevel.recordownerleavetitle" : "$3 your request for <a href='$4' onclick='$5'>$1</a>", "hrms.feeds.ntfn.mailalert.recordrejectedowner" : "You have rejected a record in $2 form.", "hrms.feeds.ntfn.holiday.recorddeletedowner" : "You have deleted a holiday.", "hrms.feeds.ntfn.project.addedowner" : "You have added a project.", "hrms.feeds.feedback.thanksforfeedback" : "Thank you for the lovely feedback", "hrms.general.allemployee" : "all employees", "hrms.feeds.feedback.likethisfeedback" : "Like this feedback", "hrms.feeds.ntfn.holiday.recordadded" : "$1 has added a new holiday.", "hrms.feeds.bdayrecordownerpostedonwall" : "You have sent a birthday wish to $1.", "hrms.feeds.ntfn.project.youreopened" : "You have reopened the project. ", "hrms.feeds.ntfn.mailalert.recordeditedowner" : "You have edited a record in $2 form.", "hrms.general.cmddelconfmsg" : "Are you sure, You want to delete this comment ? ", "hrms.feeds.ntfn.holiday.recorddeleted" : "$1 has deleted a holiday.", "hrms.general.activitydeleted" : "Activity deleted successfully.", "hrms.checklist.task.completed" : "$2 has completed the <font style='color:#111'>$1</font> task.", "hrms.feeds.ntfn.mailalert.recordadded" : "$1 has added a new record in $2 form.", "hrms.checklist.addchecklistownertitle" : "<font style='color:#111'>$1</font> checklist triggered while adding $2.", "hrms.files.addednewhrfilesown" : "You have uploaded a file in HR Files.", "hrms.feeds.ntfn.job.youreopened" : "You have reopened the Job. ", "hrms.general.approved" : "approved", "hrms.status.haveuserstatus" : "You have posted a message.", "hrms.feeds.feedback.gotafeedbacklikeothere" : "$2 has liked $1's feedback.", "hrms.feeds.ntfn.project.reopened" : "$1 has reopened the project.", "hrms.feeds.ntfn.commentedothers" : "$1 has commented on $2's $3.", "hrms.notify.titledeletedby" : "$2's $1 record deleted by you.", "hrms.announcement.announcementeditedyou" : "You have modified an announcement.", "hrms.feeds.ntfn.mentionstatus" : "$1 mentioned you in a $2.", "hrms.feeds.feedback.gotafeedbacklikeyou" : "You liked $1's feedback.", "hrms.notify.titleeditedothers" : "$2's $1 record modified by $3.", "hrms.status.haveteamorgstatus" : "You have posted a message to your department", "hrms.feeds.ntfn.mailalert.recorddeleted" : "$1 has deleted a record in $2 form.", "hrms.feeds.feedback.gotafeedback" : "$2 has given you a feedback.", "hrms.feeds.feedback.youhavegotafeedback" : "You have given a feedback for $1.", "hrms.feeds.ntfn.recordadded" : "$1 has added a record for you.", "hrms.approval.nextlevel.otherstitle" : "$3 $2's request for the <a href='$4' onclick='$5'>$1</a> form", "hrms.feeds.ntfn.project.completed" : "You have completed the project.", "hrms.feeds.ntfn.announcementadded" : "$1 posted an announcement.", "hrms.status.hasuserstatus" : "$1 has posted a message.", "hrms.feeds.ntfn.holiday.recordedited" : "$1 has edited a holiday.", "hrms.feeds.ntfn.recorddeleted" : "$1 has deleted your record.", "hrms.approval.nextlevel.recordownertitle" : "$3 your request for the <a href='$4' onclick='$5'>$1</a> form", "hrms.feeds.ntfn.reminder.triggered" : "You've got a reminder for $2.", "hrms.checklist.task.youcompleted" : "You have completed the <font style='color:#111'>$1</font> task.", "hrms.general.and" : "and", "hrms.announcement.announcementaddedyou" : "You have posted an announcement.", "hrms.checklist.task.assign" : "<font style='color:#111'>$1</font> task is assigned to you ", "hrms.notify.titleadded" : "$3 added a new $1 record.", "hrms.feeds.ntfn.approval" : "$1's request is waiting for your approval.", "hrms.feeds.ntfn.mailalert.recorddeletedowner" : "You have deleted a record in $2 form.", "hrms.approval.recordownertitle" : "You have raised an approval request for the <a href='$4' onclick='$5'>$1</a> form", "hrms.approval.recordownerleavetitle" : "You have raised a request for <a href='$4'onclick='$5'>$1</a>", "hrms.notify.titledeletedothers" : "$2's $1 record deleted by $3.", "hrms.feeds.newjoineeotherspostedonwall" : "$2 have sent a welcome aboard message to $1.", "hrms.feeds.ntfn.commented" : "$1 has commented on your $2.", "hrms.feeds.ntfn.job.completedotheres" : "$1 has completed the Job.", "hrms.general.comment" : "comment", "hrms.feeds.bdayotherspostedonwall" : "$2 has sent a birthday wish to $1.", "hrms.notify.titleeditedby" : "$2's $1 record modified by you.", "hrms.feeds.ntfn.project.message.completed" : "Completed", "hrms.status.hasprivatemsg" : "$1 has sent you a message.", "hrms.feeds.feedback.gotafeedbackothere" : "$2 has given a feedback for $1.", "hrms.general.leavedetails" : "Leave Details", "hrms.notify.titleaddedby" : "You have added a new $1 record for $2.", "hrms.feeds.ntfn.job.addedowner" : "You have added a job.", "hrms.general.commentdeleted" : "Comment deleted successfully.", "hrms.feeds.ntfn.recordedited" : "$1 has modified your record details.", "hrms.files.addednewcomfiles" : "$1 has uploaded a file in Company Files.", "hrms.general.statuswarning" : "Status cannot be greater than 3000 characters.", "hrms.feeds.ntfn.job.addedmany" : "$1 has assigned a job for you and $2 other(s).", "hrms.files.addednewcomfilesown" : "You have uploaded a file in Company Files.", "hrms.feeds.ntfn.project.added" : "$1 has assigned a project for you.", "hrms.notify.titleedited" : "$3 modified your $1 record.", "hrms.general.post" : "post", "hrms.feeds.newjoineerecordownerpostedonwall" : "You have sent a welcome aboard message to $1.", "hrms.feeds.ntfn.commentedhispost" : "$2 has commented on a $3.", "hrms.notify.titledeleted" : "$3 deleted your $1 record.", "hrms.feeds.ntfn.mailalert.recordapprovedowner" : "You have approved a record in $2 form.", "hrms.feeds.ntfn.job.added" : "$1 has assigned a job for you.", "hrms.approval.commenttext" : "<div class='$1 zpfarico' style='margin-top:-1px;'></div>&nbsp;$2", "hrms.feeds.ntfn.holiday.recordremoved" : "$1 has removed a holiday for your location.", "hrms.feeds.ntfn.mailalert.recordaddedowner" : "You have added a new record in $2 form.", "hrms.feeds.ntfn.approvedhis" : "$1 has $2 $3's request.", "hrms.feeds.ntfn.project.addedmany" : "$1 has assigned a project for you and $2 other(s).", "hrms.feeds.ntfn.job.reopened" : "$1 has reopened the Job.", "hrms.announcement.announcementaddedothers" : "<font style='color:#111'>$1</font> posted an announcement.", "hrms.approval.nextlevel.leavetitle" : "$3 $2's request for <a href='$4' onclick='$5'>$1</a>", "hrms.feeds.ntfn.job.completed" : "You have completed the Job.", "hrms.files.addednewhrfiles" : "$1 has uploaded a file in HR Files.", "hrms.status.haveprivatemsg" : "You have sent a private message.", "hrms.status.othersprvmsg" : "$1 has sent a private message to $2.", "hrms.general.viewrecord" : "View Record", "hrms.feeds.ntfn.holiday.recordremovedowner" : "You have removed a holiday for your location.", "hrms.feeds.ntfn.project.completedotheres" : "$1 has completed the project.", "hrms.feeds.ntfn.holiday.recordaddedowner" : "You have added a new holiday.", "hrms.feeds.ntfn.holiday.recordeditedowner" : "You have edited a holiday.", "hrms.approval.otherstitle" : "$2 has raised an approval request for the <a href='$4' onclick='$5'>$1</a> form", "hrms.general.status" : "message", "hrms.feeds.ntfn.approved" : "$1 has $2 your request.", "hrms.feeds.ntfn.mailalert.recordedited" : "$1 has edited a record in $2 form.", "hrms.feeds.ntfn.job.message.completed" : "Completed", "hrms.notify.titleaddedothers" : "$3 added a new $1 record for $2.", "hrms.feeds.ntfn.mailalert.viewshared" : "$1 has shared the view : $2.", "hrms.general.viewreport" : "Leave Report", "hrms.feeds.ntfn.mailalert.recordrejected" : "$1 has rejected a record in $2 form.", "hrms.general.team" : "department"};</script>
+
+<link rel="stylesheet" type="text/css" href="https://css.zohostatic.com/people/22SEP2016/people3/css/zpfont.css"/>
+<script src="/newzp/js/i18n/I18N_en.js" type="text/javascript" ></script>
+<script type="text/javascript" src="https://js.zohostatic.com/people/22SEP2016/people3/js/common.js"></script>
+<script type="text/javascript" src="https://js.zohostatic.com/people/22SEP2016/people3/js/acs.js"></script>
+<link rel="stylesheet" type="text/css" href="https://css.zohostatic.com/people/22SEP2016/people3/css/zohopeople03_style_tparty.css"/>
+<link rel="stylesheet" type="text/css"  href="https://css.zohostatic.com/people/22SEP2016/people3/css/zpsetup.css"/>
+<link rel="stylesheet" type="text/css" href="https://css.zohostatic.com/people/22SEP2016/people3/css/zohopeople03_style.css"/>
+<script type="text/javascript" src="https://js.zohostatic.com/people/22SEP2016/people3/js/zohopeople03_script_tparty.js"></script>
+<script type="text/javascript" src="https://js.zohostatic.com/people/22SEP2016/people3/js/zohopeople03_script_setup.js"></script>
+<script type="text/javascript" src="https://js.zohostatic.com/people/22SEP2016/people3/js/zohopeople03_script.js"></script>
+<script type="text/javascript" src="https://dre.zoho.com/js/includeDelugeEditor.js"></script><script>ZPDateTime.userGMTString = '-28800000';  // NO OUTPUTENCODING
+ZPDateTime.useDaylightTime = 'true';  // NO OUTPUTENCODING
+ZPDateTime.daylightTime = '3600000';  // NO OUTPUTENCODING
+ZPDateTime.userTimeZone = 'PST8PDT';  // NO OUTPUTENCODING
+var curyear = 2016;
+var curmonth = 8;
+var curdate = 22;
+var weekstarts = 0;
+var workweekfrom = 1;
+var workweekto = 5;
+var empdispname = 'shivritesh9984';//NO OUTPUTENCODING
+var timeFormat = 'hh:mm a'; //NO OUTPUTENCODING
+var uidateFormat = '%d-%b-%Y'; //NO OUTPUTENCODING
+var isadmin = true; //NO OUTPUTENCODING
+var months = [ZPI18N.getString("zp.jan"), ZPI18N.getString("zp.feb"), ZPI18N.getString("zp.mar"), ZPI18N.getString("zp.apr"), ZPI18N.getString("zp.may"), ZPI18N.getString("zp.jun"), ZPI18N.getString("zp.jul"), ZPI18N.getString("zp.aug"), ZPI18N.getString("zp.sep"), ZPI18N.getString("zp.oct"), ZPI18N.getString("zp.nov"), ZPI18N.getString("zp.dec")];
+var days = new Array(ZPI18N.getString("zp.sun"), ZPI18N.getString("zp.mon"), ZPI18N.getString("zp.tue"), ZPI18N.getString("zp.wed"), ZPI18N.getString("zp.thu"), ZPI18N.getString("zp.fri"), ZPI18N.getString("zp.sat"));
+var logo = 'null';// No I18N  //NO OUTPUTENCODING
+var erecno = '342364000000090005';// No I18N  //NO OUTPUTENCODING
+var _LOGGEDIN_ZUID = '634741781';// No I18N  //NO OUTPUTENCODING
+var _LOGGEDIN_ROLEID = '342364000000035631';// No I18N  //NO OUTPUTENCODING
+var _LOGGEDIN_DEPID = 'null';// No I18N  //NO OUTPUTENCODING
+var _LOGGEDIN_LOCID = '342364000000090006';// No I18N  //NO OUTPUTENCODING
+var userNameDisType = '2';  //NO OUTPUTENCODING
+var orgPhotoDisplayType = '0'; //NO OUTPUTENCODING
+var contactUrl = 'https://contacts.zoho.com'; //NO OUTPUTENCODING
+var csrfParamName = 'conreqcsr';  //NO OUTPUTENCODING  // No I18N
+var csrfToken = 'c1f064f4-bfcb-430e-a49b-3a87b3ab8992'; // NO OUTPUTENCODING  // No I18N
+var _ZUIDENRYPT = 'acb7b222a3a32e27a0ae868b6eb0918a';  // NO OUTPUTENCODING  // No I18N
+var paymentUrl = "https://payments.zoho.com/html/store/index.html#subscription?serviceId=1201&customId=634740258"; // NO OUTPUTENCODING
+var _domainname = '';
+
+var crmurl = 'crm.zoho.com';   //NO OUTPUTENCODING 
+var isManageFile =false;
+var isManageFileData =false;
+var appsettingsadmin = false; //NO OUTPUTENCODING
+var appdataadmin = false; //NO OUTPUTENCODING
+$(document).ready(function () {
+ZE_Init.init();
+Layout.Page.init();
+$('body').tooltip({
+selector: '[data-toggle="tooltip"]' //No I18N
+});
+ZPUserSearch.init();
+});
+ZPeople.USER_CUST_SETTINGS = {"USER_VERSION":"1"}; //NO OUTPUTENCODING 
+ZPeople.SERVER_URL = 'https://people.zoho.com'; //NO OUTPUTENCODING
+/*Change the actions*/
+ZPeople.ISCHAT = 'true'; // NO OUTPUTENCODING  // No I18N
+ZPeople.CURRENT_ZUID = '634741781';// NO OUTPUTENCODING  // No I18N
+/*---- User globel permission ----*/
+ZPeople.isSearchAllowed = 'true';// NO OUTPUTENCODING  // No I18N
+ZPeople.isEmployeeTreeAllowed = 'true';// NO OUTPUTENCODING  // No I18N
+ZPeople.isAnnouncementAllowed = 'true';// NO OUTPUTENCODING  // No I18N
+ZPeople.isDepartmentDatasAllowed = 'true';// NO OUTPUTENCODING  // No I18N
+ZPeople.isDepartmentTreeAllowed = 'true';// NO OUTPUTENCODING  // No I18N
+Appraisal.Feedback.feebBackTypeDtl = []; // NO OUTPUTENCODING
+/*---- Initializing feed for get notification across the product ----*/
+ZPFeeds.VIEWKEYS = {"Status":"DRrEBxOU%2Fz80HP55tMIKiguiGcnPzQEWOBc3VPJ6drUUaOQAyQro0Q%3D%3D","ALL":"DRrEBxOU%2Fz80HP55tMIKiguiGcnPzQEWf%2F%2FHuEHDSMY%3D","MailAlert":"DRrEBxOU%2Fz80HP55tMIKiguiGcnPzQEWOBc3VPJ6drW8q%2Fwx6lj58UktF4rnwsS0","Reminder":"DRrEBxOU%2Fz80HP55tMIKiguiGcnPzQEWOBc3VPJ6drXXE9iKsGU4AgalzyTTlXag","Announcement":"DRrEBxOU%2Fz80HP55tMIKiguiGcnPzQEWOBc3VPJ6drXBZeFSXHfjUiInE4kN3p8b","Holiday":"DRrEBxOU%2Fz80HP55tMIKiguiGcnPzQEWOBc3VPJ6drXlpKnWS9gDRw%3D%3D","AddSchedule":"DRrEBxOU%2Fz80HP55tMIKiguiGcnPzQEWOBc3VPJ6drWddqdXVR0NP4qU4OZJL1ce","Feedback":"DRrEBxOU%2Fz80HP55tMIKiguiGcnPzQEWOBc3VPJ6drWZjY%2FzouwheQalzyTTlXag","FileCabinet":"DRrEBxOU%2Fz80HP55tMIKiguiGcnPzQEWOBc3VPJ6drW2u428kRvo8C7nLI8gac3c","AddProject":"DRrEBxOU%2Fz80HP55tMIKiguiGcnPzQEWOBc3VPJ6drWtYGBti1XQnRiAWVwgv5Fu","Approval":"DRrEBxOU%2Fz80HP55tMIKiguiGcnPzQEWOBc3VPJ6drXP%2BszHWvmWFgalzyTTlXag"}; //NO OUTPUTENCODING
+ZPFeeds.CURRENT_VIEWKEY = ZPFeeds.VIEWKEYS.ALL;
+AcsApi.initStream("People", ZPFeeds.VIEWKEYS.ALL, 1); //No I18N
+ZPeople.SUB_USERLIST = ["342364000000090005"];  // NO OUTPUTENCODING
+var reportsIntegUrl = "https://reports.zoho.com"; // NO OUTPUTENCODING
+$(document).find("#page-wrapper").on("mousedown", "a[target=_blank]", function() {
+var url = $(this).attr("href");
+if(url.indexOf("javascript:") !== 0 && url.indexOf("/people/redirect.zp?url=") !== 0) {
+$(this).attr("href", "/people/redirect.zp?url=" + encodeURIComponent(url));
+}
+});</script></head><body onhashchange="Layout.Page.getPage();" class= "ZPDark TBlue">
+<div id="top_message_outer" class="Apos"></div><div id="wrapper"><nav class="navbar navbar-fixed-top">
+<div class="navbar-header ZPwf"><div class="ZPHeadLft"><i class="IC-cum-ber FL DB ZProtate ZPExpdView" onclick="ZPeople.minmaxTab(false);" id="zp_minimax_leftpanel" title="Minimize" data-placement="bottom" data-toggle="tooltip"></i>
+
+<a class="ZPLogo DB"><img alt="Zoho People" src="">Zoho People</a>
+</div><div class="ZPHeadRgt">
+<div class="ZPsearchDt ZPCusDrs FL" searchType="9" id="zpeople_search" data-toggle="dropdown" data-target="#zpeople_search"><span class="ZPico-search FL MT3 ML5 ZPtooltip IC-lens S16" title="Search Category" id="zpeople_search_pico"></span> <input type="search" class="ZPselect" id="zpeople_search_box" placeholder="Search Employee" value="" name="Search" onkeyup="ZPUserSearch.userSearchAction(event)"></div>
+<!--                         <div class="ZPsearchDt ZPCusDrs FL dropdown" searchType="9" id="zpeople_search" data-toggle="dropdown" data-target="#zpeople_search">-->
+<!--                             <div class="dvsearch CP FL PR" data-toggle="dropdown" id="usersearchtypes" data-target="#usersearchtypes" aria-expanded="true">-->
+<!--                                 <span class="ZPico-search FL MT3 ML5 ZPtooltip IC-lens S16" title="Search Category"></span> -->
+<!--                                 <b class="ZPico-arrow IC-ar-dwn S8"></b> -->
+<!--                                 <ul class="dropdown-menu ZPCmn-Arrow top gray">-->
+
+<!--</ul>-->
+<!--</div>-->
+
+<!--</div>-->
+
+<div class="ZPPimg dropdown"><img data-toggle="dropdown" id="zpeople_userimage" src="">
+<ul class="dropdown-menu ZPuserDTlist"><li><img class="FL" id="zp_userimage" src="" />
+<div class="ZPaccInfo"><span class="S13" id="zp_username"></span> <span class="S12" id="zp_useremail"></span> <span><a class="S13" href="javascript:;" onclick="window.open('https://accounts.zoho.com')">My account</a></span>
+<span><a class="S13" href="/people/Logout.do">Sign Out</a></span></div><div class="clearfix"></div></li></ul></div><ul class="nav top-nav ZPaddPopOver"><li><a class="u-link" target="_blank" href="https://payments.zoho.com/html/store/index.html#subscription?serviceId=1201&customId=634740258">Subscription</a> </li>
+<li id="zp_quickadd_form_outer" class="dropdown DNI"><a data-toggle="dropdown">
+<span class="IC-add-form S20" data-toggle="tooltip" data-placement="bottom" title="Quick Add" ></span> </a>
+<div class="dropdown-menu ZPplusBox  ZPCmn-Arrow top rt gray" id="zp_quickadd_form_container"><div class="ZPTabVt"><div class="lfttab" id="zp_quickadd_form_tabs"></div><div class="rhttabscrl"><div class="tab-content PT20" id="zp_quickadd_forms"></div></div></div></div></li><li class="dropdown" id="zp_feeds_notifications"><a class="dropdown-toggle" data-toggle="dropdown">
+<span title="Notifications" data-toggle="tooltip" data-placement="bottom" class="ZPtooltip IC-bell S20"><sup class="ZPncount DN" style="display: none;" id="zp_feeds_ntfn_count"></sup></span> 
+</a> 
+<ul class="dropdown-menu ZPnotifyBox  ZPCmn-Arrow top gray" id="zp_ntfn_dropdown"><li><h5>Notifications</h5>
+<i class="ZPnoti-back PA DN IC-ar-lft S13"></i></li><li class="PR OH"><div class="notifyDiv"><ul class="FL" id="zp_feedntfn_list"  scroll="enabled"></ul><ul class="FL"><li id="zp_feed_singlefeed_pop"></li></ul></div></li></ul></li>
+<li id="zpeople_admin"><a href="javascript:;" onclick="ZPeople.Tabs.switchHomeSettings('admin');">
+<span title="Settings" data-toggle="tooltip" data-placement="bottom" class="IC-setting2 S20 ZPtooltip"></span> </a></li>
+<li class="dropdown" id="zp_more_option"><a class="dropdown-toggle" data-toggle="dropdown">
+<span class="IC-more S20 ZPtooltip" data-toggle="tooltip" data-placement="bottom" title="More"></span> </a> 
+<ul class="dropdown-menu ZPslctThemes ZPCmn-Arrow top gray"><li><a href="//www.zoho.com/people/whats-new.html" target="_blank">What's New</a></li><li><a href="//www.zoho.com/people/help/resources.html" target="_blank">Help</a></li><li><a onclick="GettingStarted.init()" href="#admin/gettingStarted">Getting Started</a></li><li><a href="javascript:;" onclick="ZPeople.User.updateUserVersion();">Older Version</a></li><li><a onclick="ZPUtil.feedBackAlert('contactsupport');">Contact support</a></li><li class="bTop"><a>Themes</a></li><li><a href="javascript:;"><label class="checkbox" ><input id="toggle_theme" type="checkbox" ><span>Dark Theme</span></label></a></li><li class="ZPthemesList"><ul id="zp_selection_theme" class="W100"><li><a theme="0" class="blue IC-round " title="Click to change the theme" data-placement="top" data-toggle="tooltip"><b class="IC-tick"></b></a></li><li><a theme="1" class="pink IC-round " title="Click to change the theme" data-placement="top" data-toggle="tooltip"><b class="IC-tick"></b></a></li><li><a theme="2" class="yellow IC-round " title="Click to change the theme" data-placement="top" data-toggle="tooltip"><b class="IC-tick"></b></a></li><li><a theme="3" class="green IC-round " title="Click to change the theme" data-placement="top" data-toggle="tooltip"><b class="IC-tick"></b></a></li></ul></li><li class="pad text-center GryBG"><i class="IC-apple S20 PR10  tooltipstered" onclick="window.open('//itunes.apple.com/in/app/zoho-people-smartest-way-to/id680525956?mt=8');"></i>               
+<i class="IC-g-play S20 PL10  tooltipstered" onclick="window.open('//play.google.com/store/apps/details?id=com.zoho.people');"></i> </li></ul></li></ul></div></div></nav>
+<div class="lft-nav" id="zpeople_tabs_container"><ul class="nav navbar-nav ZPslidebar" id="zp_hometabs"></ul><div class="overList"></div><ul class="nav navbar-nav ZPslidebar setupnav" id="zp_cptabs"></ul></div><div id="page-wrapper"></div><form id="zp_export_form" action="/ExportData.zp" method="post" name="zp_export_form" style="display: none;"></form><div class="ZP-expand DN" id="zp_user_profile_pop" style="z-index: 10001"><div class="heder"></div><img src="/people/images/user.png" id="zp_userimage"> 
+<div class="accinfo" ><span class="uname" id="zp_username"></span> <span class="umail" id="zp_useremail"></span> <span class="MT5"><a href="javascript:;" onclick="window.open('https://accounts.zoho.com')" class="ztb-anchor">My account</a></span>
+<span><a class="ztb-anchor" href="/people/Logout.do">Sign Out</a></span></div></div></div>
+<div class="Apos ZPApos" onclick="ZPeople.bannerVisible()" id="peoplebanner">
+<div id="welcomebanner" class="alert ZP-info fade" role="alert" style="display:block;">Join our Webinars<a href="https://www.zoho.com/people/free-webinar.html" target="_blank"> Click Here </a>
+<i class="IC-ar-top ML10 ZPBcls" id="bannerclose" onclick="ZPeople.bannerHide()"></i>
+<span id="versionId" style="display:none;">1</span> 
+<a class="dsagain" onclick="ZPeople.deletebanner()">Don't show again</a></div></div>
+<div class="modal fade ZPmdl" id="zp_export_container"><div class="modal-dialog"><div class="modal-content"><div class="modal-header PR"><div class="Icn Tbc"><i class="IC-exprt whi S24"></i></div><button type="button" class="close" data-dismiss="modal" aria-label="Close">
+<span><div class="IC-cls-1px red S21 CP"></div></span> </button>
+<h4 class="modal-title">Export as</h4></div><div class="modal-body"><div class="container-fluid" id="zp_export_body"><div class="row PT10 PB10" id="zp_export_ftype"><div class="col-md-12 TC"><label class="tagbg radio"><input value="xls" type="radio" checked="checked" name="zp_ftype"/><span>XLS</span></label> <label class="tagbg radio"><input value="csv" type="radio" name="zp_ftype"/><span>CSV</span></label> <label class="tagbg radio"><input value="tsv" type="radio" name="zp_ftype"/><span>TSV</span></label></div></div><div class="ZPwf FL MT20" id="zp_export_inctabularsec"><label class="checkbox DIB"><input type="checkbox"><span>Include Tabular Section Data</span></label></div></div></div><div class="modal-footer"><button type="button" class="btn btn-primary" id="zp_export_submit">Export</button> <button type="button" class="btn btn-default" data-dismiss="modal">Cancel</button></div></div></div></div><div style="display: none;" id="addEmp" class="modal popRgtModel modal-right" name="userPopup"><div class="modal-dialog"><div class="modal-content "><div class="modal-header"><a aria-label="Close" data-dismiss="modal" class="close IC-cls-1px red"></a>
+<h6 id="exampleModalLabel" class="modal-title"></h4></div><div class="modal-body"><div class="row"><div class="dvusrcount row MB20"><div class="PL20 PR30">
+<div class="btn-group PL10" id="employees_addebtntxt">Employee profiles added:<span class="spncount" id="employees_added"></span></div><div class="btn-group PL40">License count left:<span class="spncount" id="licensecnt_left"></span></div></div></div><div class="col-md-12 tabpills" id="addUserSubTabs"><ul id="dvAddEmp" role="tablist" class="nav nav-tabs"><li class="active" role="presentation" id="formAddNonPopUp"><a data-toggle="tab" role="tab" href="#formAddNon">Account Details</a></li><li role="presentation" id="formAddEmpPopUp"><a data-toggle="tab" role="tab" href="#formAddEmp">Basic information</a></li></ul></div><div class="tab-content col-md-12 MT20"><div id="formAddEmp" class="tab-pane fade" role="tabpanel" name="addEmpDtls"><p class="section DN">Employee Info</p> <p class="MB20 DN" id="inviteUsernotes"></p>
+<div class="row"><div id="empIdErr"><label class="col-md-3 MT5 frmmandpos"><sup>*</sup>Employee ID</label> 
+<div class="col-md-6 form-group" name="errDiv"><input type="text" class="form-control" autofocus="" id="employeeId"><div class="addbadge MT5 S12 FL" id="lastEMpId">Last Employee ID&nbsp;<span></span></div><div class="dverrormsg hide"></div></div></div></div><div class="row"><div id="firstNameParentElm"><label class="col-md-3 MT5 frmmandpos"><sup>*</sup>First Name</label> 
+<div class="col-md-6 form-group" name="errDiv"><input type="text" class="form-control" id="fname"></div></div></div><div class="row" id="lastNameParentElm"><div ismandatory="true"><label class="col-md-3 MT5 frmmandpos"><sup>*</sup>Last Name</label> 
+<div class="col-md-6 form-group" name="errDiv"><input type="text" class="form-control" id="lname"></div></div></div><div class="row" id="emailIdParentElm"><div ismandatory="true"><label class="col-md-3 MT5 frmmandpos"><sup>*</sup>Email address</label> 
+<div class="col-md-6 form-group" name="errDiv"><input type="text" class="form-control" value="" disabled="" id="disabledEmailId"></div></div></div></div><div id="formAddNon" class="tab-pane fade active in" role="tabpanel" name="formAddNonDtls"><p class="MB20">Once your domain is verified, you will be able to add users directly. Enter the email id and password and click 'Add'. The user will be directly added to the organization and can log in to the account with the password that you provide.</p>
+<div class="row"><div class="col-md-12"><div class="form-group" ismandatory="true"><div><label class="control-label frmmand"><sup>*</sup>Email address</label> </div><div class="col-md-7 PL0 PR5"><input type="text" id="emailEditBox" onkeyup="User.showPreview(this)" class="form-control" value="" autofocus=""></div><div class="bgcl col-md-1 PT5 PL0 PR5 text-center"><a id="mailspecialChar">@</a></div><div class="col-md-4 PL0 PR0" id="domaingrp"></div><div class="clearfix"><div class="input-group PT5 PB5 ML5 gry" id="emailIdErrParent">Example:&nbsp;<span id="previewEmailId">HR</span><span id="domainView"></span> 
+<div class="dverrormsg"></div></div></div></div><div class="form-group"><div class="col-md-7 PL0 PR5" id="passwordParentElm"><label class="frmmand"><sup>*</sup>Password</label> 
+<input type="text" class="form-control" id="pswd"></div></div></div></div></div></div></div></div><div class="modal-footer"><a class="btn btn-primary" onclick="User.AddUser.nextStep()" id="nextStep">Next</a></div></div></div></div><div class="modal fade ZPmdl ZPsecModal" id="confirmationPopup" role="dialog"><div class="modal-dialog modal-center"><div class="modal-content"><div class="modal-header PR"><div class="Icn orgbgi"><i class="IC-alert whi S24"></i></div><h4 class="modal-title" id="textConfirmationPopupHeader"></h4></div><div class="modal-body"><div id="textConfirmationPopupBody"></div></div><div class="text-center modal-footer"><a id="confirmConfirmationPopup" data-dismiss="modal" class="btn btn-primary MR5"></a>
+<a id="cancelConfirmationPopup" data-dismiss="modal" class="btn btn-default">Cancel</a></div></div></div></div>
+<div class="ZPcalsha DN" id="singlecalendardiv" style="position: absolute;"><div class="zpfcal" ><table width="100%" cellspacing="0" cellpadding="0" border="0" class="ZPUsel"><tbody>
+<tr class="monnav calnav DN" id="cal_close"><td colspan="7"><div class="IC-cls-1px gry S14 red CP FR MR5" onclick="Calendar.hideSingleCalendar();"></div></td></tr><tr class="monnav"><td colspan="7"><div class="IC-ar-lft gry S16 CP FL ML5"></div><span id="calmonth"></span><div class="IC-ar-rgt gry S16 CP FR MR5"></div></td></tr><tr class="dayslist"><td class="name">Sun</td> <td class="name">Mon</td> <td class="name">Tue</td> <td class="name">Wed</td> <td class="name">Thu</td> <td class="name">Fri</td> <td class="name">Sat</td></tr></tbody> <tbody id="calbody">
+
+<tr class="datelist"><td class="day weekend"><div class="zpflc"><span class="num">0</span></div></td> <td class="day today"><div class="zpflc"><span class="num">0</span></div></td> <td class="day"><div class="zpflc"><span class="num">0</span></div></td> <td class="day"><div class="zpflc"><span class="num">0</span></div></td> <td class="day"><div class="zpflc"><span class="num">0</span></div></td> <td class="day"><div class="zpflc"><span class="num">0</span></div></td> <td class="day weekend"><div class="zpflc"><span class="num">0</span></div></td></tr>
+<tr class="datelist"><td class="day weekend"><div class="zpflc"><span class="num">0</span></div></td> <td class="day today"><div class="zpflc"><span class="num">0</span></div></td> <td class="day"><div class="zpflc"><span class="num">0</span></div></td> <td class="day"><div class="zpflc"><span class="num">0</span></div></td> <td class="day"><div class="zpflc"><span class="num">0</span></div></td> <td class="day"><div class="zpflc"><span class="num">0</span></div></td> <td class="day weekend"><div class="zpflc"><span class="num">0</span></div></td></tr>
+<tr class="datelist"><td class="day weekend"><div class="zpflc"><span class="num">0</span></div></td> <td class="day today"><div class="zpflc"><span class="num">0</span></div></td> <td class="day"><div class="zpflc"><span class="num">0</span></div></td> <td class="day"><div class="zpflc"><span class="num">0</span></div></td> <td class="day"><div class="zpflc"><span class="num">0</span></div></td> <td class="day"><div class="zpflc"><span class="num">0</span></div></td> <td class="day weekend"><div class="zpflc"><span class="num">0</span></div></td></tr>
+<tr class="datelist"><td class="day weekend"><div class="zpflc"><span class="num">0</span></div></td> <td class="day today"><div class="zpflc"><span class="num">0</span></div></td> <td class="day"><div class="zpflc"><span class="num">0</span></div></td> <td class="day"><div class="zpflc"><span class="num">0</span></div></td> <td class="day"><div class="zpflc"><span class="num">0</span></div></td> <td class="day"><div class="zpflc"><span class="num">0</span></div></td> <td class="day weekend"><div class="zpflc"><span class="num">0</span></div></td></tr>
+<tr class="datelist"><td class="day weekend"><div class="zpflc"><span class="num">0</span></div></td> <td class="day today"><div class="zpflc"><span class="num">0</span></div></td> <td class="day"><div class="zpflc"><span class="num">0</span></div></td> <td class="day"><div class="zpflc"><span class="num">0</span></div></td> <td class="day"><div class="zpflc"><span class="num">0</span></div></td> <td class="day"><div class="zpflc"><span class="num">0</span></div></td> <td class="day weekend"><div class="zpflc"><span class="num">0</span></div></td></tr>
+<tr class="datelist"><td class="day weekend"><div class="zpflc"><span class="num">0</span></div></td> <td class="day today"><div class="zpflc"><span class="num">0</span></div></td> <td class="day"><div class="zpflc"><span class="num">0</span></div></td> <td class="day"><div class="zpflc"><span class="num">0</span></div></td> <td class="day"><div class="zpflc"><span class="num">0</span></div></td> <td class="day"><div class="zpflc"><span class="num">0</span></div></td> <td class="day weekend"><div class="zpflc"><span class="num">0</span></div></td></tr>
+<tr class="datelist"><td class="day weekend"><div class="zpflc"><span class="num">0</span></div></td> <td class="day today"><div class="zpflc"><span class="num">0</span></div></td> <td class="day"><div class="zpflc"><span class="num">0</span></div></td> <td class="day"><div class="zpflc"><span class="num">0</span></div></td> <td class="day"><div class="zpflc"><span class="num">0</span></div></td> <td class="day"><div class="zpflc"><span class="num">0</span></div></td> <td class="day weekend"><div class="zpflc"><span class="num">0</span></div></td></tr>
+<tr class="monnav monnav1 DN">
+<td align="center" colspan="7"><input type="text"  class="form-control" placeholder="HH" maxlength="2" onkeyup="Calendar.updateDateTime(this, 'hrs');">: <input type="text"  class="form-control" placeholder="MM" maxlength="2" onkeyup="Calendar.updateDateTime(this, 'mins');">: <input type="text"  class="form-control" placeholder="AM" maxlength="2" onkeyup="Calendar.updateDateTime(this, 'ampm');"></td> </tr></tbody></table></div></div><div class="ZPcalsha DN" id="doublecalendardiv" style="position: absolute;"><div class="zpfcal" id="fromcalendar"><table width="100%" cellspacing="0" cellpadding="0" border="0" class="ZPUsel"><tbody>
+<tr class="monnav"><td colspan="7">&nbsp;</td></tr><tr class="monnav"><td colspan="7"><div class="IC-ar-lft gry S16 CP FL ML5"></div><span id="calmonth"></span><div class="IC-ar-rgt gry S16 CP FR MR5"></div></td></tr><tr class="dayslist"><td class="name">Sun</td> <td class="name">Mon</td> <td class="name">Tue</td> <td class="name">Wed</td> <td class="name">Thu</td> <td class="name">Fri</td> <td class="name">Sat</td></tr></tbody> <tbody id="calbody">
+
+<tr class="datelist"><td class="day weekend"><div class="zpflc"><span class="num">0</span></div></td> <td class="day today"><div class="zpflc"><span class="num">0</span></div></td> <td class="day"><div class="zpflc"><span class="num">0</span></div></td> <td class="day"><div class="zpflc"><span class="num">0</span></div></td> <td class="day"><div class="zpflc"><span class="num">0</span></div></td> <td class="day"><div class="zpflc"><span class="num">0</span></div></td> <td class="day weekend"><div class="zpflc"><span class="num">0</span></div></td></tr>
+<tr class="datelist"><td class="day weekend"><div class="zpflc"><span class="num">0</span></div></td> <td class="day today"><div class="zpflc"><span class="num">0</span></div></td> <td class="day"><div class="zpflc"><span class="num">0</span></div></td> <td class="day"><div class="zpflc"><span class="num">0</span></div></td> <td class="day"><div class="zpflc"><span class="num">0</span></div></td> <td class="day"><div class="zpflc"><span class="num">0</span></div></td> <td class="day weekend"><div class="zpflc"><span class="num">0</span></div></td></tr>
+<tr class="datelist"><td class="day weekend"><div class="zpflc"><span class="num">0</span></div></td> <td class="day today"><div class="zpflc"><span class="num">0</span></div></td> <td class="day"><div class="zpflc"><span class="num">0</span></div></td> <td class="day"><div class="zpflc"><span class="num">0</span></div></td> <td class="day"><div class="zpflc"><span class="num">0</span></div></td> <td class="day"><div class="zpflc"><span class="num">0</span></div></td> <td class="day weekend"><div class="zpflc"><span class="num">0</span></div></td></tr>
+<tr class="datelist"><td class="day weekend"><div class="zpflc"><span class="num">0</span></div></td> <td class="day today"><div class="zpflc"><span class="num">0</span></div></td> <td class="day"><div class="zpflc"><span class="num">0</span></div></td> <td class="day"><div class="zpflc"><span class="num">0</span></div></td> <td class="day"><div class="zpflc"><span class="num">0</span></div></td> <td class="day"><div class="zpflc"><span class="num">0</span></div></td> <td class="day weekend"><div class="zpflc"><span class="num">0</span></div></td></tr>
+<tr class="datelist"><td class="day weekend"><div class="zpflc"><span class="num">0</span></div></td> <td class="day today"><div class="zpflc"><span class="num">0</span></div></td> <td class="day"><div class="zpflc"><span class="num">0</span></div></td> <td class="day"><div class="zpflc"><span class="num">0</span></div></td> <td class="day"><div class="zpflc"><span class="num">0</span></div></td> <td class="day"><div class="zpflc"><span class="num">0</span></div></td> <td class="day weekend"><div class="zpflc"><span class="num">0</span></div></td></tr>
+<tr class="datelist"><td class="day weekend"><div class="zpflc"><span class="num">0</span></div></td> <td class="day today"><div class="zpflc"><span class="num">0</span></div></td> <td class="day"><div class="zpflc"><span class="num">0</span></div></td> <td class="day"><div class="zpflc"><span class="num">0</span></div></td> <td class="day"><div class="zpflc"><span class="num">0</span></div></td> <td class="day"><div class="zpflc"><span class="num">0</span></div></td> <td class="day weekend"><div class="zpflc"><span class="num">0</span></div></td></tr>
+<tr class="datelist"><td class="day weekend"><div class="zpflc"><span class="num">0</span></div></td> <td class="day today"><div class="zpflc"><span class="num">0</span></div></td> <td class="day"><div class="zpflc"><span class="num">0</span></div></td> <td class="day"><div class="zpflc"><span class="num">0</span></div></td> <td class="day"><div class="zpflc"><span class="num">0</span></div></td> <td class="day"><div class="zpflc"><span class="num">0</span></div></td> <td class="day weekend"><div class="zpflc"><span class="num">0</span></div></td></tr>
+</tbody></table></div><div class="zpfcal ML10" id="tocalendar"><table width="100%" cellspacing="0" cellpadding="0" border="0" class="ZPUsel"><tbody>
+<tr class="monnav"><td colspan="7"><div class="IC-cls gry S13 CP FR MR8" onclick="Calendar.hideDoubleCalendar();"></div><div class="IC-rfesh gry S16 CP FR MR10"></div></td></tr><tr class="monnav"><td colspan="7"><div class="IC-ar-lft gry S16 CP FL ML5"></div><span id="calmonth"></span><div class="IC-ar-rgt gry S16 CP FR MR5"></div></td></tr><tr class="dayslist"><td class="name">Sun</td> <td class="name">Mon</td> <td class="name">Tue</td> <td class="name">Wed</td> <td class="name">Thu</td> <td class="name">Fri</td> <td class="name">Sat</td></tr></tbody> <tbody id="calbody">
+
+<tr class="datelist"><td class="day weekend"><div class="zpflc"><span class="num">0</span></div></td> <td class="day today"><div class="zpflc"><span class="num">0</span></div></td> <td class="day"><div class="zpflc"><span class="num">0</span></div></td> <td class="day"><div class="zpflc"><span class="num">0</span></div></td> <td class="day"><div class="zpflc"><span class="num">0</span></div></td> <td class="day"><div class="zpflc"><span class="num">0</span></div></td> <td class="day weekend"><div class="zpflc"><span class="num">0</span></div></td></tr>
+<tr class="datelist"><td class="day weekend"><div class="zpflc"><span class="num">0</span></div></td> <td class="day today"><div class="zpflc"><span class="num">0</span></div></td> <td class="day"><div class="zpflc"><span class="num">0</span></div></td> <td class="day"><div class="zpflc"><span class="num">0</span></div></td> <td class="day"><div class="zpflc"><span class="num">0</span></div></td> <td class="day"><div class="zpflc"><span class="num">0</span></div></td> <td class="day weekend"><div class="zpflc"><span class="num">0</span></div></td></tr>
+<tr class="datelist"><td class="day weekend"><div class="zpflc"><span class="num">0</span></div></td> <td class="day today"><div class="zpflc"><span class="num">0</span></div></td> <td class="day"><div class="zpflc"><span class="num">0</span></div></td> <td class="day"><div class="zpflc"><span class="num">0</span></div></td> <td class="day"><div class="zpflc"><span class="num">0</span></div></td> <td class="day"><div class="zpflc"><span class="num">0</span></div></td> <td class="day weekend"><div class="zpflc"><span class="num">0</span></div></td></tr>
+<tr class="datelist"><td class="day weekend"><div class="zpflc"><span class="num">0</span></div></td> <td class="day today"><div class="zpflc"><span class="num">0</span></div></td> <td class="day"><div class="zpflc"><span class="num">0</span></div></td> <td class="day"><div class="zpflc"><span class="num">0</span></div></td> <td class="day"><div class="zpflc"><span class="num">0</span></div></td> <td class="day"><div class="zpflc"><span class="num">0</span></div></td> <td class="day weekend"><div class="zpflc"><span class="num">0</span></div></td></tr>
+<tr class="datelist"><td class="day weekend"><div class="zpflc"><span class="num">0</span></div></td> <td class="day today"><div class="zpflc"><span class="num">0</span></div></td> <td class="day"><div class="zpflc"><span class="num">0</span></div></td> <td class="day"><div class="zpflc"><span class="num">0</span></div></td> <td class="day"><div class="zpflc"><span class="num">0</span></div></td> <td class="day"><div class="zpflc"><span class="num">0</span></div></td> <td class="day weekend"><div class="zpflc"><span class="num">0</span></div></td></tr>
+<tr class="datelist"><td class="day weekend"><div class="zpflc"><span class="num">0</span></div></td> <td class="day today"><div class="zpflc"><span class="num">0</span></div></td> <td class="day"><div class="zpflc"><span class="num">0</span></div></td> <td class="day"><div class="zpflc"><span class="num">0</span></div></td> <td class="day"><div class="zpflc"><span class="num">0</span></div></td> <td class="day"><div class="zpflc"><span class="num">0</span></div></td> <td class="day weekend"><div class="zpflc"><span class="num">0</span></div></td></tr>
+<tr class="datelist"><td class="day weekend"><div class="zpflc"><span class="num">0</span></div></td> <td class="day today"><div class="zpflc"><span class="num">0</span></div></td> <td class="day"><div class="zpflc"><span class="num">0</span></div></td> <td class="day"><div class="zpflc"><span class="num">0</span></div></td> <td class="day"><div class="zpflc"><span class="num">0</span></div></td> <td class="day"><div class="zpflc"><span class="num">0</span></div></td> <td class="day weekend"><div class="zpflc"><span class="num">0</span></div></td></tr>
+</tbody></table></div></div><!-- $Id$ -->
+
+<div id="monthcalendardiv" class="DN"><div id="monthcal"><div class="ZP-monthhead"><table class="table"><thead> <tr><td class="zpcaldays"> <div class="ZP-monthcol">Sun</div></td>
+<td class="zpcaldays"> <div class="ZP-monthcol">Mon</div></td>
+<td class="zpcaldays"> <div class="ZP-monthcol">Tue</div></td>
+<td class="zpcaldays"> <div class="ZP-monthcol">Wed</div></td>
+<td class="zpcaldays"> <div class="ZP-monthcol">Thu</div></td>
+<td class="zpcaldays"> <div class="ZP-monthcol">Fri</div></td>
+<td class="zpcaldays"> <div class="ZP-monthcol">Sat</div></td>
+<td class="zpcaldays zpcaltot DN"><div class="ZP-monthcol">Total</div></td></tr></thead></table></div><div class="Scrcont ZP-monthtable"><div id="monthcalendarbody" class="table-responsive"><table class="table"><tbody id="calbody"> <tr>
+<td class="zpcaldays"> <div class="ZP-monthcol not-thismonth"> <b></b> 
+<span>0</span></div></td> 
+<td class="zpcaldays"> <div class="ZP-monthcol not-thismonth"> <b></b> 
+<span>0</span></div></td> 
+<td class="zpcaldays"> <div class="ZP-monthcol not-thismonth">
+<span>0</span></div></td> 
+<td class="zpcaldays"> <div class="ZP-monthcol not-thismonth">
+<span>0</span></div></td> 
+<td class="zpcaldays"> <div class="ZP-monthcol not-thismonth">
+<span>0</span></div></td> 
+<td class="zpcaldays"> <div class="ZP-monthcol not-thismonth">
+<span>0</span></div></td> 
+<td class="zpcaldays"> <div class="ZP-monthcol"><span>0</span></div></td> <td class="zpcaltotal"></td></tr><tr>
+<td class="zpcaldays"> <div class="ZP-monthcol not-thismonth"> <b></b> 
+<span>0</span></div></td> 
+<td class="zpcaldays"> <div class="ZP-monthcol not-thismonth"> <b></b> 
+<span>0</span></div></td> 
+<td class="zpcaldays"> <div class="ZP-monthcol not-thismonth">
+<span>0</span></div></td> 
+<td class="zpcaldays"> <div class="ZP-monthcol not-thismonth">
+<span>0</span></div></td> 
+<td class="zpcaldays"> <div class="ZP-monthcol not-thismonth">
+<span>0</span></div></td> 
+<td class="zpcaldays"> <div class="ZP-monthcol not-thismonth">
+<span>0</span></div></td> 
+<td class="zpcaldays"> <div class="ZP-monthcol"><span>0</span></div></td> <td class="zpcaltotal"></td></tr><tr>
+<td class="zpcaldays"> <div class="ZP-monthcol not-thismonth"> <b></b> 
+<span>0</span></div></td> 
+<td class="zpcaldays"> <div class="ZP-monthcol not-thismonth"> <b></b> 
+<span>0</span></div></td> 
+<td class="zpcaldays"> <div class="ZP-monthcol not-thismonth">
+<span>0</span></div></td> 
+<td class="zpcaldays"> <div class="ZP-monthcol not-thismonth">
+<span>0</span></div></td> 
+<td class="zpcaldays"> <div class="ZP-monthcol not-thismonth">
+<span>0</span></div></td> 
+<td class="zpcaldays"> <div class="ZP-monthcol not-thismonth">
+<span>0</span></div></td> 
+<td class="zpcaldays"> <div class="ZP-monthcol"><span>0</span></div></td> <td class="zpcaltotal"></td></tr><tr>
+<td class="zpcaldays"> <div class="ZP-monthcol not-thismonth"> <b></b> 
+<span>0</span></div></td> 
+<td class="zpcaldays"> <div class="ZP-monthcol not-thismonth"> <b></b> 
+<span>0</span></div></td> 
+<td class="zpcaldays"> <div class="ZP-monthcol not-thismonth">
+<span>0</span></div></td> 
+<td class="zpcaldays"> <div class="ZP-monthcol not-thismonth">
+<span>0</span></div></td> 
+<td class="zpcaldays"> <div class="ZP-monthcol not-thismonth">
+<span>0</span></div></td> 
+<td class="zpcaldays"> <div class="ZP-monthcol not-thismonth">
+<span>0</span></div></td> 
+<td class="zpcaldays"> <div class="ZP-monthcol"><span>0</span></div></td> <td class="zpcaltotal"></td></tr><tr>
+<td class="zpcaldays"> <div class="ZP-monthcol not-thismonth"> <b></b> 
+<span>0</span></div></td> 
+<td class="zpcaldays"> <div class="ZP-monthcol not-thismonth"> <b></b> 
+<span>0</span></div></td> 
+<td class="zpcaldays"> <div class="ZP-monthcol not-thismonth">
+<span>0</span></div></td> 
+<td class="zpcaldays"> <div class="ZP-monthcol not-thismonth">
+<span>0</span></div></td> 
+<td class="zpcaldays"> <div class="ZP-monthcol not-thismonth">
+<span>0</span></div></td> 
+<td class="zpcaldays"> <div class="ZP-monthcol not-thismonth">
+<span>0</span></div></td> 
+<td class="zpcaldays"> <div class="ZP-monthcol"><span>0</span></div></td> <td class="zpcaltotal"></td></tr><tr>
+<td class="zpcaldays"> <div class="ZP-monthcol not-thismonth"> <b></b> 
+<span>0</span></div></td> 
+<td class="zpcaldays"> <div class="ZP-monthcol not-thismonth"> <b></b> 
+<span>0</span></div></td> 
+<td class="zpcaldays"> <div class="ZP-monthcol not-thismonth">
+<span>0</span></div></td> 
+<td class="zpcaldays"> <div class="ZP-monthcol not-thismonth">
+<span>0</span></div></td> 
+<td class="zpcaldays"> <div class="ZP-monthcol not-thismonth">
+<span>0</span></div></td> 
+<td class="zpcaldays"> <div class="ZP-monthcol not-thismonth">
+<span>0</span></div></td> 
+<td class="zpcaldays"> <div class="ZP-monthcol"><span>0</span></div></td> <td class="zpcaltotal"></td></tr>
+</tbody></table></div></div></div><div id="weekcal" class="DN"><!--calendar head-->
+<div class="ZP-weekhead"><table class="table"><thead> <tr>
+<td> <div class="ZP-weekcol"></div></td> 
+<td> <div class="ZP-weekcol"></div></td> 
+<td> <div class="ZP-weekcol"></div></td> 
+<td> <div class="ZP-weekcol"></div></td> 
+<td> <div class="ZP-weekcol"></div></td> 
+<td> <div class="ZP-weekcol"></div></td> 
+<td> <div class="ZP-weekcol"></div></td> 
+<td> <div class="ZP-weekcol"></div></td> </tr></thead></table></div><div class="ZP-weektop"><table class="table"><thead> <tr>
+<td> <div class="ZP-weekcol"><div class="ZP-calline"></div><div class="ZP-calline"></div></div></td> 
+<td> <div class="ZP-weekcol"><div class="ZP-calline"></div><div class="ZP-calline"></div></div></td> 
+<td> <div class="ZP-weekcol"><div class="ZP-calline"></div><div class="ZP-calline"></div></div></td> 
+<td> <div class="ZP-weekcol"><div class="ZP-calline"></div><div class="ZP-calline"></div></div></td> 
+<td> <div class="ZP-weekcol"><div class="ZP-calline"></div><div class="ZP-calline"></div></div></td> 
+<td> <div class="ZP-weekcol"><div class="ZP-calline"></div><div class="ZP-calline"></div></div></td> 
+<td> <div class="ZP-weekcol"><div class="ZP-calline"></div><div class="ZP-calline"></div></div></td> 
+<td> <div class="ZP-weekcol"><div class="ZP-calline"></div><div class="ZP-calline"></div></div></td> </tr><tr>
+<td> <div class="ZP-topcol"></div></td> 
+<td> <div class="ZP-topcol"></div></td> 
+<td> <div class="ZP-topcol"></div></td> 
+<td> <div class="ZP-topcol"></div></td> 
+<td> <div class="ZP-topcol"></div></td> 
+<td> <div class="ZP-topcol"></div></td> 
+<td> <div class="ZP-topcol"></div></td> 
+<td> <div class="ZP-topcol"></div></td> </tr></thead></table></div><!--/calendar head-->
+<!--calendar  body-->
+<div id="weekcontent" class="Scrcont"><div class="table-responsive"><table class="table"><tbody>
+<tr><td> <div class="ZPCalTday ZPCdp" id="currenttimedoticon"><span class="ZPCdot"></span></div><div class="ZP-weekcol">12 AM</div>
+<div class="ZP-weekcol">1 AM</div>
+<div class="ZP-weekcol">2 AM</div>
+<div class="ZP-weekcol">3 AM</div>
+<div class="ZP-weekcol">4 AM</div>
+<div class="ZP-weekcol">5 AM</div>
+<div class="ZP-weekcol">6 AM</div>
+<div class="ZP-weekcol">7 AM</div>
+<div class="ZP-weekcol">8 AM</div>
+<div class="ZP-weekcol">9 AM</div>
+<div class="ZP-weekcol">10 AM</div>
+<div class="ZP-weekcol">11 AM</div>
+<div class="ZP-weekcol">12 PM</div>
+<div class="ZP-weekcol">1 PM</div>
+<div class="ZP-weekcol">2 PM</div>
+<div class="ZP-weekcol">3 PM</div>
+<div class="ZP-weekcol">4 PM</div>
+<div class="ZP-weekcol">5 PM</div>
+<div class="ZP-weekcol">6 PM</div>
+<div class="ZP-weekcol">7 PM</div>
+<div class="ZP-weekcol">8 PM</div>
+<div class="ZP-weekcol">9 PM</div>
+<div class="ZP-weekcol">10 PM</div>
+<div class="ZP-weekcol">11 PM</div> </td>
+<td id="column0"> 
+<div class="ZP-weekcol"><div class="ZP-calline"></div><div class="ZP-calline"></div></div>
+<div class="ZP-weekcol"><div class="ZP-calline"></div><div class="ZP-calline"></div></div>
+<div class="ZP-weekcol"><div class="ZP-calline"></div><div class="ZP-calline"></div></div>
+<div class="ZP-weekcol"><div class="ZP-calline"></div><div class="ZP-calline"></div></div>
+<div class="ZP-weekcol"><div class="ZP-calline"></div><div class="ZP-calline"></div></div>
+<div class="ZP-weekcol"><div class="ZP-calline"></div><div class="ZP-calline"></div></div>
+<div class="ZP-weekcol"><div class="ZP-calline"></div><div class="ZP-calline"></div></div>
+<div class="ZP-weekcol"><div class="ZP-calline"></div><div class="ZP-calline"></div></div>
+<div class="ZP-weekcol"><div class="ZP-calline"></div><div class="ZP-calline"></div></div>
+<div class="ZP-weekcol"><div class="ZP-calline"></div><div class="ZP-calline"></div></div>
+<div class="ZP-weekcol"><div class="ZP-calline"></div><div class="ZP-calline"></div></div>
+<div class="ZP-weekcol"><div class="ZP-calline"></div><div class="ZP-calline"></div></div>
+<div class="ZP-weekcol"><div class="ZP-calline"></div><div class="ZP-calline"></div></div>
+<div class="ZP-weekcol"><div class="ZP-calline"></div><div class="ZP-calline"></div></div>
+<div class="ZP-weekcol"><div class="ZP-calline"></div><div class="ZP-calline"></div></div>
+<div class="ZP-weekcol"><div class="ZP-calline"></div><div class="ZP-calline"></div></div>
+<div class="ZP-weekcol"><div class="ZP-calline"></div><div class="ZP-calline"></div></div>
+<div class="ZP-weekcol"><div class="ZP-calline"></div><div class="ZP-calline"></div></div>
+<div class="ZP-weekcol"><div class="ZP-calline"></div><div class="ZP-calline"></div></div>
+<div class="ZP-weekcol"><div class="ZP-calline"></div><div class="ZP-calline"></div></div>
+<div class="ZP-weekcol"><div class="ZP-calline"></div><div class="ZP-calline"></div></div>
+<div class="ZP-weekcol"><div class="ZP-calline"></div><div class="ZP-calline"></div></div>
+<div class="ZP-weekcol"><div class="ZP-calline"></div><div class="ZP-calline"></div></div>
+<div class="ZP-weekcol"><div class="ZP-calline"></div><div class="ZP-calline"></div></div> </td>
+<td id="column1"> 
+<div class="ZP-weekcol"><div class="ZP-calline"></div><div class="ZP-calline"></div></div>
+<div class="ZP-weekcol"><div class="ZP-calline"></div><div class="ZP-calline"></div></div>
+<div class="ZP-weekcol"><div class="ZP-calline"></div><div class="ZP-calline"></div></div>
+<div class="ZP-weekcol"><div class="ZP-calline"></div><div class="ZP-calline"></div></div>
+<div class="ZP-weekcol"><div class="ZP-calline"></div><div class="ZP-calline"></div></div>
+<div class="ZP-weekcol"><div class="ZP-calline"></div><div class="ZP-calline"></div></div>
+<div class="ZP-weekcol"><div class="ZP-calline"></div><div class="ZP-calline"></div></div>
+<div class="ZP-weekcol"><div class="ZP-calline"></div><div class="ZP-calline"></div></div>
+<div class="ZP-weekcol"><div class="ZP-calline"></div><div class="ZP-calline"></div></div>
+<div class="ZP-weekcol"><div class="ZP-calline"></div><div class="ZP-calline"></div></div>
+<div class="ZP-weekcol"><div class="ZP-calline"></div><div class="ZP-calline"></div></div>
+<div class="ZP-weekcol"><div class="ZP-calline"></div><div class="ZP-calline"></div></div>
+<div class="ZP-weekcol"><div class="ZP-calline"></div><div class="ZP-calline"></div></div>
+<div class="ZP-weekcol"><div class="ZP-calline"></div><div class="ZP-calline"></div></div>
+<div class="ZP-weekcol"><div class="ZP-calline"></div><div class="ZP-calline"></div></div>
+<div class="ZP-weekcol"><div class="ZP-calline"></div><div class="ZP-calline"></div></div>
+<div class="ZP-weekcol"><div class="ZP-calline"></div><div class="ZP-calline"></div></div>
+<div class="ZP-weekcol"><div class="ZP-calline"></div><div class="ZP-calline"></div></div>
+<div class="ZP-weekcol"><div class="ZP-calline"></div><div class="ZP-calline"></div></div>
+<div class="ZP-weekcol"><div class="ZP-calline"></div><div class="ZP-calline"></div></div>
+<div class="ZP-weekcol"><div class="ZP-calline"></div><div class="ZP-calline"></div></div>
+<div class="ZP-weekcol"><div class="ZP-calline"></div><div class="ZP-calline"></div></div>
+<div class="ZP-weekcol"><div class="ZP-calline"></div><div class="ZP-calline"></div></div>
+<div class="ZP-weekcol"><div class="ZP-calline"></div><div class="ZP-calline"></div></div> </td>
+<td id="column2"> 
+<div class="ZP-weekcol"><div class="ZP-calline"></div><div class="ZP-calline"></div></div>
+<div class="ZP-weekcol"><div class="ZP-calline"></div><div class="ZP-calline"></div></div>
+<div class="ZP-weekcol"><div class="ZP-calline"></div><div class="ZP-calline"></div></div>
+<div class="ZP-weekcol"><div class="ZP-calline"></div><div class="ZP-calline"></div></div>
+<div class="ZP-weekcol"><div class="ZP-calline"></div><div class="ZP-calline"></div></div>
+<div class="ZP-weekcol"><div class="ZP-calline"></div><div class="ZP-calline"></div></div>
+<div class="ZP-weekcol"><div class="ZP-calline"></div><div class="ZP-calline"></div></div>
+<div class="ZP-weekcol"><div class="ZP-calline"></div><div class="ZP-calline"></div></div>
+<div class="ZP-weekcol"><div class="ZP-calline"></div><div class="ZP-calline"></div></div>
+<div class="ZP-weekcol"><div class="ZP-calline"></div><div class="ZP-calline"></div></div>
+<div class="ZP-weekcol"><div class="ZP-calline"></div><div class="ZP-calline"></div></div>
+<div class="ZP-weekcol"><div class="ZP-calline"></div><div class="ZP-calline"></div></div>
+<div class="ZP-weekcol"><div class="ZP-calline"></div><div class="ZP-calline"></div></div>
+<div class="ZP-weekcol"><div class="ZP-calline"></div><div class="ZP-calline"></div></div>
+<div class="ZP-weekcol"><div class="ZP-calline"></div><div class="ZP-calline"></div></div>
+<div class="ZP-weekcol"><div class="ZP-calline"></div><div class="ZP-calline"></div></div>
+<div class="ZP-weekcol"><div class="ZP-calline"></div><div class="ZP-calline"></div></div>
+<div class="ZP-weekcol"><div class="ZP-calline"></div><div class="ZP-calline"></div></div>
+<div class="ZP-weekcol"><div class="ZP-calline"></div><div class="ZP-calline"></div></div>
+<div class="ZP-weekcol"><div class="ZP-calline"></div><div class="ZP-calline"></div></div>
+<div class="ZP-weekcol"><div class="ZP-calline"></div><div class="ZP-calline"></div></div>
+<div class="ZP-weekcol"><div class="ZP-calline"></div><div class="ZP-calline"></div></div>
+<div class="ZP-weekcol"><div class="ZP-calline"></div><div class="ZP-calline"></div></div>
+<div class="ZP-weekcol"><div class="ZP-calline"></div><div class="ZP-calline"></div></div> </td>
+<td id="column3"> 
+<div class="ZP-weekcol"><div class="ZP-calline"></div><div class="ZP-calline"></div></div>
+<div class="ZP-weekcol"><div class="ZP-calline"></div><div class="ZP-calline"></div></div>
+<div class="ZP-weekcol"><div class="ZP-calline"></div><div class="ZP-calline"></div></div>
+<div class="ZP-weekcol"><div class="ZP-calline"></div><div class="ZP-calline"></div></div>
+<div class="ZP-weekcol"><div class="ZP-calline"></div><div class="ZP-calline"></div></div>
+<div class="ZP-weekcol"><div class="ZP-calline"></div><div class="ZP-calline"></div></div>
+<div class="ZP-weekcol"><div class="ZP-calline"></div><div class="ZP-calline"></div></div>
+<div class="ZP-weekcol"><div class="ZP-calline"></div><div class="ZP-calline"></div></div>
+<div class="ZP-weekcol"><div class="ZP-calline"></div><div class="ZP-calline"></div></div>
+<div class="ZP-weekcol"><div class="ZP-calline"></div><div class="ZP-calline"></div></div>
+<div class="ZP-weekcol"><div class="ZP-calline"></div><div class="ZP-calline"></div></div>
+<div class="ZP-weekcol"><div class="ZP-calline"></div><div class="ZP-calline"></div></div>
+<div class="ZP-weekcol"><div class="ZP-calline"></div><div class="ZP-calline"></div></div>
+<div class="ZP-weekcol"><div class="ZP-calline"></div><div class="ZP-calline"></div></div>
+<div class="ZP-weekcol"><div class="ZP-calline"></div><div class="ZP-calline"></div></div>
+<div class="ZP-weekcol"><div class="ZP-calline"></div><div class="ZP-calline"></div></div>
+<div class="ZP-weekcol"><div class="ZP-calline"></div><div class="ZP-calline"></div></div>
+<div class="ZP-weekcol"><div class="ZP-calline"></div><div class="ZP-calline"></div></div>
+<div class="ZP-weekcol"><div class="ZP-calline"></div><div class="ZP-calline"></div></div>
+<div class="ZP-weekcol"><div class="ZP-calline"></div><div class="ZP-calline"></div></div>
+<div class="ZP-weekcol"><div class="ZP-calline"></div><div class="ZP-calline"></div></div>
+<div class="ZP-weekcol"><div class="ZP-calline"></div><div class="ZP-calline"></div></div>
+<div class="ZP-weekcol"><div class="ZP-calline"></div><div class="ZP-calline"></div></div>
+<div class="ZP-weekcol"><div class="ZP-calline"></div><div class="ZP-calline"></div></div> </td>
+<td id="column4"> 
+<div class="ZP-weekcol"><div class="ZP-calline"></div><div class="ZP-calline"></div></div>
+<div class="ZP-weekcol"><div class="ZP-calline"></div><div class="ZP-calline"></div></div>
+<div class="ZP-weekcol"><div class="ZP-calline"></div><div class="ZP-calline"></div></div>
+<div class="ZP-weekcol"><div class="ZP-calline"></div><div class="ZP-calline"></div></div>
+<div class="ZP-weekcol"><div class="ZP-calline"></div><div class="ZP-calline"></div></div>
+<div class="ZP-weekcol"><div class="ZP-calline"></div><div class="ZP-calline"></div></div>
+<div class="ZP-weekcol"><div class="ZP-calline"></div><div class="ZP-calline"></div></div>
+<div class="ZP-weekcol"><div class="ZP-calline"></div><div class="ZP-calline"></div></div>
+<div class="ZP-weekcol"><div class="ZP-calline"></div><div class="ZP-calline"></div></div>
+<div class="ZP-weekcol"><div class="ZP-calline"></div><div class="ZP-calline"></div></div>
+<div class="ZP-weekcol"><div class="ZP-calline"></div><div class="ZP-calline"></div></div>
+<div class="ZP-weekcol"><div class="ZP-calline"></div><div class="ZP-calline"></div></div>
+<div class="ZP-weekcol"><div class="ZP-calline"></div><div class="ZP-calline"></div></div>
+<div class="ZP-weekcol"><div class="ZP-calline"></div><div class="ZP-calline"></div></div>
+<div class="ZP-weekcol"><div class="ZP-calline"></div><div class="ZP-calline"></div></div>
+<div class="ZP-weekcol"><div class="ZP-calline"></div><div class="ZP-calline"></div></div>
+<div class="ZP-weekcol"><div class="ZP-calline"></div><div class="ZP-calline"></div></div>
+<div class="ZP-weekcol"><div class="ZP-calline"></div><div class="ZP-calline"></div></div>
+<div class="ZP-weekcol"><div class="ZP-calline"></div><div class="ZP-calline"></div></div>
+<div class="ZP-weekcol"><div class="ZP-calline"></div><div class="ZP-calline"></div></div>
+<div class="ZP-weekcol"><div class="ZP-calline"></div><div class="ZP-calline"></div></div>
+<div class="ZP-weekcol"><div class="ZP-calline"></div><div class="ZP-calline"></div></div>
+<div class="ZP-weekcol"><div class="ZP-calline"></div><div class="ZP-calline"></div></div>
+<div class="ZP-weekcol"><div class="ZP-calline"></div><div class="ZP-calline"></div></div> </td>
+<td id="column5"> 
+<div class="ZP-weekcol"><div class="ZP-calline"></div><div class="ZP-calline"></div></div>
+<div class="ZP-weekcol"><div class="ZP-calline"></div><div class="ZP-calline"></div></div>
+<div class="ZP-weekcol"><div class="ZP-calline"></div><div class="ZP-calline"></div></div>
+<div class="ZP-weekcol"><div class="ZP-calline"></div><div class="ZP-calline"></div></div>
+<div class="ZP-weekcol"><div class="ZP-calline"></div><div class="ZP-calline"></div></div>
+<div class="ZP-weekcol"><div class="ZP-calline"></div><div class="ZP-calline"></div></div>
+<div class="ZP-weekcol"><div class="ZP-calline"></div><div class="ZP-calline"></div></div>
+<div class="ZP-weekcol"><div class="ZP-calline"></div><div class="ZP-calline"></div></div>
+<div class="ZP-weekcol"><div class="ZP-calline"></div><div class="ZP-calline"></div></div>
+<div class="ZP-weekcol"><div class="ZP-calline"></div><div class="ZP-calline"></div></div>
+<div class="ZP-weekcol"><div class="ZP-calline"></div><div class="ZP-calline"></div></div>
+<div class="ZP-weekcol"><div class="ZP-calline"></div><div class="ZP-calline"></div></div>
+<div class="ZP-weekcol"><div class="ZP-calline"></div><div class="ZP-calline"></div></div>
+<div class="ZP-weekcol"><div class="ZP-calline"></div><div class="ZP-calline"></div></div>
+<div class="ZP-weekcol"><div class="ZP-calline"></div><div class="ZP-calline"></div></div>
+<div class="ZP-weekcol"><div class="ZP-calline"></div><div class="ZP-calline"></div></div>
+<div class="ZP-weekcol"><div class="ZP-calline"></div><div class="ZP-calline"></div></div>
+<div class="ZP-weekcol"><div class="ZP-calline"></div><div class="ZP-calline"></div></div>
+<div class="ZP-weekcol"><div class="ZP-calline"></div><div class="ZP-calline"></div></div>
+<div class="ZP-weekcol"><div class="ZP-calline"></div><div class="ZP-calline"></div></div>
+<div class="ZP-weekcol"><div class="ZP-calline"></div><div class="ZP-calline"></div></div>
+<div class="ZP-weekcol"><div class="ZP-calline"></div><div class="ZP-calline"></div></div>
+<div class="ZP-weekcol"><div class="ZP-calline"></div><div class="ZP-calline"></div></div>
+<div class="ZP-weekcol"><div class="ZP-calline"></div><div class="ZP-calline"></div></div> </td>
+<td id="column6"> 
+<div class="ZP-weekcol"><div class="ZP-calline"></div><div class="ZP-calline"></div></div>
+<div class="ZP-weekcol"><div class="ZP-calline"></div><div class="ZP-calline"></div></div>
+<div class="ZP-weekcol"><div class="ZP-calline"></div><div class="ZP-calline"></div></div>
+<div class="ZP-weekcol"><div class="ZP-calline"></div><div class="ZP-calline"></div></div>
+<div class="ZP-weekcol"><div class="ZP-calline"></div><div class="ZP-calline"></div></div>
+<div class="ZP-weekcol"><div class="ZP-calline"></div><div class="ZP-calline"></div></div>
+<div class="ZP-weekcol"><div class="ZP-calline"></div><div class="ZP-calline"></div></div>
+<div class="ZP-weekcol"><div class="ZP-calline"></div><div class="ZP-calline"></div></div>
+<div class="ZP-weekcol"><div class="ZP-calline"></div><div class="ZP-calline"></div></div>
+<div class="ZP-weekcol"><div class="ZP-calline"></div><div class="ZP-calline"></div></div>
+<div class="ZP-weekcol"><div class="ZP-calline"></div><div class="ZP-calline"></div></div>
+<div class="ZP-weekcol"><div class="ZP-calline"></div><div class="ZP-calline"></div></div>
+<div class="ZP-weekcol"><div class="ZP-calline"></div><div class="ZP-calline"></div></div>
+<div class="ZP-weekcol"><div class="ZP-calline"></div><div class="ZP-calline"></div></div>
+<div class="ZP-weekcol"><div class="ZP-calline"></div><div class="ZP-calline"></div></div>
+<div class="ZP-weekcol"><div class="ZP-calline"></div><div class="ZP-calline"></div></div>
+<div class="ZP-weekcol"><div class="ZP-calline"></div><div class="ZP-calline"></div></div>
+<div class="ZP-weekcol"><div class="ZP-calline"></div><div class="ZP-calline"></div></div>
+<div class="ZP-weekcol"><div class="ZP-calline"></div><div class="ZP-calline"></div></div>
+<div class="ZP-weekcol"><div class="ZP-calline"></div><div class="ZP-calline"></div></div>
+<div class="ZP-weekcol"><div class="ZP-calline"></div><div class="ZP-calline"></div></div>
+<div class="ZP-weekcol"><div class="ZP-calline"></div><div class="ZP-calline"></div></div>
+<div class="ZP-weekcol"><div class="ZP-calline"></div><div class="ZP-calline"></div></div>
+<div class="ZP-weekcol"><div class="ZP-calline"></div><div class="ZP-calline"></div></div> </td></tr></tbody></table></div></div><!--/calendar body--></div></div>
+</body><script>var version=0;
+var number=ZPeople.getCookie("People_banner"); // No I18N
+version = '1'; //NO OUTPUTENCODING
+  
+if(version != null && version != undefined && version !=""){
+if(number == version){
+$("#peoplebanner").hide();
+$("#wrapper").removeClass('tban');
+}else if(number != version){
+$("#peoplebanner").show();
+$("#wrapper").addClass('tban');
+}
+}
+</script></html>
