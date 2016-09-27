@@ -1,0 +1,39 @@
+<!DOCTYPE html>
+<html>
+<head>
+<script src="https://ajax.googleapis.com/ajax/libs/jquery/1.12.4/jquery.min.js"></script>
+<script>
+$(document).ready(function(){
+    $("button").click(function(){
+		$.ajax({
+			type : "POST",
+			url : "http://192.168.1.96:8989/SCBSherlock/movie/",
+			data : JSON.stringify({
+				name : "Gerry",
+				address : "Sydney"
+			}),
+			headers: { 
+			'Accept': 'application/json',
+			'Content-Type': 'application/json' 
+			},
+			success : function(data) {
+				if (data.status == 'OK')
+					alert('Person has been added');
+				else
+					alert('Failed adding person: '
+						+ data.status + ', '
+						+ data.errorMessage);
+			}
+		});
+    	});
+});
+</script>
+</head>
+<body>
+
+<button>Send an HTTP POST request to a page and get the result back</button>
+
+</body>
+</html>
+
+
